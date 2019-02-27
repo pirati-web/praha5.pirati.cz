@@ -4,7 +4,7 @@ category: blog
 tags: Praha-5
 layout: post
 title: Co jsme v poslední době na Praze 5 dokázali?
-author: Filip Karel
+author: 
 # authorId:  uid nekoho z _people (nepovinné)
 image: posts/jednani.jpg
 ---
