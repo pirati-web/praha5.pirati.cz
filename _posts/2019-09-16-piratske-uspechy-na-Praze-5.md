@@ -3,7 +3,7 @@ date: 2019-09-16
 category: blog
 tags: Praha-5
 layout: post
-title: "Pirátské úspěchy ve vedneí Prahy 5"
+title: "Pirátské úspěchy ve vedení Prahy 5"
 author: 
 # authorId:  uid nekoho z _people (nepovinné)
 image: posts/radnice.jpg
