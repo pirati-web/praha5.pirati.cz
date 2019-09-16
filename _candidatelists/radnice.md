@@ -63,6 +63,9 @@ tail:
     age: 66
     profession: informatik, sportovec
     party: SNOP 5
-
+  - name: Linda Neubergová
+    age: 40
+    profession: manažerka klientského účtu v reklamní agentuře
+    party: Piráti
    
 ---
