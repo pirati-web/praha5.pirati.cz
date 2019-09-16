@@ -35,3 +35,5 @@ Po vítězných volbách v říjnu 2018 se stal pirátský kandidát Daniel Mazu
 20.	Další problémy řešíme (vadná smlouva se Vzdělávacím a informačním centrem Prahy 5, o.p.s. a nedostatečné možnosti kontroly této organizace založené naší městskou částí, neoprávněné vyplacení části odměn zastupitelům v roce 2018). 
 
 **To vše a další „drobnosti“ za necelý rok. Děkujeme Vám za důvěru! **
+
+--
