@@ -11,7 +11,7 @@ image: posts/radnice.jpg
 
 Po vítězných volbách v říjnu 2018 se stal pirátský kandidát Daniel Mazur starostou Prahy 5 a Pirátská strana se jako součást koalice snažila o prosazování svého programu. Zaměřovali jsme se zejména na oblasti otevřené radnice (zprůhlednění procesů ve fungování úřadu - včetně veřejných zakázek), územního rozvoje a strategického plánování.
 
-Co se nám podařilo: 
+**Co se nám podařilo**: 
 
 1.	Držíme slovo a prosazujeme veřejný zájem ve vztahu k developerům. Při posuzování návrhů na změny Územního plánu HMP jsme v souladu s volebním programem bránili a v naprosté většině zabránili změnám "zeleně" na "výstavbu".
 2.	Řešíme veřejné zakázky s ohledem na hospodárnost, např. podle auditu skoro dvojnásobně předraženou opravu dětské hřiště v ulici Kudrnova.
@@ -34,4 +34,4 @@ Co se nám podařilo:
 19.	Odhalili jsme řadu konkrétních nedostatků v pravidlech a činnostech samosprávy a zjednali nápravu (pravidla pro nájem bytů, postup při odsvěření majetku, publikování smluv v registru, zásady pro odpouštění pohledávek).
 20.	Další problémy řešíme (vadná smlouva se Vzdělávacím a informačním centrem Prahy 5, o.p.s. a nedostatečné možnosti kontroly této organizace založené naší městskou částí, neoprávněné vyplacení části odměn zastupitelům v roce 2018). 
 
-To vše a další „drobnosti“ za necelý rok. Děkujeme Vám za důvěru! 
+**To vše a další „drobnosti“ za necelý rok. Děkujeme Vám za důvěru! **
