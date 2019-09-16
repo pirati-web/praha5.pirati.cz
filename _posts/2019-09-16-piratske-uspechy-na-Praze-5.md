@@ -9,7 +9,7 @@ author:
 image: posts/radnice.jpg
 ---
 
-Po vítězných volbách v říjnu 2018 se stal pirátský kandidát Daniel Mazur starostou Prahy 5 a Pirátská strana se jako součást koalice snažila o prosazování svého programu.
+Po vítězných volbách v říjnu 2018 se stal pirátský kandidát Daniel Mazur starostou Prahy 5 a Pirátská strana se jako součást koalice snažila o prosazování svého programu. Zaměřovali jsme se zejména na oblasti otevřené radnice (zprůhlednění procesů ve fungování úřadu - včetně veřejných zakázek), územního rozvoje a strategického plánování.
 
 Co se nám podařilo: 
 
