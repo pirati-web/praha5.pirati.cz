@@ -133,7 +133,7 @@ DEPENDENCIES
   jekyll-theme-pirati (~> 6.7.2)
   json
   mini_magick
-  sprockets (~> 4.0.0.beta)
+  sprockets (~> 4.0.0.beta8)
   tzinfo-data
   uglifier (~> 4.0.0)
 
