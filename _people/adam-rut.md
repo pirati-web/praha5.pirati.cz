@@ -7,7 +7,7 @@ titles:
 category:
   - clenove
 ordclenove: 3
-description: Člen Pirátů # zobrazuje se v lide
+description: Člen místního sdružení # zobrazuje se v lide
 profession: Analytik a projektový manažer
 img: people/adam-rut.png # zakomentuj radek dokud není fotka
 mail:
