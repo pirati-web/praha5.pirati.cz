@@ -16,3 +16,8 @@ Pokud chcete přispět na volební kampaň Pirátů na Praze 5, můžete dar pos
 
 *<sup>\*</sup>Odesláním příspěvku s osobními údaji uzavíráte s Pirátskou stranou darovací smlouvu a udělujete jí souhlas ke zpracování osobních údajů v souladu se zákonem č. 101/2000 Sb. o ochraně osobních údajů za účelem zpracování a přiznání daru a zasílání informací o Pirátské straně, a to i elektronickými prostředky. Vámi uvedená data budou podle zákona 424/1991 Sb. o sdružování v politických stranách a hnutích součástí výroční finanční zprávy politické strany (částka, jméno, příjmení a datum narození nebo název a identifikační číslo právnické osoby).*
 
+<div class="o-section-header o-section-header--indented">
+  <h1 class="t-h2-alt">Pirátské listy</h1>
+</div>
+
+Přečtěte si [podzimní Pirátské listy Prahy 5](/assets/piratske-listy-podzim-2019.pdf). 
