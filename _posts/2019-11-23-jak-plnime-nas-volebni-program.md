@@ -9,7 +9,7 @@ author: Redakce PL
 image: posts/pano.jpg
 ---
 
-Pirátský volební program pro územní rozvoj MČ Praha 5 byl postaven na těchto základních heslech: 
+Pirátský volební program pro územní rozvoj MČ Praha 5 byl postaven na těchto základních heslech
 
 1. Nepřipustíme zástavbu na úkor zeleně. 
 2. Ochráníme charakter tradičních rezidenčních čtvrtí. 
