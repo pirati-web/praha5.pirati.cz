@@ -6,7 +6,7 @@ layout: post
 title: "Piráti se podíleli na úspěšné akci SWOT analýza základních škol Prahy 5"
 author: Filip Karel
 # authorId:  uid nekoho z _people (nepovinné)
-image: posts/swot-siroka.png
+image: posts/swot-siroka.jpg
 ---
 
 Dnes byly oficiálně představeny výstupy rozsáhlé akce SWOT analýza základních škol Prahy 5. Jednalo se o poměrně unikátní počin MČ Praha 5, na kterém se Piráti výrazně podíleli. Během akce byly zjišťovány informace o všech třinácti ZŠ zřizovaných MČ, zapojeni byli všichni zaměstnanci škol, dětí i jejich rodiče. Výstupy budou sloužit hlavně městské části pro sestavení dlouhodobých plánů v oblasti školství a také vedení jednotlivých škol jako podklady pro zlepšování činnosti.
