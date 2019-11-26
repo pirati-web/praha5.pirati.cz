@@ -3,7 +3,7 @@ date: 2019-11-26
 category: blog
 tags: Praha-5
 layout: post
-title: "Piráti se podíleli na úspěšné akci SWOT analýza škol Prahy 5"
+title: "Piráti se podíleli na úspěšné akci SWOT analýza základních škol Prahy 5"
 author: Filip Karel
 # authorId:  uid nekoho z _people (nepovinné)
 image: posts/swot-obrazek.png
