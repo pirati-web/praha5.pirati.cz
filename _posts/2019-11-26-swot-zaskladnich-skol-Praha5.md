@@ -17,4 +17,4 @@ MČ Praha 5 vydává na oblast školství přes 250 milionů ročně (příspěv
 
 Spolupráce z naší strany probíhala i po tom, co došlo během září 2019 k odsunutí Pirátů do opozice (a to i přesto, že nová koalice nebyla schopna nabídnout Pirátům ani jedno místo v nově vzniklém Školském výboru). Kromě SWOT analýzy jsme se podíleli i na dalších dokumentech týkajících se demografického vývoje a počtu volných míst v mateřských a základních školách. Jsme samozřejmě připraveni podílet se i na tvorbě dlouhodobé vize/strategie školství na Praze 5, která by měla být vytvořena v příštím roce.
 
-Konkrétní výstupy z akce SWOT analýza základních škol jsou k dispozici na webových stránkách https://swot.praha5.cz/.
+Konkrétní výstupy z akce SWOT analýza základních škol jsou k dispozici na webových stránkách [SWOT analýzy](https://swot.praha5.cz/).
