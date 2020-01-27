@@ -21,7 +21,7 @@ V mezidobí do příštího zasedání se nám s autorem studie a technickým ř
 
 Přesvědčivé vystoupení zástupce Studia Barrandov na dalším zasedání Výboru a jasná koncepce pro parkování návštěvníků filmového areálu na vlastních plochách a levněji než v památkové zóně, přesvědčila i zastánce filozofie, že města patří automobilistům, k jednoznačnému odsouhlasení studie.  **V lednu 2020 pak studii jednomyslně odsouhlasila Rada MČ a doporučila TSK k realizaci.**
 
-> Poučení? Můžete na začátku prohrávat 8:1. Ale když budete dobře připraveni a přesvědčíte, že nehájíte zájmy jedné partaje proti druhé, ale že hájíte zájmy místních občanů a oni za Vámi stojí, můžete vyhrát. Nebojujte proti ostatním politickým stranám,  nevyhrajete - vždyť jsou ve značné převaze. Přesvědčte je, že když se přidají k zájmu místních obyvatel, dostanou se i oni na stranu vítězů. Pak je to vítězství všech – win-win.
+> Poučení? **Můžete na začátku prohrávat 8:1. Ale když budete dobře připraveni a přesvědčíte,** že nehájíte zájmy jedné partaje proti druhé, ale že hájíte zájmy místních občanů a oni za Vámi stojí, **můžete vyhrát**. Nebojujte proti ostatním politickým stranám,  nevyhrajete - vždyť jsou ve značné převaze. Přesvědčte je, že když se přidají k zájmu místních obyvatel, dostanou se i oni na stranu vítězů. Pak je to vítězství všech – win-win.
 
 Podrobnosti o studii a mnoho zajímavého o starém Barrandově naleznete na [www.barrandov.org](http://www.barrandov.org). 
 
