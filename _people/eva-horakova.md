@@ -17,7 +17,7 @@ profiles:
 
 ---
 
-Eva Horáková ( *1980) jje předsedkyně Výboru pro sociální politiku ZHMP, zastupitelka hlavního města Prahy, místopředsedkyně zastupitelského klubu Pirátů na MHMP.
+Eva Horáková ( *1980) je předsedkyně Výboru pro sociální politiku ZHMP, zastupitelka hlavního města Prahy, místopředsedkyně zastupitelského klubu Pirátů na MHMP.
 
 **Vzdělání/práce:** 1.lékařská fakulta Univerzita Karlova v Praze byla jediná možná volba v mém životě, která se natáhla nejen na bakalářské studium ošetřovatelství ale také na magisterské studium oboru Učitelství zdravotnických předmětů pro střední školy. Během studia jsem si odskočila v rámci programu Sokrates Erasmus do Německa na jeden semestr na polytechnické škole v Neubrandenburg. Pracovní nabídku do farmaceutické firmy dostala v roce 2005 a do roku 2018 byla součástí toho odvětví. Pracovala v oblasti diabetologie, psychiatrie, kardiologie a hypolipidemik. Vítězství Pirátů ve volbách do zastupitelstva hlavního města Prahy a zastupitelstva městské části Praha 5 jí umožnilo živit se tím, co jí baví. Tj, pomáhat lidem a rozhodovat o našem hlavním městě. 
 
