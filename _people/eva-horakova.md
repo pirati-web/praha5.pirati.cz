@@ -9,7 +9,7 @@ category:
 ordclenove: 3
 description: Místopředsedkyně místního sdružení # zobrazuje se v lide
 profession: Medicínská konzultantka
-img: people/eva-horakova.png # zakomentuj radek dokud není fotka
+img: people/Eva-horakova-2.jpg # zakomentuj radek dokud není fotka
 mail:
   - eva.horakova@pirati.cz
 profiles:
