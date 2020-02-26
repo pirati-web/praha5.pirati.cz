@@ -9,7 +9,7 @@ author: Milan Kryl
 image: posts/na-cihlarce.png
 ---
 
-Zde si můžete přečíst celý text interpelace zastupitele Milana Kryla na pana radního Zdeňka Doležala ve věci usnesení RMČ/5/106/2020 k projektu SANOPZ–Na Cihlářce (Z 3104/10). Na tomto místě rovněž zveřejníme písemnou odpověď, kteoru na vznesenou interpelaci obdržíme.
+Zde si můžete přečíst celý text interpelace zastupitele Milana Kryla na pana radního Zdeňka Doležala ve věci usnesení RMČ/5/106/2020 k projektu SANOPZ–Na Cihlářce (Z 3104/10). Na tomto místě rovněž zveřejníme písemnou odpověď, kterou na vznesenou interpelaci obdržíme.
 
 > Vážený pane radní,
 
