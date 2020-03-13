@@ -6,7 +6,7 @@ layout: post
 title: "MČ Praha 5 - Máme rozpočet, to je asi jediné pozitivní zjištění"
 author: Karel Bauer
 # authorId:  uid nekoho z _people (nepovinné)
-image: posts/na-cihlarce.png
+image: people/karel-bauer.png
 ---
 
 Zde si můžete přečíst celý text interpelace zastupitele Milana Kryla na pana radního Zdeňka Doležala ve věci usnesení RMČ/5/106/2020 k projektu SANOPZ–Na Cihlářce (Z 3104/10). Celá záležitost byla diskutována i přímo na včerejším zasedání zastupitelstva, my samozřejmě vyčkáme i na písemnou oficiální odpověď.
