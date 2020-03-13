@@ -4,7 +4,7 @@ category: blog
 tags: Praha-5
 layout: post
 title: "MČ Praha 5 - Máme rozpočet, to je asi jediné pozitivní zjištění"
-author: KArel Bauer
+author: Karel Bauer
 # authorId:  uid nekoho z _people (nepovinné)
 image: posts/na-cihlarce.png
 ---
