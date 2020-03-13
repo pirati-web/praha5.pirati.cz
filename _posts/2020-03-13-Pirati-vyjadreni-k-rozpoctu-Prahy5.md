@@ -9,18 +9,15 @@ author: Karel Bauer
 image: people/karel-bauer.png
 ---
 
-Zde si můžete přečíst celý text interpelace zastupitele Milana Kryla na pana radního Zdeňka Doležala ve věci usnesení RMČ/5/106/2020 k projektu SANOPZ–Na Cihlářce (Z 3104/10). Celá záležitost byla diskutována i přímo na včerejším zasedání zastupitelstva, my samozřejmě vyčkáme i na písemnou oficiální odpověď.
+Ještě v říjnu 2019 nový radní pro finance Viktor Čahoj sliboval, že plánované výdaje v r. 2020 budou nižší než v roce 2019. Výsledek: navýšení výdajů o 67.613 tis. na celkových 1.243.165,6 tis. Kč. Při plánovaných příjmech 859 873,6 tis. tak schodek činí 383.292 tis. Kč. Přitom částka na investice zůstala na úrovni roku 2019 a tak navýšení šlo především do běžných výdajů, tzn. do spotřeby.
+Vývoj běžných výdajů:
+Rozpočet 2018 – 703,8 mil
+Rozpočet 2019 – 732 mil
+Rozpočet 2020 – 782,75 mil
 
-> Vážený pane radní,
+Bez jakékoli analýzy byl navýšen plánovaný stav zaměstnanců o 15 na 350 osob. Přitom ještě před 9 lety stačilo MČ Praha 5 necelých 300 zaměstnanců. Výdaje v podkapitole 0926 kancelář tajemníka,  narostly o 34 mil., přitom pokud bychom akceptovali schválený nárůst mezd o 1500 Kč, bylo by navýšení pouze cca 8 mil. V této kapitole se do výdajů samozřejmě také promítá bezprecedentní počet 15 politiků placených na plný úvazek. Navrhli jsme proto kompromisní částku 246.326 tis. což je i tak navýšení o cca 22 mil. oproti roku 2019, ale koalice OSD, ANO, TOP09 a STAN si prosadila svou.
+V oblasti školství rozpočet vůbec nereaguje na nový systém financování školství a odbor již několik let „opisuje“ argumenty pro navýšení financování bez jakéhokoli rozboru.  Nárůst o 9.500 tis. proto není ničím podložen.
+V investicích je pozoruhodné opakované plánování akcí v Odboru správy veřejného prostranství (OSP) i když plnění za rok 2019 se pohybuje v řádu jednotek procent. Obdobná situace je i v oblasti participativního rozpočtu, občané navrhnou projekty, proběhne hlasování, ale realizovat se od roku 2017 nepodařilo prakticky nic. Navrhujeme proto přesunout investice z OSP do Odboru majetku a investic. Ani tady nebyl náš návrh schválen, ale do budoucna se s tím prý počítá.
+Pomyslnou korunu jednání zastupitelstva Prahy 5 potom nasadil radní Lachnit (ANO), když navrhl ukončení diskuze před projednáním všech příspěvků.
+Současná koalice se sice ohání pravicovým smýšlením, ale fakticky rozhazuje peníze bez rozmyslu na všechny strany a s budoucností si příliš hlavu neláme.
 
-> prosím o **vysvětlení změny postoje RMČ k návrhu na změnu územního plánu na pozemku SANOPZ v ulici Na Cihlářce** a vysvětlení dalších kroků, které vedení MČ v návaznosti na revokaci svého dřívějšího usnesení v této věci bude činit.
-
-> Pro zastupitele stručně shrnuji tato fakta: MČ až do ledna 2020 k návrhu na změnu územního plánu Z 3104/10 zastávala postoj vyjádřený usnesením RMČ/29/913/2018, tj. souhlas se změnou plochy VV na OB bez kódu míry zastavění a s doplňující podmínkou **„aby míra využití území odpovídala charakteru okolní zástavby“**. To fakticky znamenalo zahrnutí pozemku do okolního stabilizovaného území OB bez kódu a tedy s nutností přizpůsobit stavbu charakteru celé širší lokality tak, jak požadují např. ZMČ schválená Pravidla pro posuzování investorských záměrů v rezidenčních vilových čtvrtích ve stabilizovaných územích městské části Praha 5 nebo též ZMČ schválené Programové prohlášení RMČ P5. 
-
-> **Revokací usnesení dne 29.1.2020 RMČ ustoupila od požadavku „aby míra využití území odpovídala charakteru okolní zástavby“ a současně schválila velmi vysoký kód míry zastavění pozemku - G.  To je v rozporu jak se ZMČ schválenými Pravidly, tak s vlastním Programovým prohlášením.** MČ změnila svůj postoj až po termínu, kdy mohla uplatnit  námitky ve veřejném slyšení a nyní již svoji změnu postoje nemůže jako připomínku uplatnit. Mohu se domnívat, že také proto usnesení RMČ není již dále předkládáno ZMČ ke schválení. 
-
-> Pokud by se projekt projednávaný od roku 2016 s tzv. DOSS nevrátil na začátek a nebylo by vypsáno nové veřejné projednání, MHMP by nejspíše návrh na změnu s kódem G zamítl. Bude-li pozměněný návrh projednáván znovu, pokládám otázku: **Necítí vedení radnice za vhodné reagovat na silný odpor veřejnosti a stát se mediátorem mezi občany a investorem se zahrnutím výsledku jednání do memoranda?** Takový postup by mohl zabránit nekonečnému protahování schvalovacího procesu žalobami a odvoláními. A ve finále i možnému ustoupení investora od záměru a zakonzervování neutěšeného stavu pozemku na mnoho let. Obávám se, že revokované usnesení RMČ a pohrdání názory veřejnosti nás k takové černé variantě spíše přiblížilo.
-
-> V Praze 25.2.2020
-
-> **Ing. Milan Kryl – zastupitel MČ P5**
