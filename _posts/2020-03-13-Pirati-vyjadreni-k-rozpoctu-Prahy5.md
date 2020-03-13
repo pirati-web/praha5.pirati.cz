@@ -1,10 +1,10 @@
 ---
-date: 2020-02-26
+date: 2020-03-13
 category: blog
 tags: Praha-5
 layout: post
-title: "Interpelace zastupitele Milana Kryla na radního Zdeňka Doležala ve věci projektu SANOPZ–Na Cihlářce"
-author: Milan Kryl
+title: "MČ Praha 5 - Máme rozpočet, to je asi jediné pozitivní zjištění"
+author: KArel Bauer
 # authorId:  uid nekoho z _people (nepovinné)
 image: posts/na-cihlarce.png
 ---
