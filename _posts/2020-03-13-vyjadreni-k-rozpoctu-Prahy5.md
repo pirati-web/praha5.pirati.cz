@@ -10,6 +10,7 @@ image: people/karel-bauer.png
 ---
 
 Ještě v říjnu 2019 nový radní pro finance Viktor Čahoj sliboval, že plánované výdaje v r. 2020 budou nižší než v roce 2019. Výsledek: **navýšení výdajů o 67.6 miliónu** na celkových 1.24 miliardy Kč. Při plánovaných příjmech 859 miliónů tak schodek činí 383 miliónu Kč. Přitom částka na investice zůstala na úrovni roku 2019 a tak navýšení šlo především do běžných výdajů, tzn. do spotřeby.
+
 Vývoj běžných výdajů:
 * Rozpočet 2018 – 703,8 mil
 * Rozpočet 2019 – 732 mil
