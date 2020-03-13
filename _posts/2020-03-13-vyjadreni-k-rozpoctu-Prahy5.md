@@ -1,7 +1,7 @@
 ---
 date: 2020-03-26
 category: blog
-tags: Praha-5, ropočet
+tags: rozpočet
 layout: post
 title: "MČ Praha 5 - Máme rozpočet, to je asi jediné pozitivní zjištění"
 author: Karel Bauer
