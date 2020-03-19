@@ -5,6 +5,7 @@ tags: Tiskové-zprávy Praha
 layout: post
 title: Piráti zažalovali Pražskou plynárenskou, která nerespektuje nález Ústavního soudu a neposkytuje informace 
 author: Adam Zábranský 
+authorId: adam.zabransky
 # authorId: adam.zabransky    uid nekoho z _people (nepoviné)
 image: posts/pre-bonus.jpg
 ---

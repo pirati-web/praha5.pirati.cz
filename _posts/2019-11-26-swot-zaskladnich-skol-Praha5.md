@@ -5,6 +5,7 @@ tags: Praha-5
 layout: post
 title: "Piráti se podíleli na úspěšné akci SWOT analýza základních škol Prahy 5"
 author: Filip Karel
+authorId: filip.karel
 # authorId:  uid nekoho z _people (nepovinné)
 image: posts/swot-siroka-2.jpg
 ---

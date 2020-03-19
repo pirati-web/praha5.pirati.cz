@@ -5,6 +5,7 @@ tags: Praha-5
 layout: post
 title: "Interpelace zastupitele Milana Kryla na radního Zdeňka Doležala ve věci projektu SANOPZ–Na Cihlářce"
 author: Milan Kryl
+authorId: milan.kryl
 # authorId:  uid nekoho z _people (nepovinné)
 image: posts/na-cihlarce.png
 ---

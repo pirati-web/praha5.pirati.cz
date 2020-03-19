@@ -5,6 +5,7 @@ tags: Praha-5
 layout: post
 title: Praha 5 bude mít pirátského starostu
 author: Filip Karel
+authorId: filip.karel
 # authorId: adam.zabransky    uid nekoho z _people (nepoviné)
 image: people/daniel-mazur.png
 ---

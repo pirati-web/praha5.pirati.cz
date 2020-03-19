@@ -5,6 +5,7 @@ tags: Praha-5
 layout: post
 title: "Kontrolní výbor aneb co po puči přiklepla staronová koalice opozici"
 author: Štěpán Rattay
+authorId: stepan.rattay
 # authorId:  uid nekoho z _people (nepovinné)
 image: posts/radnice.jpg
 ---

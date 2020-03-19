@@ -5,6 +5,7 @@ tags: Praha-5
 layout: post
 title: Ustavující zastupitelstvo MČ Praha 5 zvolilo starostu a radu, koaliční smlouva zveřejněna
 author: Filip Karel
+authorId: filip.karel
 # authorId: filip.karel   uid nekoho z _people (nepoviné)
 image: posts/dan-mluvi-zastupitelstvo-praha5-mensi.jpg
 ---

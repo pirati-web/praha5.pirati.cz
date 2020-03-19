@@ -5,6 +5,7 @@ tags: Praha-5
 layout: post
 title: Zveřejněn pirátský program pro Prahu 5
 author: Filip Karel
+authorId: filip.karel
 # authorId: filip.karel    uid nekoho z _people (nepoviné)
 image: posts/naprahuzmeny_komunlani_volby.jpg
 ---

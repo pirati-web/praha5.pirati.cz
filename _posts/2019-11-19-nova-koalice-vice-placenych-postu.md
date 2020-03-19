@@ -5,6 +5,7 @@ tags: Praha-5
 layout: post
 title: "Nová koalice = více placených postů"
 author: Karel Bauer
+authorId: karel.bauer
 # authorId:  uid nekoho z _people (nepovinné)
 image: posts/radnice.jpg
 ---

@@ -5,6 +5,7 @@ tags: Praha-5
 layout: post
 title: "Prosadit se z opozice je těžké, ale není to předem ztracený boj"
 author: Milan Kryl
+authorId: milan.kryl
 # authorId:  uid nekoho z _people (nepovinné)
 image: people/milan-kryl.png
 ---

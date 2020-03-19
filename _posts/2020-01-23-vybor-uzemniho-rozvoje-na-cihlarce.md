@@ -5,6 +5,7 @@ tags: Praha-5
 layout: post
 title: "Developerský projekt Na Cihlářce: Radnice hájila zájmy developera, Piráti zájmy občanů"
 author: Milan Kryl
+authorId: milan.kryl
 # authorId:  uid nekoho z _people (nepovinné)
 image: posts/na-cihlarce.png
 ---

@@ -5,6 +5,7 @@ tags: Praha-5
 layout: post
 title: "Strategie rozvoje: Jak to bylo, jak to je?"
 author: Daniel Mazur
+authorId: daniel.mazur
 # authorId:  uid nekoho z _people (nepovinné)
 image: posts/lide.jpg
 ---

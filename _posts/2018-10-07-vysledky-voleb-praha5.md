@@ -5,6 +5,7 @@ tags: Praha-5
 layout: post
 title: Piráti a SNOP5 vyhráli volby do zastupitelstva Prahy 5
 author: Filip Karel
+authorId: filip.karel
 # authorId: adam.zabransky    uid nekoho z _people (nepoviné)
 image: posts/vysledky_voleb_P5_2018.png
 ---

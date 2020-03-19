@@ -5,6 +5,7 @@ tags: Praha-5
 layout: post
 title: "Audit dal Pirátům za pravdu u podezřelých zakázek: Proto na Praze 5 končí v koalici"
 author: Adam Rut
+authorId: adam.rut
 # authorId:  uid nekoho z _people (nepovinné)
 image: posts/hriste.jpg
 ---

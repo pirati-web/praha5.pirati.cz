@@ -5,6 +5,7 @@ tags: Praha-5
 layout: post
 title: "Investovali jenom Piráti"
 author: Štěpán Rattay
+authorId: stepan.rattay
 # authorId: uid nekoho z _people (nepovinné)
 image: posts/lide.jpg
 ---

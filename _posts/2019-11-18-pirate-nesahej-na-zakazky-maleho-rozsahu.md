@@ -5,6 +5,7 @@ tags: Praha-5
 layout: post
 title: "Piráte, nesahej na zakázky malého rozsahu!"
 author: Štěpán Rattay
+authorId: stepan.rattay
 # authorId:  uid nekoho z _people (nepovinné)
 image: posts/graf.jpg
 ---
