@@ -4,7 +4,7 @@ name:     Petr Křičenský  	# běžně používáné jméno
 category:
   - clenove
 ordclenove: 3
-description: Místopředseda místního sdružení # zobrazuje se v lide
+description: Člen místního sdružení Piráti Praha 5 # zobrazuje se v lide
 profession: Revizní technik elektro
 img: people/petr-kricensky.png # zakomentuj radek dokud není fotka
 mail:
