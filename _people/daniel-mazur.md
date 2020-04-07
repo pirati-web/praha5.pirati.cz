@@ -8,7 +8,7 @@ category:
   - clenove
   - kontaktni_osoba
 ordclenove: 3
-description: Předseda místního sdružení # zobrazuje se v lide
+description: Předseda místního sdružení Piráti Praha 5 # zobrazuje se v lide
 profession: Vysokoškolský pedagog, fyzik
 img: people/daniel-mazur.png # zakomentuj radek dokud není fotka
 mail:
