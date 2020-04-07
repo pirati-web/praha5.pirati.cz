@@ -7,8 +7,8 @@ titles:
 category:
   - clenove
 ordclenove: 3
-description: Místopředsedkyně místního sdružení # zobrazuje se v lide
-profession: Medicínská konzultantka
+description: Členka místního sdružení Piráti Praha 5 # zobrazuje se v lide
+profession: Předsedkyně Výboru pro sociální politiku Magistrátu hl. m. Prahy
 img: people/Eva-horakova-2.jpg # zakomentuj radek dokud není fotka
 mail:
   - eva.horakova@pirati.cz
