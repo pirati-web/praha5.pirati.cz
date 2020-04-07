@@ -17,6 +17,6 @@ profiles:
 
 Štěpán Rattay (* 4. února 1977): se svou rodinou žiji v Košířích na Cibulkách, jako analytik a projektový manažer jsem vedl neziskovou organizaci Oživení, o.s., která dlouhodobě působí v oblastech rozvoje občanské společnosti, prosazování udržitelné mobility a dohledu nad fungováním verřejné správy. Po jedno volební období jsem zastával funkci místostarosty obce Svatý Jan pod Skalou, kam dodnes rád pravidelně jezdím. Vzhledem k tomu, že jsem vždy cítil  zodpovědnost za to, jakým způsobem se prostředí které společně sdílíme formuje a rozvíjí, rozhodl jsem se přímo zapojit do veřeného rozhodování. 
 
-**Vzdělání/práce:** Místostarosta obce Svatý Jan pod Skalou
+**Vzdělání/práce:** Předseda Kontrolního výboru MČ Praha 5
 
 **Politik:** V roce 2018 jsem za Piráty kandidoval do Zastupitelstva MČ Praha 5, ve kterých jsme vyhráli a ujali se vedení radnice. Jako uvolněnému radnímu se mi otevřela možnost se přímo začít podepisovat nad investicemi a správě majektu. Po deseti měsících však byli Piráti z vedení radnice staronovou kolicí ODS-ANO-TOP09-STAN odvolaný. Nyní na Praze 5 působím jako předseda kontrolního výboru, jeho jednání jsou veřejně přístupná a o činnosti se můžete  blíže informovat na [https://www.praha5.cz/sekce/kontrolni-vybor/](https://www.praha5.cz/sekce/kontrolni-vybor/).
