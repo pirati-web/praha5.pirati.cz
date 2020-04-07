@@ -5,18 +5,18 @@ fullname: Ing. Štěpán Rattay  	# jméno s tituly etc.
 category:
   - clenove
 ordclenove: 3
-description: Registrovaný příznivec Pirátů # zobrazuje se v lide
-profession: místostarosta obce Svatý Jan pod Skalou
+description: místopředseda místního sdružení Piráti Praha 5 # zobrazuje se v lide
+profession:  předseda Kontrolního výboru MČ Praha 5
 img: people/stepan-rattay-kulaty-bily.png # zakomentuj radek dokud není fotka
 mail:
-  - tajemnik@pirati.cz
+  - stepan.rattay@pirati.cz
 profiles:
   facebook: https://www.facebook.com/stepan.rattay  # pokud nema, staci smazat tuto radku
 
 ---
 
-Štěpán Rattay (* 4. února 1977) se narodil v Praze, je tajemníkem poslaneckého klubu Pirátů a vykonává zastupitelský mandát ve Svatém Janu pod Skalou. Se svou ženou a dvěma dcerami žije v Praze v Košířích a chce kandidovat za Piráty v nadcházejících komunálních volbách na MČ Praha 5.
+Štěpán Rattay (* 4. února 1977): se svou rodinou žiji v Košířích na Cibulkách, jako analytik a projektový manažer jsem vedl neziskovou organizaci Oživení, o.s., která dlouhodobě působí v oblastech rozvoje občanské společnosti, prosazování udržitelné mobility a dohledu nad fungováním verřejné správy. Po jedno volební období jsem zastával funkci místostarosty obce Svatý Jan pod Skalou, kam dodnes rád pravidelně jezdím. Vzhledem k tomu, že jsem vždy cítil  zodpovědnost za to, jakým způsobem se prostředí které společně sdílíme formuje a rozvíjí, rozhodl jsem se přímo zapojit do veřeného rozhodování. 
 
 **Vzdělání/práce:** Místostarosta obce Svatý Jan pod Skalou
 
-**Politik:** Společně se svou ženou a dvěma dcerami žijeme v Košířích a vzhledem k tomu, že jsem vždy cítil zodpovědnost za to, jakým způsobem se prostředí které společně sdílíme formuje, rozvíjí a jakým směrem se má dále ubírat jeho rozvoj, zeptám se vás občanů, jak to vnímáte a budu vaše zájmy na radnici otevřeně prosazovat. Praha 5 dlouhodobě trpí přetížením automobilové dopravy, začnu tím, že v následujících čtyřech letech budu na pětce usilovat o její celkové zklidnění.
+**Politik:** V roce 2018 jsem za Piráty kandidoval do Zastupitelstva MČ Praha 5, ve kterých jsme vyhráli a ujali se vedení radnice. Jako uvolněnému radnímu se mi otevřela možnost se přímo začít podepisovat nad investicemi a správě majektu. Po deseti měsících však byli Piráti z vedení radnice staronovou kolicí ODS-ANO-TOP09-STAN odvolaný. Nyní na Praze 5 působím jako předseda kontrolního výboru, jeho jednání jsou veřejně přístupná a o činnosti se můžete  blíže informovat na [https://www.praha5.cz/sekce/kontrolni-vybor/](https://www.praha5.cz/sekce/kontrolni-vybor/).
