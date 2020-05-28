@@ -11,12 +11,6 @@
   garant: daniel.mazur
   redmine: 2 
 -
-  id: 3
-  title: Úkol 3
-  desc: Popis úkolu 3
-  garant: eva.horakova
-  redmine: 3  
--
   id: 4
   title: Úkol 4
   desc: Popis úkolu 4
