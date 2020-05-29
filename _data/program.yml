@@ -1,9 +1,9 @@
 -
   id: 1
-  title: Úkol 1
-  desc: Popis úkolu 1
+  title: Otevřená radnice
+  desc: Otevřená radnice
   garant: adam.rut
-  redmine: 1    
+  redmine: 31273 
 -
   id: 2
   title: Úkol 2
