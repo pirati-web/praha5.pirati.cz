@@ -7,7 +7,7 @@ category:
 ordclenove: 3
 description: 
 profession:  
-img: people/michal.kluka.png
+#img: people/michal.kluka.png
 mail:
   #- michal.kluka@pirati.cz
 profiles:
