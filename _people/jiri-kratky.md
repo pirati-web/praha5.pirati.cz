@@ -7,7 +7,7 @@ category:
 ordclenove: 3
 description: 
 profession:  
-img: people/jiri-kratky.png
+#img: people/jiri-kratky.png
 mail:
   #- jiri.kratky@pirati.cz
 profiles:
