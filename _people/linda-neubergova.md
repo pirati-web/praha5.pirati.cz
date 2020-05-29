@@ -9,7 +9,7 @@ description: Místopředsedkyně místního sdružení Piráti Praha 5 # zobrazu
 profession: Senior account manager v reklamní agentuře
 img: people/linda-neubergova.png # zakomentuj radek dokud není fotka
 mail:
-  - NLinda@seznam.cz
+  - linda.neubergova@seznam.cz
 profiles:
   facebook: https://www.facebook.com/linda.neubergova   # pokud nema, staci smazat tuto radku
 
