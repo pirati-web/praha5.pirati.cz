@@ -3,7 +3,7 @@ uid: michal.kluka
 name:     Michal Kluka
 fullname: Michal Kluka
 category:
-  - priznivci
+  - clenove
 ordclenove: 3
 description: 
 profession:  
