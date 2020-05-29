@@ -7,7 +7,7 @@ category:
 ordclenove: 3
 description: 
 profession:  
-#img: people/filip-karel.png
+img: 
 mail:
   #- stepan.rattay@pirati.cz
 profiles:
