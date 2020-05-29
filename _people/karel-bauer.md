@@ -2,7 +2,7 @@
 uid: karel.bauer
 name:     Karel Bauer  	# běžně používáné jméno
 category:
-  - SNOP5
+  - priznivci
 ordclenove: 3
 description: předseda spolku SNOP 5 # zobrazuje se v lide
 profession: předseda spolku SNOP 5
