@@ -5,7 +5,7 @@ titles:
   before: Ing. 
   after:
 category:
-  - SNOP5
+  - priznivci
 ordclenove: 3
 description:  předseda Spolku na ochranu Barrndova # zobrazuje se v lide
 profession: filantrop
