@@ -11,11 +11,29 @@
   garant: daniel.mazur
   redmine: 31291 
 -
+  id: 13
+  title: Srozumitelné informování a plánování
+  desc: Srozumitelné informování a plánování
+  garant: daniel.mazur
+  redmine: 31274
+-
   id: 10
   title: Životní prostředí
   desc: Životní prostředí
   garant: linda.neubergova
-  redmine: 31292 
+  redmine: 31292
+-
+  id: 11
+  title: Územní rozvoj
+  desc: Územní rozvoj
+  garant: daniel.mazur
+  redmine: 31293
+-
+  id: 12
+  title: Sociální věci
+  desc: Sociální věci
+  garant: linda.neubergova
+  redmine: 31295
 -
   id: 2
   title: Vzdělávání
@@ -48,7 +66,7 @@
   redmine: 7 
 -
   id: 8
-  title: Úkol 8
-  desc: Popis úkolu 8
+  title: Transparentní hospodaření s majetkem
+  desc: Transparentní hospodaření s majetkem
   garant: stepan.rattay
-  redmine: 8
+  redmine: 31275
