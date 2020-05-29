@@ -5,68 +5,44 @@
   garant: adam.rut
   redmine: 31273
 -
-  id: 9
+  id: 2
   title: Strategický rozvoj
   desc: Strategický rozvoj
   garant: daniel.mazur
   redmine: 31291 
 -
-  id: 13
-  title: Srozumitelné informování a plánování
-  desc: Srozumitelné informování a plánování
-  garant: daniel.mazur
-  redmine: 31274
--
-  id: 10
+  id: 3
   title: Životní prostředí
   desc: Životní prostředí
   garant: linda.neubergova
   redmine: 31292
 -
-  id: 11
-  title: Územní rozvoj
-  desc: Územní rozvoj
-  garant: daniel.mazur
-  redmine: 31293
--
-  id: 12
-  title: Sociální věci
-  desc: Sociální věci
-  garant: linda.neubergova
-  redmine: 31295
--
-  id: 2
-  title: Vzdělávání
-  desc: Vzdělávání
-  garant: daniel.mazur
-  redmine: 31290
--
   id: 4
-  title: Úkol 4
-  desc: Popis úkolu 4
-  garant: karel.bauer
-  redmine: 4
--
-  id: 5
-  title: Úkol 5
-  desc: Popis úkolu 5
-  garant: linda.neubergova
-  redmine: 31295
--
-  id: 6
   title: Doprava
   desc: Doprava
   garant: milan.kryl
   redmine: 31294
 -
+  id: 5
+  title: Sociální věci
+  desc: Sociální věci
+  garant: linda.neubergova
+  redmine: 31295
+-
+  id: 6
+  title: Územní rozvoj
+  desc: Územní rozvoj
+  garant: daniel.mazur
+  redmine: 31293  
+-
   id: 7
-  title: Úkol 7
-  desc: Popis úkolu 7
-  garant: petr.kricensky
-  redmine: 7 
+  title: Vzdělávání
+  desc: Vzdělávání
+  garant: daniel.mazur
+  redmine: 31290
 -
   id: 8
-  title: Transparentní hospodaření s majetkem
-  desc: Transparentní hospodaření s majetkem
-  garant: stepan.rattay
-  redmine: 31275
+  title: Bezpečnost a pořádek
+  desc: Bezpečnost a pořádek
+  garant: daniel.mazur
+  redmine: 8
