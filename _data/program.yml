@@ -3,7 +3,19 @@
   title: Otevřená radnice
   desc: Naším cílem je město, které se rozvíjí díky aktivní účasti svých obyvatel. Zajistíme proto všem pohodlný přístup k informacím o radnici a umožníme občanům ovlivňovat rozpočet i další důležitá rozhodnutí. Naším programem je celostátní verze Pirátského programu do komunálních voleb 2018, kterou jsme spoluvytvářeli.
   garant: adam.rut
-  redmine: 31273   
+  redmine: 31273
+-
+  id: 9
+  title: Strategický rozvoj
+  desc: Strategický rozvoj
+  garant: daniel.mazur
+  redmine: 31291 
+-
+  id: 10
+  title: Životní prostředí
+  desc: Životní prostředí
+  garant: linda.neubergova
+  redmine: 31292 
 -
   id: 2
   title: Vzdělávání
@@ -39,10 +51,4 @@
   title: Úkol 8
   desc: Popis úkolu 8
   garant: stepan.rattay
-  redmine: 8 
--
-  id: 9
-  title: Strategický rozvoj
-  desc: Strategický rozvoj
-  garant: daniel.mazur
-  redmine: 31291
+  redmine: 8
