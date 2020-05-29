@@ -6,6 +6,7 @@ titles:
   after:
 category:
   - clenove
+  - mhmp
 ordclenove: 3
 description: Členka místního sdružení Piráti Praha 5 # zobrazuje se v lide
 profession: Předsedkyně Výboru pro sociální politiku Magistrátu hl. m. Prahy
