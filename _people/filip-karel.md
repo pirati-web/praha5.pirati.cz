@@ -7,10 +7,10 @@ category:
 ordclenove: 3
 description: 
 profession:  
-img: 
+img: people/filip-karel.jpg
 mail:
-  #- stepan.rattay@pirati.cz
+  - filip@karlovi.cz
 profiles:
-  #: https://www.facebook.com/stepan.rattay  # pokud nema, staci smazat tuto radku
+  #fb: 
 
 ---
