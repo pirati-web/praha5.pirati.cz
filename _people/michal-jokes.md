@@ -6,7 +6,7 @@ category:
 ordclenove: 10
 description: Člen místního sdružení Piráti Praha 5
 profession: 
-#img: people/michal-jokes.png
+img: people/michal-jokes.png
 mail:
   - michal.jokes@pirati.cz
 mob:			  +420 770 113 642
