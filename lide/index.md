@@ -1,6 +1,6 @@
 ---
 layout: members
-title: O nás
+title: Lidé
 description: Členové a příznivci jsou to dělá Českou pirátskou stranu silnou. Seznamte se Piráty na Praze 5.
 keywords: lidé, členové, piráti, pirátky, příznivci
 viewMode: grouped # or alltogether
