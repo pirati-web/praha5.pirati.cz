@@ -3,7 +3,7 @@ name:     Lucie Vadkerti  	# běžně používáné jméno
 mail:
 - lucie.vadkerti@pirati.cz
 img: people/lucie-vadkerti.jpg   # 165x220px
-description: Člen místního sdružení Piráti Praha 5
+description: Členka místního sdružení Piráti Praha 5
 
 profiles:
   facebook: https://www.facebook.com/lstranska
