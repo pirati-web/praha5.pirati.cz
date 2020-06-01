@@ -5,7 +5,7 @@ fullname: Michal Kluka
 category:
   - clenove
 ordclenove: 3
-description: 
+description: Člen místního sdružení Piráti Praha 5
 profession:  
 #img: people/michal.kluka.png
 mail:
