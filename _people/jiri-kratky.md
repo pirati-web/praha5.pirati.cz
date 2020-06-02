@@ -4,6 +4,7 @@ name:     Jiří Krátký
 fullname: Jiří Krátký
 category:
   - priznivci
+  - zastupitele  
 ordclenove: 3
 description: 
 profession:  
