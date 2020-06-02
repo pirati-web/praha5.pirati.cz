@@ -3,6 +3,7 @@ uid: petr.kricensky
 name:     Petr Křičenský  	# běžně používáné jméno
 category:
   - clenove
+  - zastupitele  
 ordclenove: 3
 description: Člen místního sdružení Piráti Praha 5 # zobrazuje se v lide
 profession: Revizní technik elektro
