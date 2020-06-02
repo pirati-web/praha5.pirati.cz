@@ -5,6 +5,7 @@ category:
   - priznivci
   - zastupitele  
 ordclenove: 3
+ordZas: 2
 description: předseda spolku SNOP 5 # zobrazuje se v lide
 profession: předseda spolku SNOP 5
 img: people/karel-bauer.png # zakomentuj radek dokud není fotka
