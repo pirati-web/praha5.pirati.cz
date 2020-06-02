@@ -7,7 +7,7 @@ category:
 ordclenove: 3
 description: Člen místního sdružení Piráti Praha 5
 profession:  
-img: people/michal-kluka.png
+img: people/michal-kluka.jpg
 mail:
   - michal.kluka@pirati.cz
 profiles:
