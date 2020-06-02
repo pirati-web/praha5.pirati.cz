@@ -4,6 +4,7 @@ name:     Linda Neubergová  	# běžně používáné jméno
 category:
   - clenove
   - pms
+  - zastupitele  
 ordclenove: 3
 description: Místopředsedkyně místního sdružení Piráti Praha 5 # zobrazuje se v lide
 profession: Senior account manager v reklamní agentuře
