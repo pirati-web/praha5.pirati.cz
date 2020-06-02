@@ -8,6 +8,7 @@ category:
   - clenove
   - kontaktni_osoba
   - pms
+  - zastupitele  
 ordclenove: 3
 description: Předseda místního sdružení Piráti Praha 5 # zobrazuje se v lide
 profession: Vysokoškolský pedagog, fyzik
