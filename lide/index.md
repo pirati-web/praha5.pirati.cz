@@ -12,7 +12,7 @@ groups:
     sort: ordpms
   - name: Naši zastupitelé Prahy 5
     category: zastupitele
-    sort: ordzas     
+    sort: ordZas
   - name: Naši zastupitelé na Magistrátu hlavního města Prahy
     category: mhmp
     sort: ordpms    
