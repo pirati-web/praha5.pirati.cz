@@ -10,7 +10,7 @@ category:
   - pms
   - zastupitele  
 ordclenove: 3
-ordzas: 1
+ordZas: 1
 description: Předseda místního sdružení Piráti Praha 5 # zobrazuje se v lide
 profession: Vysokoškolský pedagog, fyzik
 img: people/daniel-mazur.png # zakomentuj radek dokud není fotka
