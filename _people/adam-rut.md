@@ -6,6 +6,7 @@ titles:
   after:
 category:
   - clenove
+  - zastupitele
 ordclenove: 3
 description: Člen místního sdružení Piráti Praha 5 # zobrazuje se v lide
 profession: Analytik a projektový manažer
