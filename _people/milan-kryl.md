@@ -8,6 +8,7 @@ category:
   - priznivci
   - zastupitele  
 ordclenove: 3
+ordZas: 4
 description:  předseda Spolku na ochranu Barrndova # zobrazuje se v lide
 profession: filantrop
 img: people/milan-kryl.png # zakomentuj radek dokud není fotka
