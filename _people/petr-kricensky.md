@@ -5,6 +5,7 @@ category:
   - clenove
   - zastupitele  
 ordclenove: 3
+ordZas: 7
 description: Člen místního sdružení Piráti Praha 5 # zobrazuje se v lide
 profession: Revizní technik elektro
 img: people/petr-kricensky.png # zakomentuj radek dokud není fotka
