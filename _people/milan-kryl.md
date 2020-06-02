@@ -6,6 +6,7 @@ titles:
   after:
 category:
   - priznivci
+  - zastupitele  
 ordclenove: 3
 description:  předseda Spolku na ochranu Barrndova # zobrazuje se v lide
 profession: filantrop
