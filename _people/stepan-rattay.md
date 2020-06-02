@@ -7,6 +7,7 @@ category:
   - pms
   - zastupitele
 ordclenove: 3
+ordZas: 3
 description: místopředseda místního sdružení Piráti Praha 5 # zobrazuje se v lide
 profession:  předseda Kontrolního výboru MČ Praha 5
 img: people/stepan-rattay-kulaty-bily.png # zakomentuj radek dokud není fotka
