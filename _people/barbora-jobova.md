@@ -1,6 +1,9 @@
 ---
 uid: barbora.jobova
-name: Ing. arch. Barbora Jobová
+name: Barbora Jobová
+titles:
+  before: Ing. arch.
+  after:
 category:
   - priznivci
 description: 
