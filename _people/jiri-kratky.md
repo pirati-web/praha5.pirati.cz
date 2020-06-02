@@ -6,6 +6,7 @@ category:
   - priznivci
   - zastupitele  
 ordclenove: 3
+ordZas: 6
 description: 
 profession:  
 img: people/jiri-kratky.png
