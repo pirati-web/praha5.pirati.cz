@@ -3,7 +3,7 @@ date: 2020-06-23
 category: blog
 tags: školství
 layout: post
-title: Byznys starostky vzal dětem školu, Praha 5 má v Košířích přeplněné školy 
+title: Byznys starostky vzal dětem školu, Praha 5 má v Košířích plno
 author: Daniel Mazur 
 authorId: daniel.mazur
 image: posts/radnice.jpg
