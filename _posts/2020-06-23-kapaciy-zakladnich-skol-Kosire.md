@@ -6,7 +6,7 @@ layout: post
 title: Byznys starostky vzal dětem školu, Praha 5 má v Košířích plno
 author: Daniel Mazur 
 authorId: daniel.mazur
-image: posts/gymnazium-plzenska.jpg
+image: posts/radnice.jpg
 ---
 
 
