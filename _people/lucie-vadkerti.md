@@ -30,7 +30,7 @@ motto: "Naděje není to přesvědčení, že něco dobře dopadne, ale jistota,
 
 ---
 
-Lucie Vadkerti (roz. Stránská, * 1989) je členkou Pirátské strany od roku 2018.
+**Lucie Vadkerti** (roz. Stránská, * 1989) je členkou Pirátské strany od roku 2018.
 
 Pracuje v oblasti PPC marketingu a práce je jí živobytím i koníčkem. Má za sebou kurzy měkkých dovedností a kritického myšlení. Celý život pracuje s lidmi. Dříve za barem či v obchodě, nyní jako správce PPC kampaní, kde má na starosti kompletní komunikaci s klienty.
 
