@@ -19,6 +19,7 @@ mail:
 profiles:
   facebook: https://www.facebook.com/daniel.mazur.5268  # pokud nema, staci smazat tuto radku
 calendar: 29a501vqa1elaiqiho91nko8fg@group.calendar.google.com
+
 ---
 
 **Daniel Mazur** (* 26. května 1978) je členem Pirátské strany od r. 2014. Narodil se v Praze, má zde i trvalé bydliště. Od roku 2017 se věnuje resortu vzdělávání na všech úrovních a vede místní sdružení Pirátské strany na Praze 5.
@@ -30,6 +31,4 @@ calendar: 29a501vqa1elaiqiho91nko8fg@group.calendar.google.com
 **Osobní:** První trochu výchovy k aktivitě ve veřejném životě jsem dostal během střední školy díky zapojení do International Young Naturefriends a českého Sdružení Duha. Díky trvalému zájmu o důsledky globálního propojení lidí, vlád a finančního světa ve vztahu ke stavu životního prostředí se zabývám skloubením potřeb ekonomiky s kulturním a přírodním životním prostředím pro potřeby lidí. 
 Rozvíjení občanské společnosti považuji za klíčové, jen tak mohou být politická rozhodnutí dostatečně kontrolovaná a zároveň v souladu se zájmy občanů. Tento princip je třeba podporovat i v rámci systému vzdělávání, tedy rozvojem dělné spolupráce školských rad a rodičovských sdružení s řediteli a zřizovateli.
 
-### Odkazy 
 
-* [Veřejný kalendář Daniela Mazura](https://gate.praha5.cz/owa/calendar/b1a921da26aa4cc5ac766c0209e61746@praha5.cz/1ad757c399554a0faebaacba80d3bdf73720931561928311643/calendar.html)
