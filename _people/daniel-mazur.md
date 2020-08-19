@@ -18,7 +18,7 @@ mail:
   - daniel.mazur@pirati.cz
 profiles:
   facebook: https://www.facebook.com/daniel.mazur.5268  # pokud nema, staci smazat tuto radku
-
+calendar: 29a501vqa1elaiqiho91nko8fg@group.calendar.google.com
 ---
 
 **Daniel Mazur** (* 26. května 1978) je členem Pirátské strany od r. 2014. Narodil se v Praze, má zde i trvalé bydliště. Od roku 2017 se věnuje resortu vzdělávání na všech úrovních a vede místní sdružení Pirátské strany na Praze 5.
