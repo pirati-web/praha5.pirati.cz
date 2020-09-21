@@ -6,7 +6,7 @@ category:
   - zastupitele  
 ordclenove: 3
 ordZas: 2
-description: člen místního sdružení Piráti Praha 5 # zobrazuje se v lide
+description: Člen zastupitelského klubu Pirátů v ZMČ Praha 5 # zobrazuje se v lide
 profession: ekonom, majitel účetní firmy
 img: people/karel-bauer.png # zakomentuj radek dokud není fotka
 mail:
