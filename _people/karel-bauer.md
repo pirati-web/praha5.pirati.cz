@@ -15,9 +15,8 @@ profiles:
 
 ---
 
-Na Smíchov jsem se přestěhoval z pravého břehu Vltavy, a to už před 33 lety, považuji se tedy za téměř rodilého obyvatele Smíchova a k této čtvrti jsem si vybudoval osobní vztah. Za dobu, co v Praze 5 bydlím, tak tato městská část prodělala bouřlivý, ale bohužel ne vždy koncepční rozvoj. Jako majiteli účetní firmy, který se dennodenně zabývá ekonomikou, mi působí téměř fyzické utrpení, když sleduji hospodaření zastupitelů městské části Praha 5. Politické vedení radnice, dle mého názoru dlouhodobě městskou část nerozvíjí ve prospěch občanů, a tak jsem založil s obdobně smýšlejícími přáteli občanský spolek Sdružení nezávislých občanů Prahy 5 (SNOP 5). 
-Do voleb 2018 jsem vedl SNOP 5 na společné kandidátce s Piráty s cílem zastavit negativní dopady nekontrolovatelného rozvoje, korigovat předimenzovanou novou výstavbu a zlepšit dopravu, respektive ze Smíchova vytěsnit dopravu „průjezdní“. Po úspěšných volbách jsem byl půl roku členem Rady městské části a snažil se vést její finance k realistickéhu plánování a rozpočtové zodpovědnosti. Po neshodách s ostatními lidmi ve SNOP 5, rozdělení původně společného zastupitelského klubu a vypadnutí Pirátů z koalice pokračuji v práci jako opoziční zastupitel Pirátů. 
+Narodil jsem se v Praze 4, od roku 1985 žiji v Praze 5 na Smíchově. 
 
-**Vzdělání/práce:** ekonom, majitel účetní firmy
+**Vzdělání/práce:** OSVČ, ekonom, majitel účetní firmy
 
-**Politik:** Plánování a hospodaření městské části je naprosto nekoncepční a netransparentní. Neúplné a zavádějící informace nahrávají osobním zájmům radních. Srozumitelné a úplné informace o hospodaření, přehledný rozpočet a otevřenost při rozhodování jsou spolehlivý způsob, jak co nejlépe využít peníze občanů městské části. Zasadím se o to, aby se Praha 5 konečně chovala jako dobrý hospodář.
+**Politik:** Komunální politice se věnuji zhruba od roku 2008. V roce 2018 jsem byl na společné kandidátce České pirátské strany a místních spolků zvolen do zastupitelstva MČ Prahy 5. Jako místostarosta jsem měl v gesci finance a sport. Po rozpadu koalice jsem členem Finančního výboru a Komise sportu. Hlavním cílem mého působení na radnici je maximální zprůhlednění finančních toků a efektivní nakládání se svěřenými prostředky. V oblasti sportu se snažíme společně o elektronizaci dotačních programů, jejich otevřenost co nejširšímu okruhu zájemců a průhledné vyhodnocování.
