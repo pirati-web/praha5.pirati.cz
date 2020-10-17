@@ -3,7 +3,7 @@ layout: post
 category: blog
 published: true
 title: Na podnět Pirátů radnice zavede rezervační systém a rozšíří úřední hodiny
-date: '2020-10-17 05:40pm'
+date: '2020-10-17'
 author: Milan Kryl
 image: /assets/img/posts/exam-2428208_1920.png
 description: 'piráti praha 5, úřad praha 5, rezervační systém'
@@ -19,4 +19,5 @@ S potěšením konstatuji, že vedení radnice na moji iniciativu rychle reagova
 
 
 
-**Milan Kryl**
+**Milan Kryl
+**
