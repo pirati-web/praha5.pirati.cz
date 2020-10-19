@@ -7,7 +7,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 keywords: piráti, česká pirátská strana, svoboda, demokracie, Piráti Praha 5, piráti na pětce # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
 
 administrator:
-  email: jan.suchanek@gmail.com # mail kam pujdou výstupy z buildu
+  email: jan.suchanek@gmail.com, filip@karlovi.cz
   #filip@karlovi.cz, 
 
 organization:
