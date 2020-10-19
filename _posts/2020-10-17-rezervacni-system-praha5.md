@@ -6,7 +6,7 @@ layout: post
 title: Na podnět Pirátů radnice zavede rezervační systém a rozšíří úřední hodiny
 author: Milan Kryl
 authorId: milan.kryl
-image: posts/rezervace-casu.png
+image: posts/radnice.jpg
 ---
 
 

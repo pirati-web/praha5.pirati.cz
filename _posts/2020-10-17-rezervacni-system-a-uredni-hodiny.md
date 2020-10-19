@@ -5,7 +5,7 @@ title: Na podnět Pirátů radnice zavede rezervační systém a rozšíří ú�
 date: 2020-10-17
 author: Milan Kryl
 authorId: milan.kryl
-image: /posts/exam-2428208_1920.png
+image: posts/exam-2428208_1920.png
 ---
 
 Cesta do pekla je dlážděna dobrými úmysly. Vláda ve snaze zabránit šíření pandemie vydala opatření, kterým zkrátila úřední hodiny radnic na dva půldny v týdnu. V praxi se tím časový prostor pro vyřízení nových dokladů v oddělení evidence obyvatel zmenšil na  pětinu. Počet lidí, kteří nový občanský průkaz potřebují se tím ovšem nesnížil, takže narostly fronty a doba čekání až pětinásobně. Ve středu 14.10. strávilo v čekárně až hodinu a čtvrt bez možnosti udržet odstup asi 30 lidí.  Autor vládního opatření důsledek jeho realizace prostě nedomyslel.
