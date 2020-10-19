@@ -12,7 +12,7 @@ Cesta do pekla je dlážděna dobrými úmysly. Vláda ve snaze zabránit šíř
 
 Vyzval jsem paní starostku a paní tajemnici, aby na základě výjimky z vládního opatření  ponechaly „dlouhé“ úřední hodiny alespoň pro občany, kteří si dálkově zarezervují čas pro vyřízení záležitosti bez fronty. Požádal jsem též o spuštění rezervačního systému na webu radnice.  Rezervační systém úspěšně používá Magistrát, proto jsem současně požádal pana primátora, zda by jej nepomohl poskytnout i menším radnicím.
 
-S potěšením konstatuji, že vedení radnice na moji iniciativu rychle reagovalo. Od tohoto týdne je rezervační systém na radničním webu v provozu a je možné si potřebné záležitosti vyřídit bez čekání i mimo dobu dnešních „krátkých“ úředních hodin.
+**S potěšením konstatuji, že vedení radnice na moji iniciativu rychle reagovalo. Od tohoto týdne je rezervační systém na radničním webu v provozu a je možné si potřebné záležitosti vyřídit bez čekání i mimo dobu dnešních „krátkých“ úředních hodin.**
 
 Šiřte prosím informaci, že je možné na webu radnice zvolit čas návštěvy a vyřídit potřebné záležitosti v zarezervovaném čase bez nutnosti čekání s množstvím dalších lidí. Tento systém by měl být zachován i po skončení pandemické situace, a to do doby, než bude běžné veškeré záležitosti vyřizovat elektronickou cestou z domova a bez nutnosti návštěv radnice. Snad to není příliš vzdálené sci-fi.
 
