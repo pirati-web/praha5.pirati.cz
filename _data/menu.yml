@@ -16,9 +16,9 @@ main:
   - link: /lide/
     name: Lidé
     match: lide
-  - link: /komunalni-volby/
+  - link: /komunalni-volby2/
     name: Komunální volby
-    match: komunalni-volby
+    match: komunalni-volby2
   - link: /kontakt/
     name: Kontakt
     match: kontakt
