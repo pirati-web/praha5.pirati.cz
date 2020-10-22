@@ -3,7 +3,7 @@ uid: jiri.kratky
 name:     Jiří Krátký
 fullname: Jiří Krátký
 category:
-  - priznivci
+  - clenove
   - zastupitele  
 ordclenove: 3
 ordZas: 6
