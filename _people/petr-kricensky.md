@@ -16,8 +16,4 @@ profiles:
 
 ---
 
-**Petr Křičenský** (*17.května 1967) je 2. místopředseda Pirátů na Praze 5. Narozen je v Pardubicích. Krátkou dobu bydlel v Kraslicích a v Sokolově. Do Prahy přišel v roce 1989. Angažuje se v aktivitách souvisejících s kulturou. Jeho zájmy jsou tramping, DIY elektronika.
-
-**Vzdělání/práce:** Vyučil se elektrikářem, v současné době si obnovil kvalifikaci revizního technika elektro. Samostudiem nad rámec oboru si rozšiřoval znalosti v číslicové technice, kybernetice a elektronice. Spolupořádal kulturní akce. Prošel několika firmami. kde se věnoval činnostem elektro, servisu elektroniky, hotelové údržbě a provozu. V současné době pracuje jako skladník a revizní technik.
-
-**Politik:** Ke kvalitě života v městské části patří i čistota a dobré sousedské vztahy. V současné době je Praha 5 dost špinavá, chybí více košů, kontejnerů na tříděný odpad a velkoobjemových kontejnerů poskytovaných městskou částí. Bude podporovat komunitní projekty, prosazovat vice zeleně. Bude požadovat, aby spoluobčané mohli na Praze 5 relaxovat, citili se bezpečně a v pohodlně.
+Ke kvalitě života v městské části patří i čistota a dobré sousedské vztahy. V současné době je Praha 5 dost špinavá, chybí více košů, kontejnerů na tříděný odpad a velkoobjemových kontejnerů poskytovaných městskou částí. Budu podporovat komunitní projekty, prosazovat vice zeleně. Budu požadovat, aby spoluobčané mohli na Praze 5 relaxovat, cítili se bezpečně a v pohodlně. Pro obyvatele budu požadovat více relaxačních míst pro setkávání například pikniková a grilovací místa
