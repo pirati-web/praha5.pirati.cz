@@ -9,7 +9,7 @@ residence: yes #vyplňte pokud chcete přidat adresu nejbližšího pice
   <h1 class="t-h2-alt">Přidejte se</h1>
 </div>
 
-Zajímá vás co Piráti dělají a jak? Ozvěte se [Danovi Mazurovi](/lide/daniel-mazur) nebo přijďte k nám na otevřenou schůzi. Pořádáme je obvykle první pondělí v měsíci v pražském pirátském centru (PiCe) na Žižkově, aktuální informace se objevuje [v tomto vlákně](https://forum.pirati.cz/viewtopic.php?f=923&t=40251) na pirátském fóru.
+Zajímá vás co Piráti dělají a jak? Ozvěte se [Danovi Mazurovi](/lide/daniel-mazur) nebo přijďte k nám na otevřenou schůzi. Pořádáme je obvykle první pondělí v měsíci v pražském pirátském centru (PiCe) na Praze 2 (Na Moráni), aktuální informace se objevuje [v tomto vlákně](https://forum.pirati.cz/viewtopic.php?f=923&t=40251) na pirátském fóru.
 
 Finanční dary na podporu našeho fungování můžete posílat na [dary](https://dary.pirati.cz).
 Pokud chcete přispět na volební kampaň Pirátů na Praze 5, můžete dar poslat na transparentní účet č. 2001084292 / 2010. Nezapomeňte při tom uvést své kontaktní údaje<sup>\*</sup>, jen tak budeme smět váš příspěvek využít.
