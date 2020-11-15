@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: Vzdělávací a informační centrum Prahy 5 končí. Piráti to navrhovali ještě v době, kdy vedli radnici
-date: 2020-10-21
+date: 2020-11-10
 author: Daniel Mazur
 authorId: daniel.mazur
 image: posts/vic-zruseno.png
