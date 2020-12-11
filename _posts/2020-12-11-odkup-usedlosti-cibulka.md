@@ -22,7 +22,7 @@ Příští týden v úterý nás tedy na zastupitelstvu čeká rozhodování na 
 1.       Známe navrženou kupní cenu dle znaleckého posudku, která činí 105 mil. Kč  Posudek však nehodnotil dnešní značně zanedbaný stav objektů, ale vycházel ze značně neurčitých  budoucích výnosů po teoretické dostavbě památkově chráněného areálu. 
 2.       Náklady na záchranu nemovitosti, které dle odhadu činí minimálně 400 mil. Kč - přičemž reálně podle toho jak radnice Prahy 5 při správě a opravách svého majetku hospodaří, lze očekávat nárůst nákladů na min. dvojnásobek, viz oprava Čínského pavilonku, která měla původně stát cca 2,5 mil. Kč  a aktuálně se  blíží k částce 9 mil. Kč.
 3.       Víme, že se jedná o zanedbanou kulturní památku, která je ve velmi špatném technickému stavu.
-4.       Víme, že se o budovy stávající majitel více jak 30 let nestaral, za což mu památkáři vyčinily v řádově několika set tisícových pokutách.
+4.       Víme, že se o budovy stávající majitel více jak 30 let nestaral, za což mu památkáři vyčinili v řádově několika set tisícových pokutách.
 5.       A také víme, že stávajícímu majiteli se nepodařil v této budově realizovat jediný životaschopný projekt ani se mu nemovitost nepodařilo dosud prodat.
 
 **A co nevíme?**
