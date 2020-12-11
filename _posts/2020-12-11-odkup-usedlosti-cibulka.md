@@ -34,7 +34,7 @@ Příští týden v úterý nás tedy na zastupitelstvu čeká rozhodování na 
 
 Na posledním listopadovém zastupitelstvu vystoupil občan Prahy 5 s interpelací, v rámci které odborně napadl způsob, jakým byla cena 105 mil Kč za nemovitost Cibulka stanovena. Pirátům se podařilo získat k stanovování cen nemovitostí bližší informace. 
 
-Rozhodně nebudeme jen nečině přihlížet a kritizovat, jak vedení radnice pod heslem "zachraňujeme kulturní dědictví" neuváženě investuje, když způsob zodpovědného přístupu existuje.
+Rozhodně nebudeme jen nečinně přihlížet a kritizovat, jak vedení radnice pod heslem "zachraňujeme kulturní dědictví" neuváženě investuje, když způsob zodpovědného přístupu existuje.
 
 **Štěpán Rattay - Piráti**
 
