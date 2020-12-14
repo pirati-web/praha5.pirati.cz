@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: Usedlost Cibulka má být zachráněna správným způsobem
-date: 2020-12-13
+date: 2020-12-15
 author: Milan Kryl
 authorId: milan.kryl
 image: posts/cibulka.jpg
