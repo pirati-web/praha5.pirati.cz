@@ -8,9 +8,9 @@ authorId: milan.kryl
 image: posts/cibulka.jpg
 ---
 
-Že radnice značně zaostává v efektivnosti svých investic za soukromým sektorem prokázala nejen na opravě Čínského pavilonu, předražených rekonstrukcích dětských hřišť nebo dlouhá léta se táhnoucí “záchraně” bývalé usedlosti Buďánka, též památkově chráněné. Tyto zkušenosti nedávají mnoho naděje, že s Cibulkou to bude jinak.
-
 > **Zkušený investor by nepovažoval utracení více než 100 milionů Kč ještě před tím, než bude vědět, co je v území možné realizovat, za úspěšnou záchranu památky.**
+
+Že radnice značně zaostává v efektivnosti svých investic za soukromým sektorem prokázala nejen na opravě Čínského pavilonu, předražených rekonstrukcích dětských hřišť nebo dlouhá léta se táhnoucí “záchraně” bývalé usedlosti Buďánka, též památkově chráněné. Tyto zkušenosti nedávají mnoho naděje, že s Cibulkou to bude jinak.
 
 **Jak by správně postupoval zkušený investor**
 
@@ -18,7 +18,7 @@ Investor by nejprve podepsal s prodávajícím tzv. **Dohodu o záměru** a na j
 Investiční záměr s Objemovou studií stavby by projednal s památkáři, kteří mají zásadní vliv na budoucí podobu objektů a bez jejich souhlasu přeměna bývalé usedlosti nebude možná.
 **Ocenění projektu lze provést až z údajů obsažených v Investičním záměru a Objemové studii**. Taková cena je vyšší než pouhé ocenění chátrajících objektů na místě, a proto ke koupi může dojít, až investor získá povolení ke stavbě. Do té doby by nesl příliš velké riziko a měl by být ochoten zaplatit jen hodnotu chátrajících budov.
 Po ocenění Investičního záměru může investor s prodávajícím podepsat Smlouvu o budoucí smlouvě kupní a v ní **stanovit podmínky, po jejichž splnění areál koupí**.
-Pro ověření, že Investiční záměr je vůbec technicky a právně realizovatelný investor vypracuje tzv. Studii proveditelnosti. Další odkládací podmínkou koupě je Pravomocné územní rozhodnutí vydané pro podrobnější projekt (DUR). **Teprve po získaném povolením výstavby investor uzavírá Kupní smlouvu.**
+Pro ověření, že Investiční záměr je vůbec technicky a právně realizovatelný investor vypracuje tzv. Studii proveditelnosti. Další odkládací podmínkou koupě je Pravomocné územní rozhodnutí vydané pro podrobnější projekt (DUR). **Teprve po získaném povolení investor uzavírá Kupní smlouvu.**
 
 **Pokud investor koupí v takto problematickém a nejistém prostředí nemovitosti dříve, než za shora popsaného scénáře, jedná se o pouhou spekulaci**, kterou musí vyvážit velmi výrazně nižší cena. Výrazně znamená třeba i menší než poloviční cena. 
 
