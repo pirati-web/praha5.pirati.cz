@@ -8,7 +8,7 @@ authorId: milan.kryl
 image: posts/cibulka.jpg
 ---
 
-> **Zkušený investor by nepovažoval utracení více než 100 milionů Kč ještě před tím, než bude vědět, co je v území možné realizovat, za úspěšnou záchranu památky.**
+> **Zkušený investor nepovažuje za úspěšnou záchranu památky utracení více než 100 milionů Kč aniž by věděl, co bude na dnaém území možné realizovat.**
 
 Že radnice značně zaostává v efektivnosti svých investic za soukromým sektorem prokázala nejen na opravě Čínského pavilonu, předražených rekonstrukcích dětských hřišť nebo dlouhá léta se táhnoucí “záchraně” bývalé usedlosti Buďánka, též památkově chráněné. Tyto zkušenosti nedávají mnoho naděje, že s Cibulkou to bude jinak.
 
