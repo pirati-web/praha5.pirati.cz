@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: Středoškolské sestavování rozpočtu na Praze 5 pokračuje, investice do zvýšení školských kapacit chybí
+title: Středoškolské sestavování rozpočtu na Praze 5 pokračuje, konkrétní investice do navýšení školských kapacit v Košířích stále chybí
 date: 2020-12-14
 author: Karel Bauer
 authorId: karel.bauer
@@ -17,6 +17,8 @@ Návrh rozpočtu počítá s příjmy ve výši 718 tis. Kč a výdaji 1,13 mil.
 Praha 5 se nachází v rozpočtovém provizoriu a zastupitelé, kteří byť na konci ledna rozhodují o rozpočtu na letošní rok, bohužel nemají k dispozici výsledek čerpání rozpočtu z předešlého roku. Nezbývá jim tedy nic jiného, než si aktuálním stav obecní kasy nastudovat z rozklikávacího rozpočtu, který je sice dostupný na oficiálních internetových stránkách městské části, ale rozpočet mají aktualizovaný pouze k datu 9.12.2020. Zde lze pak dohledat, že v roce 2020 ze schváleného (1,24 miliardy Kč) a následně ještě upraveného (1,46 miliardy Kč) rozpočtu bylo utraceno pouze necelých 842 mil. Kč. Takto markantní rozdíl mezi plánem a realitou jen potvrzuje, že Praha 5 neumí plánovat. V průběhu roku jsme pak svědky neustálého přijímání rozpočtových úprav ex post. Rozpočtu chybí realistický plán s jasně definovaným seznamem hlavních cílů. O harmonogramu zachycující plánované čerpání výdajů si na Praze 5 pak už můžeme nechat jenom zdát.
 
 Z naplánovaných výdajů přes 429 milionů korun na “budovy, haly a stavby” radnice utratila jen něco přes 160 milionů Kč. Např. v případě ZŠ Smíchov City byly plánované výdaje 15 milionů, rozpočet byl následně upraven na 3,6 milionu a u položky skutečnost k dnešnímu dni na klikacím rozpočtu stále svítí stav čerpání 0,- Kč. 
+
+> "Investici, která by řešila kritickou situace nedostatečných školních kapacitami v Košířích a pod Vidoulí budete v tomto rozpočtu  hledat marně. Tímto úkolem byla paní starostka pověřena zastupitelstvem Prahy 5 a měla jej splnit do konce roku 2020," upozorňuje předseda kontrolního výboru Ing. Štěpán Rattay.
 
 U MŠ Nad Palatou pak z plánovaných 15 milionů došlo k seškrtání rozpočtu v průběhu roku na 490 tisíc. Investici, která by řešila kritickou situaci s nedostatečnými školními kapacitami v Košířích a pod Vidoulí budete v rozpočtu na rok 2021 hledat marně. A tak bychom mohli pokračovat. Nejde přitom jen o budovy. Snad ještě horší je situace  v rámci čerpání plánovaných investic do parků. Kolikrát nám byla již slibovaná kompletní rekonstrukce parku Mrázovka, Kavalírka nebo Chaplinova náměstí?  Nečerpání participativního rozpočtu je pak doslova evergreenem. 
 
