@@ -3,8 +3,8 @@ uid: petr.fridrich
 name: Petr Fridrich
 category:
   - priznivci
-description: Spoluzakladatel a konzultant core questions s.r.o., průvodce změnami a facilitátor inovací, zakladatel Smíchologie
-profession: Spoluzakladatel a konzultant core questions s.r.o., průvodce změnami a facilitátor inovací, zakladatel Smíchologie
+description: Inovační analytik a konzultant 
+profession: Inovační analytik a konzultant 
 img: people/petr-fridrich.jpeg
 mail:
   - petr.fridrich@gmail.com
