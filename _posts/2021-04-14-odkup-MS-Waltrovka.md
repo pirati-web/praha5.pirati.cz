@@ -18,7 +18,7 @@ Objekt převzala MČ od investora Penta Investment v květnu loňského roku a p
 
 Navíc nabídka úspory 5,5 milionů je podle Pirátů jen zdánlivá. Budovu předškolní děti využívají teprve od loňského září. Předčasným odkupem se MČ Praha 5 zříká výhody, kdy nemusela řešit žádné případné budoucí poruchy nebo nenadálé nehody.
 
-Podle Pirátů Praha 5 místostarosta Homola a potažmo celá vládnoucí koalice dlouhodobě vychází vstříc spíše developerům, než aby chránila zájmy občanů městské části. O tom svědčí i podněty ke změnám územního plánu, které jsou také zařazeny na programu úterního zasedání zastupitelstva.
+Podle Pirátů Praha 5 místostarosta Homola a potažmo celá vládnoucí koalice dlouhodobě vychází vstříc spíše developerům, než aby chránila zájmy občanů městské části. O tom svědčí i podněty ke změnám územního plánu, které také byly zařazeny a schváleny na úterním zasedání zastupitelstva.
 
 
 
