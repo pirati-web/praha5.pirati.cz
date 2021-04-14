@@ -8,7 +8,7 @@ authorId: stepan.rattay
 image: posts/MS-Waltrovka-1.jpg
 ---
 
-Zastupitelstvo MČ Praha 5 na svém úterním zasedání schálilo staronový návrh místostarosty Tomáše Homoly (STAN) na odkoupení objektu mateřské školy v areálu Waltrovka, kterou MČ může zdarma využívat až 15 let. Zastupitelský klub Pirátů považuje předčasný odkup za bezdůvodný a nevýhodný.
+Zastupitelstvo MČ Praha 5 na svém úterním zasedání schválilo staronový návrh místostarosty Tomáše Homoly (STAN) na odkoupení objektu mateřské školy v areálu Waltrovka, kterou MČ může zdarma využívat až 15 let. Zastupitelský klub Pirátů považuje předčasný odkup za bezdůvodný a nevýhodný.
 
 > „Místostarosta Homola prosazuje odkup už podruhé. Podporu pro něj neúspěšně hledal ve výborech zastupitelstva již v říjnu 2020. Tentokrát zřejmě již dokázal některé koaliční partnery přesvědčit,” říká Adam Rut předseda zastupitelského klubu Piráti. 
 
