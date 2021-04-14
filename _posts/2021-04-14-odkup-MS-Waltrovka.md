@@ -24,7 +24,7 @@ Podle Pirátů Praha 5 místostarosta Homola a potažmo celá vládnoucí koalic
 
 **Kontakt pro média**:
 
-Štěpán Rattay, předseda předseda kontrolního výboru MČ Praze 5 a zastupitel, tel: 777 180 007; mail: [stepan.rattay@pirati.cz](mailto:stepan.rattay@pirati.cz)
+Štěpán Rattay, předseda kontrolního výboru MČ Praze 5 a zastupitel, tel: 777 180 007; mail: [stepan.rattay@pirati.cz](mailto:stepan.rattay@pirati.cz)
 
 Michal Polák, media manažer KS Praha, tel: +420 608 517 127; mail: [michal.polak@pirati.cz](mailto:michal.polak@pirati.cz)
 
