@@ -69,4 +69,4 @@ Souhrnně k variantám 1–3, které znamenají nárůst tříd ZŠ Nepomucká (
 
 člen školského výboru ZMČ Praha 5
 
-rodič tží dětí navštěvujících ZŠ Nepomucká
+rodič tří dětí navštěvujících ZŠ Nepomucká
