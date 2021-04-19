@@ -37,7 +37,7 @@ U všech faktorů lze kalkulovat s nějakými průměrnými čísly, ale je zde 
 V tabulce jsou uvedeny odhady počtu nových tříd, nad rámec současné kapacity ZŠ Nepomucká v dalších letech.
 
 | školní rok    | Počet potřebných prvních tříd na ZŠ Nepomucká (vč. Beníškové)           | Celkové navýšení počtu tříd ve srovnání s rokem 2020/2021  |
-| ------------- |:-------------:|: -----:|
+| ------------- |:-------------:|: -----|
 | 2021/2022 (letos)    |3 třídy |0 tříd |
 | 2022/2023   |4 třídy |1 třída |
 | 2023/2024   |4 třídy |2 třídy |
@@ -52,7 +52,7 @@ Pro další roky již bude potřeba otevřít vždy čtyři 1. třídy, ve škol
 Bohužel, s ohledem na pokročilost a dlouhodobé neřešení problému, již žádná dobrá řešení neexistují. Každá z možností má svá výrazná omezení a velké nevýhody, které ve výsledku dopadnou nejvíce na rodiče. V tabulce níže jsou shrnuty jednotlivé varianty řešení se stručným uvedením výhod a nevýhod.
 
 |č.| varianta  |výhody           | nevýhody |
-|:---:| ------------- |-------------|-----|
+|:---:| ------------- |-------------|:-----|
 |1| **Umístění tříd 1. stupně do budovy na Plzeňské** (nové třídy prvního stupně nad kapacitu budovy na Nepomucké by byly zřízeny v budově Plzeňská)    |* jednoduché řešení z pohledu zřizovatele i ZŠ Nepomucká  * vzdálenostně a časově pro rodiče přijatelné  *  levné řešení|* umístění budovy (rušná křižovatka u tramvajové trati) * chybějící zázemí (tělocvična, vývařovna) * nemožnost parkování (v rámci bezpečnosti nabídnout doprovod dětí?) * učitelé i žáci by byli v budově odděleně od všech ostatních učitelů a žáků ZŠ Nepomucká|
 |2|**Umístění vybraných tříd 2. stupně do budovy na Plzeňské** (aby na Plzeňskou nemusely docházel malé děti z 1. stupně, přesunuly by se tam některé třídy 2. stupně)|* viz výše jako u var. 1 * starší děti jsou schopné se bezpečně dopravit samostatně|* viz výše jako u var. 1 * prakticky neřešitelná otázka rozvrhu a přesunu učitelů mezi budovami Plzeňská a Nepomucká (nelze se přesunout během přestávky) *  |
 |3|**Stavba kontejnerové školy** (umístění kontejneru pravděpodobně na parkovišti Uhelných skladů)|* lokalita Uhelných skladů je pro rodiče skvěle dostupná * vzdálenost od Nepomucké je krátká a celkem bezpečná na pěší chůzi|* cena a technická náročnost (koupě kontejnerů a zavedení sítí – voda, elektřina, údržba) * negativní vnímání kontejnerového řešení|
