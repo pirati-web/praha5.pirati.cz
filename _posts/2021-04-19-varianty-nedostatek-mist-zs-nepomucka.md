@@ -1,5 +1,5 @@
 ---
-date: 2020-04-01
+date: 2021-04-19
 category: blog
 tags: školství, košíře
 layout: post
@@ -7,7 +7,7 @@ title: "Jak vyřešit nedostatek míst na základích školách v Košířích"
 author: Filip Karel
 authorId: filip.karel
 # authorId:  uid nekoho z _people (nepovinné)
-image: posts/nepomucka01.jpg
+image: posts/nepomucka-rekonstrukce-1.jpg
 ---
 
 Popis situace s nedostatečnými kapacitami ZŠ v Košířích se již objevil na mnoha místech, a to včetně detailního a přesného shrnutí příčin celého problému. Tedy na tomto místě se nebudeme opakovat. Předkládáme místo toho hodnocení různých variant řešení nedostatku míst do té doby, než bude postavena nová budova v oblasti Košíř.
@@ -69,4 +69,4 @@ Souhrnně k variantám 1–3, které znamenají nárůst tříd ZŠ Nepomucká (
 
 člen školského výboru ZMČ Praha 5
 
-rodič 3 dětí navštěvujících ZŠ Nepomucká
+rodič tží dětí navštěvujících ZŠ Nepomucká
