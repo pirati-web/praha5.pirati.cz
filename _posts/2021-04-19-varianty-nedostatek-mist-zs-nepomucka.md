@@ -52,11 +52,11 @@ Pro další roky již bude potřeba otevřít vždy čtyři 1. třídy, ve škol
 Bohužel, s ohledem na pokročilost a dlouhodobé neřešení problému, již žádná dobrá řešení neexistují. Každá z možností má svá výrazná omezení a velké nevýhody, které ve výsledku dopadnou nejvíce na rodiče. V tabulce níže jsou shrnuty jednotlivé varianty řešení se stručným uvedením výhod a nevýhod.
 
 |č.| varianta  |výhody           | nevýhody |
-|:---:| ------------- |:-------------:|: -----:|
+|:---:| ------------- |-------------|-----|
 |1| **Umístění tříd 1. stupně do budovy na Plzeňské** (nové třídy prvního stupně nad kapacitu budovy na Nepomucké by byly zřízeny v budově Plzeňská)    |* jednoduché řešení z pohledu zřizovatele i ZŠ Nepomucká  * vzdálenostně a časově pro rodiče přijatelné  *  levné řešení|* umístění budovy (rušná křižovatka u tramvajové trati) * chybějící zázemí (tělocvična, vývařovna) * nemožnost parkování (v rámci bezpečnosti nabídnout doprovod dětí?) * učitelé i žáci by byli v budově odděleně od všech ostatních učitelů a žáků ZŠ Nepomucká|
-|2|**Umístění vybraných tříd 2. stupně do budovy na Plzeňské** (aby na Plzeňskou nemusely docházel malé děti z 1. stupně, přesunuly by se tam některé třídy 2. stupně)|||
-|3|**Stavba kontejnerové školy** (umístění kontejneru pravděpodobně na parkovišti Uhelných skladů)|||
-|4|**Umísťování dětí do jiných škol na Praze 5**, např.|||
+|2|**Umístění vybraných tříd 2. stupně do budovy na Plzeňské** (aby na Plzeňskou nemusely docházel malé děti z 1. stupně, přesunuly by se tam některé třídy 2. stupně)|* viz výše jako u var. 1 * starší děti jsou schopné se bezpečně dopravit samostatně|* viz výše jako u var. 1 * prakticky neřešitelná otázka rozvrhu a přesunu učitelů mezi budovami Plzeňská a Nepomucká (nelze se přesunout během přestávky) *  |
+|3|**Stavba kontejnerové školy** (umístění kontejneru pravděpodobně na parkovišti Uhelných skladů)|* lokalita Uhelných skladů je pro rodiče skvěle dostupná * vzdálenost od Nepomucké je krátká a celkem bezpečná na pěší chůzi|* cena a technická náročnost (koupě kontejnerů a zavedení sítí – voda, elektřina, údržba) * negativní vnímání kontejnerového řešení|
+|4|**Umísťování dětí do jiných škol na Praze 5**, např. ZŠ Weberova, ZŠ Podbělohorská, ZŠ Drtinova, ZŠ Grafická, ZŠ U Santošky, ZŠ Tyršova|* pro MČ beznákladové řešení * organizačně nejsnadnější řešení * v součtu jsou uvedené školy schopny pojmout celý převis poptávky z Košíř až do doby, než bude postavena nová budova v Košířích|* nejvíce náročné pro rodiče i děti, ti by nesli prakticky všechny nevýhody tohoto řešení * každodenní doprovod dětí do/ze školy, časová náročnost * děti nebudou tvoři kolektiv v místě bydliště * z pohledu dětí a rodičů by šlo o řešení zřejmě na celých 5 let docházky na prvním stupni|
 
 
 Souhrnně k variantám 1–3, které znamenají nárůst tříd ZŠ Nepomucká (ať už umístěných kdekoliv) je potřeba započítat otázku kapacit tělocvičny a jídelny. Tělocvična, tak jídelna jsou již nyní také na hraně kapacit a jen velmi obtížně lze navyšovat počet dětí či tříd využívajících toto zázemí.
