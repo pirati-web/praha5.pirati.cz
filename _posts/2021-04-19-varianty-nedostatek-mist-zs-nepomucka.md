@@ -7,7 +7,7 @@ title: "Zhodnocení variant řešení nedostatku míst na ZŠ v Košířích"
 author: Filip Karel
 authorId: filip.karel
 # authorId:  uid nekoho z _people (nepovinné)
-image: people/nepomucka01.jpg
+image: posts/nepomucka01.jpg
 ---
 
 Popis situace s nedostatečnými kapacitami ZŠ v Košířích se již objevil na mnoha místech, a to včetně detailního a přesného shrnutí příčin celého problému. Předkládáme tedy zhodnocení různých variant řešení nedostatku míst do té doby, než bude postavena nová budova v oblasti Košíř.
