@@ -56,14 +56,7 @@ Bohužel, s ohledem na pokročilost a dlouhodobé neřešení problému, již ž
 |1| **Umístění tříd 1. stupně do budovy na Plzeňské** (nové třídy prvního stupně nad kapacitu budovy na Nepomucké by byly zřízeny v budově Plzeňská)    |* jednoduché řešení z pohledu zřizovatele i ZŠ Nepomucká  * vzdálenostně a časově pro rodiče přijatelné  *  levné řešení|* umístění budovy (rušná křižovatka u tramvajové trati) * chybějící zázemí (tělocvična, vývařovna) * nemožnost parkování (v rámci bezpečnosti nabídnout doprovod dětí?) * učitelé i žáci by byli v budově odděleně od všech ostatních učitelů a žáků ZŠ Nepomucká|
 |2|**Umístění vybraných tříd 2. stupně do budovy na Plzeňské** (aby na Plzeňskou nemusely docházel malé děti z 1. stupně, přesunuly by se tam některé třídy 2. stupně)|||
 |3|**Stavba kontejnerové školy** (umístění kontejneru pravděpodobně na parkovišti Uhelných skladů)|||
-|4|**Umísťování dětí do jiných škol na Praze 5**, např.
-•	ZŠ Weberova
-•	ZŠ Podbělohorská
-•	ZŠ Drtinova
-•	ZŠ Grafická
-•	ZŠ U Santošky
-•	ZŠ Tyršova
-|||
+|4|**Umísťování dětí do jiných škol na Praze 5**, např.|||
 
 
 Souhrnně k variantám 1–3, které znamenají nárůst tříd ZŠ Nepomucká (ať už umístěných kdekoliv) je potřeba započítat otázku kapacit tělocvičny a jídelny. Tělocvična, tak jídelna jsou již nyní také na hraně kapacit a jen velmi obtížně lze navyšovat počet dětí či tříd využívajících toto zázemí.
