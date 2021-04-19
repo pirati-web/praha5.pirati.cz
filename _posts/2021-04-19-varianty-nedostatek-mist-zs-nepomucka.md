@@ -3,7 +3,7 @@ date: 2020-04-01
 category: blog
 tags: školství, košíře
 layout: post
-title: "Zhodnocení variant řešení nedostatku míst na ZŠ v Košířích"
+title: "Jak vyřešit nedostatek míst na základích školách v Košířích"
 author: Filip Karel
 authorId: filip.karel
 # authorId:  uid nekoho z _people (nepovinné)
