@@ -26,9 +26,7 @@ Už v tomto roce dojde pravděpodobně k převisu poptávky nad nabídkou volný
 
 Přesné odhady počtu zapsaných dětí se dělají jen velmi těžko – známe aktuální celkový počet 6letých dětí ve spádové oblasti, které by měly přijít k zápisu, ale jsou zde faktory jako:
 *	odklady školní docházky
-*	rozhodnutí rodičů zapsat děti jinam
-++ část rodičů zapisuje děti do nespádových škol, bez ohledu na kapacity spádové školy
-++	část rodičů se rozhodne rovnou najít místo jinde a mít jistotu (než řešit až o prázdninách, kam vlastně bude jejich prvňák chodit)
+*	rozhodnutí rodičů zapsat děti jinam (část rodičů zapisuje děti do nespádových škol, bez ohledu na kapacity spádové školy; část rodičů se rozhodne rovnou najít místo jinde a mít jistotu - než řešit až o prázdninách, kam vlastně bude jejich prvňák chodit)
 *	průběžné stěhování rodičů (do dalších let)
 *	další neznámé faktory
 
@@ -39,7 +37,7 @@ U všech faktorů lze kalkulovat s nějakými průměrnými čísly, ale je zde 
 V tabulce jsou uvedeny odhady počtu nových tříd, nad rámec současné kapacity ZŠ Nepomucká v dalších letech.
 
 | školní rok    | Počet potřebných prvních tříd na ZŠ Nepomucká (vč. Beníškové)           | Celkové navýšení počtu tříd ve srovnání s rokem 2020/2021  |
-| ------------- |-------------| -----|
+| ------------- |:-------------:|: -----:|
 | 2021/2022 (letos)    |3 třídy |0 tříd |
 | 2022/2023   |4 třídy |1 třída |
 | 2023/2024   |4 třídy |2 třídy |
@@ -53,6 +51,10 @@ Pro další roky již bude potřeba otevřít vždy čtyři 1. třídy, ve škol
 ##  Varianty řešení
 Bohužel, s ohledem na pokročilost a dlouhodobé neřešení problému, již žádná dobrá řešení neexistují. Každá z možností má svá výrazná omezení a velké nevýhody, které ve výsledku dopadnou nejvíce na rodiče. V tabulce níže jsou shrnuty jednotlivé varianty řešení se stručným uvedením výhod a nevýhod.
 
+|č.| varianta  |výhody           | nevýhody |
+|:---:| ------------- |:-------------:|: -----:|
+|1| Umístění tříd 1. stupně do budovy na Plzeňské (nové třídy prvního stupně nad kapacitu budovy na Nepomucké by byly zřízeny v budově Plzeňská)    |* jednoduché řešení z pohledu zřizovatele i ZŠ Nepomucká  * vzdálenostně a časově pro rodiče přijatelné  *  levné řešení|0 tříd |
+
 Souhrnně k variantám 1–3, které znamenají nárůst tříd ZŠ Nepomucká (ať už umístěných kdekoliv) je potřeba započítat otázku kapacit tělocvičny a jídelny. Tělocvična, tak jídelna jsou již nyní také na hraně kapacit a jen velmi obtížně lze navyšovat počet dětí či tříd využívajících toto zázemí.
 
 **O volbě konkrétního řešení a postupu se musí rozhodnout na základě diskuse a vyjádření názoru všech zúčastněných stran – rodičů, radnice i školy ZŠ Nepomucká.**
@@ -62,4 +64,5 @@ Souhrnně k variantám 1–3, které znamenají nárůst tříd ZŠ Nepomucká (
 **Filip Karel**
 
 člen školského výboru ZMČ Praha 5
+
 rodič 3 dětí navštěvujících ZŠ Nepomucká
