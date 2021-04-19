@@ -12,7 +12,7 @@ image: posts/nepomucka01.jpg
 
 Popis situace s nedostatečnými kapacitami ZŠ v Košířích se již objevil na mnoha místech, a to včetně detailního a přesného shrnutí příčin celého problému. Předkládáme tedy zhodnocení různých variant řešení nedostatku míst do té doby, než bude postavena nová budova v oblasti Košíř.
 
-## H2 Východiska
+## Východiska
 
 V dlouhodobém pohledu je stavba nové školní budovy v Košířích potřeba (bez ohledu na cokoliv dalšího):
 * Ani potenciální vrácení celé budovy na Plzeňské neřeší problém na košířském kopci.
@@ -34,7 +34,7 @@ Přesné odhady počtu zapsaných dětí se dělají jen velmi těžko – znám
 
 U všech faktorů lze kalkulovat s nějakými průměrnými čísly, ale je zde samozřejmě nejistota. Pokud se vše sejde „nepříznivým“ směrem, může situace eskalovat ještě daleko víc; nebo naopak se může vše sejít „příznivě“ a situace nebude zdaleka tak dramatická. Třeba na tento rok hraje roli i 10 dětí víc nebo míň – a to se opravdu nedá spočítat. Do dalších let samozřejmě míra nejistoty odpovídajícím způsobem roste.
 
-## H2 Odhad potřeby nové kapacity 
+## Odhad potřeby nové kapacity 
 
 V tabulce jsou uvedeny odhady počtu nových tříd, nad rámec současné kapacity ZŠ Nepomucká v dalších letech.
 
@@ -50,7 +50,7 @@ Tedy odhad je, že letos ještě bude stačit otevřít pouze 3 třídy (stejně
 Pro další roky již bude potřeba otevřít vždy čtyři 1. třídy, ve školním roce 2025/2025 pak 5 tříd – což pak znamená postupně každý následující rok jednu třídu navíc, oproti současnému stavu – celkově pak oproti současnému stavu je potřeba najít místo pro 4-5 tříd (které není možné umístit do budovy na Nepomucké ani v Beníškově).
 
 
-## H2  Varianty řešení
+##  Varianty řešení
 Bohužel, s ohledem na pokročilost a dlouhodobé neřešení problému, již žádná dobrá řešení neexistují. Každá z možností má svá výrazná omezení a velké nevýhody, které ve výsledku dopadnou nejvíce na rodiče. V tabulce níže jsou shrnuty jednotlivé varianty řešení se stručným uvedením výhod a nevýhod.
 
 Souhrnně k variantám 1–3, které znamenají nárůst tříd ZŠ Nepomucká (ať už umístěných kdekoliv) je potřeba započítat otázku kapacit tělocvičny a jídelny. Tělocvična, tak jídelna jsou již nyní také na hraně kapacit a jen velmi obtížně lze navyšovat počet dětí či tříd využívajících toto zázemí.
