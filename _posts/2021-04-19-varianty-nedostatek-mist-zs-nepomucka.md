@@ -7,7 +7,7 @@ title: "Jak vyřešit nedostatek míst na základích školách v Košířích"
 author: Filip Karel
 authorId: filip.karel
 # authorId:  uid nekoho z _people (nepovinné)
-image: posts/nepomucka-rekonstrukce-1.jpg
+image: posts/nepomucka-rekontrukce-1.jpg
 ---
 
 Popis situace s nedostatečnými kapacitami ZŠ v Košířích se již objevil na mnoha místech, a to včetně detailního a přesného shrnutí příčin celého problému. Tedy na tomto místě se nebudeme opakovat. Předkládáme místo toho hodnocení různých variant řešení nedostatku míst do té doby, než bude postavena nová budova v oblasti Košíř.
