@@ -10,7 +10,7 @@ authorId: filip.karel
 image: posts/nepomucka01.jpg
 ---
 
-Popis situace s nedostatečnými kapacitami ZŠ v Košířích se již objevil na mnoha místech, a to včetně detailního a přesného shrnutí příčin celého problému. Předkládáme tedy zhodnocení různých variant řešení nedostatku míst do té doby, než bude postavena nová budova v oblasti Košíř.
+Popis situace s nedostatečnými kapacitami ZŠ v Košířích se již objevil na mnoha místech, a to včetně detailního a přesného shrnutí příčin celého problému. Tedy na tomto místě se nebudeme opakovat. Předkládáme místo toho hodnocení různých variant řešení nedostatku míst do té doby, než bude postavena nová budova v oblasti Košíř.
 
 ## Východiska
 
