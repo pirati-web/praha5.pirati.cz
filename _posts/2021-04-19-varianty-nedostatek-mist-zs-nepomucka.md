@@ -3,7 +3,7 @@ date: 2021-04-19
 category: blog
 tags: školství, košíře
 layout: post
-title: "Jak vyřešit nedostatek míst na základích školách v Košířích"
+title: "Jak vyřešit nedostatek míst na základních školách v Košířích"
 author: Filip Karel
 authorId: filip.karel
 # authorId:  uid nekoho z _people (nepovinné)
