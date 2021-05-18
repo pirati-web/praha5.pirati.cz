@@ -24,7 +24,7 @@ Koaliční strany ANO, TOP09 a STAN opět podržely ODS v zametání problému p
 
 **Kontakt pro média**:
 
-Štěpán Rattay, předseda kontrolního výboru MČ Praze 5 a zastupitel, tel: 777 180 007; mail: [stepan.rattay@pirati.cz](mailto:stepan.rattay@pirati.cz)
+**Štěpán Rattay**, předseda kontrolního výboru MČ Praze 5 a zastupitel, tel: 777 180 007; mail: [stepan.rattay@pirati.cz](mailto:stepan.rattay@pirati.cz)
 
-Michal Polák, media manažer KS Praha, tel: +420 608 517 127; mail: [michal.polak@pirati.cz](mailto:michal.polak@pirati.cz)
+**Michal Polák**, media manažer KS Praha, tel: +420 608 517 127; mail: [michal.polak@pirati.cz](mailto:michal.polak@pirati.cz)
 
