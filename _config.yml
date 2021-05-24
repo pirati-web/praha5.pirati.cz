@@ -1,13 +1,14 @@
 # Welcome to Jekyll!
-#
-title: Piráti Praha 5
-email: pirati.praha5@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Stránka místního sdružení Piráti Praha 5.
-keywords: piráti, česká pirátská strana, svoboda, demokracie, Piráti Praha 5, piráti na pětce # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
-
 administrator:
-  email: jan.suchanek@gmail.com, filip@karlovi.cz
+  email: jan.suchanek@gmail.com # mail kam pujdou maily o webu
+github:
+  url: https://github.com/pirati-web/praha5.pirati.cz/
+  branch: master
+url: "https://praha5.pirati.cz"
+
+title: "Piráti Praha 5"
+description: "Česká pirátská strana - místní sdružení Praha 5"
+keywords: "piráti, česká pirátská strana, svoboda, demokracie, piráti na pětce"
 
 organization:
   name: Místní sdružení Pirátů Prahy 5
@@ -21,7 +22,19 @@ organization:
   residenceImg:
   mapLink: https://mapy.cz/zakladni?x=14.4151543&y=50.0733415&z=18&source=addr&id=9018965&q=Na%20Mor%C3%A1ni%203
   redmineLink: https://redmine.pirati.cz/projects/praha-5
+  residenceImg:
+  dataBoxId: b2i4r6j
+  transparentAccount: 2100048174/2010
+  donateLink: https://dary.pirati.cz/podpor-kraj/praha/
+  onboardingLink: https://nalodeni.pirati.cz/
 
+contactSummaryItems:
+  - type: organizationEmail
+  - type: organizationRedmineLink
+  - type: organizationTransparentAccount
+    includeMoreLink: true
+  - type: organizationDataBox
+  - type: piratiRootWebsite
 
 calendar:
   apiKey: AIzaSyBdjZxz4r9lPyD3CiSxQa6G3mf47ezI7Ks
@@ -32,7 +45,18 @@ calendar:
 facebook:
   loadSDK: true
   profilePage: https://www.facebook.com/PiratiP5/
+  profilePageName: "Piráti Praha 5"
   appId: 1526197851008996
+
+matomo:
+  loadSDK: true
+  siteId: 68
+
+forum:
+  page: https://forum.pirati.cz/
+
+youtube:
+  channel: UC_zxYLGrkmrYazYt0MzyVlA
 
 twitter:
   loadSDK: true
@@ -41,52 +65,41 @@ twitter:
 instagram:
   profilePage: https://www.instagram.com/pirati.cz/
 
-gplus:
-  profilePage: https://plus.google.com/u/0/+piratskastrana
-
 flicker:
   profilePage: https://www.flickr.com/photos/pirati/
 
-forum:
-  page: https://forum.pirati.cz/
+styleguide_base_url: 'https://styleguide.pir-test.eu/latest'
 
-github:
-  url: https://github.com/pirati-web/praha5.pirati.cz/
-  branch: master
-
-############## SETTINGS ########
-github_username:  jekyll
+############### SETTINSG #################
 
 theme: jekyll-theme-pirati
 
-sass:
-  style: compressed
-  sass_dir: _sass
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-pirati
-plugins:
-  - jekyll-feed
-  - jekyll-paginate
-  - jekyll-sitemap
-paginate_path: "/aktuality/:num/"
-paginate: 11
+
+pagination:
+  per_page: 9
+  permalink: '/:num/'
+  title: ':title - stránka :num'
+  trail: 7
 
 exclude:
-  - readme.md
+  - Dockerfile
   - Gemfile
   - Gemfile.lock
+  - README.md
+  - docker-compose.yml
   - vendor
 
 permalink: /aktuality/:title.html
 collections:
   people:
     output: true
-    permalink: /lide/:path/
-
+    permalink: /lide/:path:output_ext
   program:
     output: true
-    permalink: /komunalni-volby/program/:path/
+    permalink: /volby/:path:output_ext
 
   # Sole purpose is to create candidate lists in separate files.
   candidatelists:
@@ -98,41 +111,37 @@ defaults:   # defaults values for collection scope
       path: "_people"
     values:
       layout: "person"
-      rbar: 
-        - foto
-        - personContact
+      rbar:
+        - profile
+        - people
+  -
+    scope:
+      path: "_posts"
+    values:
+      layout: "post"
   -
     scope:
       path: "_program"
     values:
       layout: "program-post"
-      rbar: 
+      rbar:
          - garant
          - program
-
-emptyArray: []
 
 assets:
   source_maps: true
   compression: true
   gzip: false
   plugins:
-    css: { }
     img:
       optim:
         jpegoptim:
           strip: all
           max_quality: 80
-  autoprefixer:
     browsers:
       - "last 2 versions"
       - "IE > 9"
   sources:
-    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-7.4.0/_sass
-    - assets/css
-    - assets/fonts
-    - assets/video
+    - assets/js
     - assets/img
-    - assets/img/posts
-    - assets/snippet
-    - _sass
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-8.4.1/assets/img

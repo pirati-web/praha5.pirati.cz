@@ -1,79 +1,15 @@
 ---
 layout: default
-rbar: 
-  - textbox
-  - calendar
-  - fb
-img: foto_spolecne.png
-textbox:
-  title: Náš newsletter
-  text: >
-    <!-- Begin Mailchimp Signup Form -->
-    <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
-    <style type="text/css">
-    #mc_embed_signup{background:clear; clear:left; font:14px Helvetica,Arial,sans-serif; }
-    /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
-      We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-    </style>
-    <div id="mc_embed_signup">
-    <form action="https://pirati.us10.list-manage.com/subscribe/post?u=02c74e718d4344de0aa59e613&amp;id=39561b50d8" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-        <div id="mc_embed_signup_scroll">
-    <label for="mce-EMAIL">Odebírej novinky e-mailem</label>
-    <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="e-mailová adresa" required>
-        <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-        <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_02c74e718d4344de0aa59e613_39561b50d8" tabindex="-1" value=""></div>
-        <div class="clear"><input type="submit" value="Přihlásit se" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-        </div>
-    </form>
-    </div>
-
 ---
 
-{% include homepage/banner.html 
-   link='/komunalni-volby/'
-   title='Komunální volby 2018'
-   default='foto_spolecne.png'
-   mobile='foto_spolecne.png'
-   breakpoint=640
-%}
+{% capture imgPath %}{% asset "praha-5.jpg" @path %}{% endcapture %}
+{% assign imgPath = imgPath | absolute_url %}
 
-<div class="row">
-  <div class="medium-12 large-8 columns">
-    <section class="o-section o-section--spaceBot">
-      <div class="o-section-inner o-section-inner--leftBlock">
+{% include hero/simple.html headline="Piráti Praha 5" description="Makáme v opozici. Držíme směr!" bgImg=imgPath %}
 
-         <header class="o-section-header">
-            <h1 class="o-section__heading">Piráti Praha 5</h1>
-         </header>         
-         
-         <p><strong>Česká pirátská strana je liberální, demokratická, středová strana s důsledným protikorupčním programem. Naším cílem je prosazovat náš program, ať už jsme v koalici nebo v opozici.</strong></p>
-         <p>Cílem politiky Pirátů je svobodná, vzdělaná a digitálně propojená společnost. Protože jen taková umožňuje vznik moderní a prosperující ekonomiky, která umožní vysokou kvalitu života v budoucnosti.</p>
-
-         <h2>Vlastnosti spojované s Piráty:</h2>
-
-         <p>Otevřenost, průhlednost, poctivost, pracovitost, liberalismus, svoboda jednotlivce, informovanost, férovost, komunikativnost, odbornost, rozum, mládí, dynamika.</p>
-
-         <h3>Proti čemu se Piráti vymezují:</h3>
-         <ul>
-            <li>Jednoduchá a rychlá řešení na složité problémy, hysterie, demagogie, nenávist.</li>
-            <li>Rasismus, sexismus, xenofobie, fašismus, komunismus.</li>
-            <li>Neregulovaný lobbismus, kartely, monopoly, nepotismus, politické trafiky, střet zájmů.</li>
-         </ul>         
-        
-        <h2>Aktuální témata</h2>
-
-        {% for article in site.posts limit: 6 %}
-          {% include articles/horizontal-article.html article=article %}
-        {% endfor %}
-        <div class="c-article-listing__nextbox">
-          <a href="{{'/aktuality/' | relative_url}}" rel="next" class="button expanded large">Další články</a>
-        </div>
-      </div>
-    </section>
-  </div>
-  {% if page.rbar %}
-  <div class="medium-12 large-4 columns">
-    {% include right-bar/rbar.html param='rbar' %}
-  </div>
-  {% endif %}
+<div class="container container--default pt-4 lg:pb-24">
+  {% include homepage/news.html title="Na Pětce se děje:" %}
+  {% include homepage/countdown.html deadline="2022-10-05 14:00:00" %}
+  {% include homepage/calendar.html %}
+  {% include homepage/social.html %}
 </div>

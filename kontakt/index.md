@@ -1,13 +1,14 @@
 ---
 layout: contacts
-description: Piráti Praha 5 je sdružení otevřené činorodým lidem, rádi přivítáme nové příznivce a dobrovolníky, kterým Praha 5 leží na srdci.
+title: Kontaktní informace
+description: Pirátská strana v Praze 5 je otevřená a ráda přivítá nové členy, dobrovolníky a odpoví na vaše dotazy
 keywords: kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou
-residence: yes #vyplňte pokud chcete přidat adresu nejbližšího pice
+noresidence: yes
+contactPersons:
+  - daniel.mazur
+  - linda.neubergova
 ---
-
-<div class="o-section-header o-section-header--indented">
-  <h1 class="t-h2-alt">Přidejte se</h1>
-</div>
+ <h1>Přidejte se k nám</h1>
 
 Zajímá vás co Piráti dělají a jak? Ozvěte se [Danovi Mazurovi](/lide/daniel-mazur) nebo přijďte k nám na otevřenou schůzi. Pořádáme je obvykle první pondělí v měsíci v pražském pirátském centru (PiCe) na Praze 2 (Na Moráni), aktuální informace se objevuje [v tomto vlákně](https://forum.pirati.cz/viewtopic.php?f=923&t=40251) na pirátském fóru.
 

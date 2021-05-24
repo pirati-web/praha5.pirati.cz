@@ -1,49 +1,52 @@
 top:
   - link: "pirati.cz"
     url:  "https://www.pirati.cz"
-    icon: "fa fa-home"
-  - link: "wiki.pirati.cz"
-    url:  "https://wiki.pirati.cz"
-    icon: "fa fa-home"
+    icon: "ico--home"
+  - link: "piratskyobchod.cz"
+    url:  "https://piratskyobchod.cz"
+    icon: "ico--cart"
   - link: "Pirátské listy"
     url:  "http://www.piratskelisty.cz"
-    icon: "fa fa-newspaper-o"
+    icon: "ico--newspaper"
+
 
 main:
   - link: /aktuality/
     name: Aktuality
-    match: aktuality
   - link: /lide/
     name: Lidé
-    match: lide
-  - link: /komunalni-volby2/
-    name: Komunální volby
-    match: komunalni-volby2
   - link: /kontakt/
     name: Kontakt
-    match: kontakt
 
 bottom:
   - class: small-12 medium-4
     title: Připoj se
     links:
-      - link: /pripoj-se/
+      - link: /kontakt/
         name: Dej nám vědět
+      - link: "https://nalodeni.pirati.cz"
+        name:  Nalodění
   - class: small-12 medium-4
     title: Makáme
     links:
       - link: /lide/
         name: Lidé
-      - link: /komunalni-volby/
-        name: Volby
       - link: /aktuality/
         name: Aktuality
   - class: small-12 medium-4
     title: Otevřenost
     links:
-      - link: https://ib.fio.cz/ib/transparent?a=2001084292
+      - link: https://ucet.pirati.cz
         name: Transparentní účet
       - link: https://smlouvy.pirati.cz
         name: Registr smluv
       - link: https://wiki.pirati.cz/fo/otevrene_ucetnictvi
         name: Otevřené účetnictví
+
+
+# Display transparency section in the footer?
+transparencySection: false
+
+contact:
+  - martin.sterba
+  - jan.kolator
