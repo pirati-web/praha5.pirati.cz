@@ -1,14 +1,10 @@
 ---
 layout: default
 ---
-
-{% capture imgPath %}{% asset "praha-5.jpg" @path %}{% endcapture %}
-{% assign imgPath = imgPath | absolute_url %}
-
-{% include hero/simple.html headline="Piráti Praha 5" description="Makáme v opozici. Držíme směr!" bgImg=imgPath %}
-
-<div class="container container--default pt-4 lg:pb-24">
-  {% include homepage/news.html title="Na Pětce se děje:" %}
+{% include hero/simple.html headline="Piráti Praha 5" description="Držíme kurz!" bgImg="/assets/img/praha-5.jpg" heroSpacing="py-16 lg:pt-32" %}
+<br><br>
+<div class="container container--default lg:pb-24">
+  {% include homepage/news.html %}
   {% include homepage/countdown.html deadline="2022-10-05 14:00:00" %}
   {% include homepage/calendar.html %}
   {% include homepage/social.html %}
