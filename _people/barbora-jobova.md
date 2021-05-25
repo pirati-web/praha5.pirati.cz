@@ -9,6 +9,7 @@ category:
 description: 
 profession: 
 #img: people/barbora-jobova.png # zakomentuj radek dokud není fotka
+heroImg: praha-5.jpg
 mail:
   #- barbora.jobova@pirati.cz
 profiles:

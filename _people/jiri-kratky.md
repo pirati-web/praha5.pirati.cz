@@ -10,6 +10,7 @@ ordZas: 6
 description: Člen zastupitelského klubu Pirátů na MČ Praha 5
 profession:  Ferda Mravenec, práce všeho druhu
 img: people/jiri-kratky.png
+heroImg: praha-5.jpg
 mail:
   #- jiri.kratky@pirati.cz
 profiles:

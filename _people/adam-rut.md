@@ -12,6 +12,7 @@ ordZas: 5
 description: Člen místního sdružení Piráti Praha 5 # zobrazuje se v lide
 profession: Analytik a projektový manažer
 img: people/adam-rut.png # zakomentuj radek dokud není fotka
+heroImg: praha-5.jpg
 mail:
   - adam.rut@pirati.cz
 profiles:

@@ -14,6 +14,7 @@ ordZas: 1
 description: Předseda místního sdružení Piráti Praha 5 # zobrazuje se v lide
 profession: Vysokoškolský pedagog, fyzik
 img: people/daniel-mazur.png # zakomentuj radek dokud není fotka
+heroImg: praha-5.jpg
 mail:
   - daniel.mazur@pirati.cz
 profiles:

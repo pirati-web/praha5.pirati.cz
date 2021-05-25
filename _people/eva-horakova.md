@@ -12,6 +12,7 @@ description: Členka místního sdružení Piráti Praha 5 # zobrazuje se v lide
 profession: Předsedkyně Výboru pro sociální politiku Magistrátu hl. m. Prahy
 profilebadge: people/Eva-horakova-2.jpg
 img: people/Eva-horakova-2.jpg
+heroImg: praha-5.jpg
 mail:
   - eva.horakova@pirati.cz
 profiles:

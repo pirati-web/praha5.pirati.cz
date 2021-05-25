@@ -6,6 +6,7 @@ category:
 description: Inovační analytik a konzultant, zakladatel Smíchologie
 profession: Inovační analytik a konzultant, zakladatel Smíchologie
 img: people/petr-fridrich.jpeg
+heroImg: praha-5.jpg
 mail:
   - petr.fridrich@gmail.com
 profiles:

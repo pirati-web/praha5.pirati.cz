@@ -12,6 +12,7 @@ ordZas: 4
 description:  Předseda Spolku na ochranu Barrandova # zobrazuje se v lide
 profession: filantrop
 img: people/milan-kryl.png # zakomentuj radek dokud není fotka
+heroImg: praha-5.jpg
 mail:
   - milan.kryl@post.cz
 profiles:

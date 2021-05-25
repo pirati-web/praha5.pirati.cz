@@ -8,6 +8,7 @@ ordclenove: 3
 description: 
 profession:  
 img: people/filip-karel.jpg
+heroImg: praha-5.jpg
 mail:
   - filip@karlovi.cz
 profiles:

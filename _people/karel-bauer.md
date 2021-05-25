@@ -9,6 +9,7 @@ ordZas: 2
 description: Člen místního sdružení Piráti Praha 5  # zobrazuje se v lide
 profession: ekonom, majitel účetní firmy
 img: people/karel-bauer.png # zakomentuj radek dokud není fotka
+heroImg: praha-5.jpg
 mail:
   - bauer.karel@seznam.cz
 profiles:
