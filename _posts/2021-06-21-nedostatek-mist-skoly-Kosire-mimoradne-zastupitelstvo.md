@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title:  Za nedostatkem školních míst na Praze 5 je masivní developerská výstavba a liknavost předešlých vedení radnice
+title:  Za nedostatkem školních míst na Praze 5 je masivní developerská výstavba a liknavost předešlých vedení města
 date: 2021-06-21
 author: Štěpán Rattay
 authorId: stepan.rattay
