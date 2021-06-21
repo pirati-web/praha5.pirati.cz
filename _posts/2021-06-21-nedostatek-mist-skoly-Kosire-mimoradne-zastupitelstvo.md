@@ -8,13 +8,13 @@ authorId: stepan.rattay
 image: posts/nepomucka-rekontrukce-1.jpg
 ---
 
-Přetrvávání problému a neschopnost vládnoucí koalice včas představit jasný postup, jak chybějící místa na školách vyřešit, vyústilo až ke svolání mimořádného zastupitelstva. Do hledání řešení nedostatku školních kapacit v Košířích se Piráti zapojují od voleb v roce 2018.  Iniciovali setkání se zástupci vedení magistrátu a radnice Prahy 5s konstruktivní a otevřenou debatou k výstavbě nové školy na Cibulkách. Úterní mimořádné zasedání zastupitelstva, by mělo řešit zejména naléhavou otázku, co s dětmi v příštích 5 letech?
+Přetrvávání problému a neschopnost vládnoucí koalice včas představit jasný postup, jak chybějící místa na školách vyřešit, vyústilo ke svolání mimořádného zastupitelstva. Do hledání řešení nedostatku školních kapacit v Košířích se Piráti zapojují od voleb v roce 2018.  Iniciovali setkání se zástupci vedení magistrátu a radnice Prahy 5 s konstruktivní a otevřenou debatou k výstavbě nové školy na Cibulkách. Úterní mimořádné zasedání zastupitelstva by mělo řešit zejména naléhavou otázku, co s dětmi v příštích pěti letech?
 
 > “V kritické lokalitě probíhá masivní developerská výstavba bytů od velkých investorů jako je investiční skupina KKCG Karla Komárka nebo finského YIT. Ani jeden z nich se k nezbytnosti výstavby školy veřejně nepřihlásil a městská část při schvalování výstavby mlčela,” popisuje příčiny problému Štěpán Rattay, předseda kontrolního výboru MČ Praha 5. 
 
-Již několik měsíců je přitom platné usnesení zastupitelstva MČ Praha 5 zavazující vedení radnice předložit možné varianty řešení nedostatku školních kapacit v Košířích  pro následujících 5 let. Tolik času totiž  bude trvat výstavba plánované nové školské budovy v oblasti Košíř. Usnesení však stále nebylo naplněno.
+Již několik měsíců je přitom platné usnesení zastupitelstva MČ Praha 5 zavazující vedení radnice předložit možné varianty řešení nedostatku školních kapacit v Košířích pro následujících 5 let. Tolik času totiž  bude trvat výstavba plánované nové školské budovy v oblasti Košíř. Usnesení však stále nebylo naplněno.
 
-Z hlediska dostupnosti pro rodiče a děti by bezesporu bylo nejlepším řešením umístit děti do školního zařízení přímo v místě, kde kapacita chybí. O takové variantě radnice v posledních dnech uvažuje. Mohla by vzniknout právě v areálu Tellus, který YIT přestavuje a ještě několik let zde stavět bude. Je však potřeba zvážit ekonomickou stránku věci. V této otázce zatím nejsou dostupné bližší  informace. Není tak jasné, zda by celé náklady v řádu desítek milionů nesla městská část, nebo zda by se podíleli i developeři.
+Z hlediska dostupnosti pro rodiče a děti by bezesporu bylo nejlepším řešením umístit děti do školního zařízení přímo v místě, kde kapacita chybí. O takové variantě radnice v posledních dnech uvažuje. Mohla by vzniknout právě v areálu Tellus, který YIT přestavuje a ještě několik let zde stavět bude. Je však potřeba zvážit ekonomickou stránku věci. V této otázce zatím nejsou dostupné bližší informace. Není tak jasné, zda by celé náklady v řádu desítek milionů nesla městská část, nebo zda by se podíleli i developeři.
 
 > “Bezesporu by se ke vzniklému problému měli vyjádřit a učinit aktivní kroky ti, kteří do Košíř přijeli dělat čistě byznys s byty,” komentuje chování developerských skupin zastupitel Rattay. 
 
