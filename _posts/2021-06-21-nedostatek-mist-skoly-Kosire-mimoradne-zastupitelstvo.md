@@ -20,7 +20,7 @@ Z hlediska dostupnosti pro rodiče a děti by bezesporu bylo nejlepším řešen
 
 Dále je potřeba zvážit, zda je místo s čilým stavebním ruchem vhodné pro vzdělávání dětí na základní škole. V majetku městské části je také školní budova na Plzeňské ulici, kterou má pro své soukromé gymnázium pronajatou právě starostka MČ Praha 5 Renata Zajíčková (ODS) .
 
-> “Především díky nadprůměrnému počtu odkladů školní docházky a vysokému počtu dětí v  prvních třídách se nakonec pro nadcházející školní rok ve spádové škole ZŠ Nepomucká našlo místo pro všechny košířské děti. Již od dalšího školního roku se však téměř stoprocentně všechny spádové děti do jediné košířské školy nevejdou.” shrnuje současný stav Filip Karel, pirátský člen školského výboru, který v postižené lokalitě žij
+> “Především díky nadprůměrnému počtu odkladů školní docházky a vysokému počtu dětí v  prvních třídách se nakonec pro nadcházející školní rok ve spádové škole ZŠ Nepomucká našlo místo pro všechny košířské děti. Již od dalšího školního roku se však téměř stoprocentně všechny spádové děti do jediné košířské školy nevejdou.” shrnuje současný stav Filip Karel, pirátský člen školského výboru, který v postižené lokalitě žije.
 
 
 **Kontakt pro média**:
