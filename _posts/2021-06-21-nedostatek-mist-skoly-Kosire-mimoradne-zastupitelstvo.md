@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: Nedostatek školních kapacit na Praze 5 drží v šachu střet zájmů starostky z ODS
+title:  Za nedostatkem školních míst na Praze 5 je masivní developerská výstavba a liknavost předešlých vedení radnice
 date: 2021-06-21
 author: Štěpán Rattay
 authorId: stepan.rattay
