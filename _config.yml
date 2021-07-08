@@ -99,7 +99,7 @@ collections:
     permalink: /lide/:path/
   program:
     output: true
-    permalink: /volby/:path
+    permalink: /volby/:path:output_ext
 
   # Sole purpose is to create candidate lists in separate files.
   candidatelists:
