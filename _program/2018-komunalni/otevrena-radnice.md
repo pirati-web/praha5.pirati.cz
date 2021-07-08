@@ -3,13 +3,14 @@ title: Otevřená radnice
 campaignCategoryUid: 2018-komunalni
 campaignGroupUid: volby-2018
 uid: otevrena-radnice
-order: 6
-garant: adam.rut
+order: 1
+garant: daniel.mazur
 redmine: 31273
 img: miscellaneous/skolstvi.jpg
 intro: >
   Naším cílem je město, které se rozvíjí díky aktivní účasti svých obyvatel. Zajistíme proto všem pohodlný přístup k informacím o radnici a umožníme občanům ovlivňovat rozpočet i další důležitá rozhodnutí. Naším programem je celostátní verze Pirátského programu do komunálních voleb 2018, kterou jsme spoluvytvářeli.
 ---
+
 Naším cílem je město, které se rozvíjí díky aktivní účasti svých obyvatel. Zajistíme proto všem pohodlný přístup k informacím o radnici a umožníme občanům ovlivňovat rozpočet i další důležitá rozhodnutí. Naším programem je [celostátní verze Pirátského programu](https://www.pirati.cz/program/komunal2018/) do komunálních voleb 2018, kterou jsme spoluvytvářeli.
 
 

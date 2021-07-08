@@ -1,9 +1,9 @@
 ---
-title: Školství
+title: Vzdělávání
 campaignCategoryUid: 2018-komunalni
 campaignGroupUid: volby-2018
-uid: skolstvi
-order: 1
+uid: vzdelavani
+order: 7
 garant: daniel.mazur
 redmine: 31290
 img: miscellaneous/skolstvi.jpg

@@ -2,13 +2,14 @@
 title: Doprava
 campaignCategoryUid: 2018-komunalni
 campaignGroupUid: volby-2018
-uid: skolstvi
-order: 1
+uid: doprava
+order: 4
 garant: milan.kryl
-redmine: 31290
+redmine: 31294
 img: miscellaneous/skolstvi.jpg
+approved: https://forum.pirati.cz/viewtopic.php?f=349&t=41532
 intro: >
-  Městská část Praha 5 patří dopravně k nejzatíženějším částem Prahy. To přináší negativní vlivy v oblastech kvality ovzduší a hluku. I v tomto chceme zásadní změnu k lepšímu. Naším cílem je maximálně omezit tranzitní automobilovou dopravu Prahou 5 mimo trasu Městského okruhu a pomocí P+R parkovišť a řízeného parkování v zónách převést individuální automobilovou dopravu z okolí Prahy na veřejnou, nejlépe kolejovou dopravu. Doprava nejsou jenom auta, ale také chodci, cyklisté, tramvaje, vlaky nebo lodě. Zaměříme se na to, aby se Prahou 5 dalo pohodlně jezdit na kole nebo chodit pěšky. 
+  Městská část Praha 5 patří dopravně k nejzatíženějším částem Prahy. To přináší negativní vlivy v oblastech kvality ovzduší a hluku. I v tomto chceme zásadní změnu k lepšímu. Naším cílem je maximálně omezit tranzitní automobilovou dopravu Prahou 5 mimo trasu Městského okruhu a pomocí P+R parkovišť a řízeného parkování v zónách převést individuální automobilovou dopravu z okolí Prahy na veřejnou, nejlépe kolejovou dopravu. Doprava nejsou jenom auta, ale také chodci, cyklisté, tramvaje, vlaky nebo lodě. Zaměříme se na to, aby se Prahou 5 dalo pohodlně jezdit na kole nebo chodit pěšky.
 ---
 
 Městská část Praha 5 patří dopravně k nejzatíženějším částem Prahy. To přináší negativní vlivy v oblastech kvality ovzduší a hluku. I v tomto chceme zásadní změnu k lepšímu. Naším cílem je maximálně omezit tranzitní automobilovou dopravu Prahou 5 mimo trasu Městského okruhu a pomocí P+R parkovišť a řízeného parkování v zónách převést individuální automobilovou dopravu z okolí Prahy na veřejnou, nejlépe kolejovou dopravu. Doprava nejsou jenom auta, ale také chodci, cyklisté, tramvaje, vlaky nebo lodě. Zaměříme se na to, aby se Prahou 5 dalo pohodlně jezdit na kole nebo chodit pěšky.   

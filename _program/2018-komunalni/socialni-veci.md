@@ -1,13 +1,17 @@
 ---
-title: Zdravotnictví a sociální péče 
-uid: zdravotni-a-socialni
-campaignCategoryUid: praha2018
+title: Sociální věci
+campaignCategoryUid: 2018-komunalni
 campaignGroupUid: volby-2018
-approved: https://forum.pirati.cz/viewtopic.php?f=349&t=41532
-garant: eva.horakova
-perex: Kvalitní péče o seniory, postižené a sociálně slabé je základním znakem vyspělé společnosti. Na Praze 5 máme co dohánět. Žije zde 14 tisíc občanů starších 65 let. Očekává se, že  vlivem stárnutí populace a díky nové výstavbě zde počet seniorů stoupne až na 20 tisíc. Zaměříme se na dostupné bezprahové bydlení, kvalitní péči včetně funkční pohotovosti a rozvoj míst pro odpočinek.
+uid: socialni-veci
 order: 5
+garant: linda.neubergova
+redmine: 31295
+img: miscellaneous/skolstvi.jpg
+approved: https://forum.pirati.cz/viewtopic.php?f=349&t=41532
+intro: >
+  Kvalitní péče o seniory, postižené a sociálně slabé je základním znakem vyspělé společnosti. Na Praze 5 máme co dohánět. Žije zde 14 tisíc občanů starších 65 let. Očekává se, že  vlivem stárnutí populace a díky nové výstavbě zde počet seniorů stoupne až na 20 tisíc. Zaměříme se na dostupné bezprahové bydlení, kvalitní péči včetně funkční pohotovosti a rozvoj míst pro odpočinek.
 ---
+
 Kvalitní péče o seniory, postižené a sociálně slabé je základním znakem vyspělé společnosti. Na Praze 5 máme co dohánět. Žije zde 14 tisíc občanů starších 65 let. Očekává se, že  vlivem stárnutí populace a díky nové výstavbě zde počet seniorů stoupne až na 20 tisíc. Zaměříme se na dostupné bezprahové bydlení, kvalitní péči včetně funkční pohotovosti a rozvoj míst pro odpočinek.
 
 
