@@ -4,7 +4,7 @@ campaignCategoryUid: 2018-komunalni
 campaignGroupUid: volby-2018
 uid: skolstvi
 order: 1
-garant: dan.mazur
+garant: daniel.mazur
 redmine: 31290
 img: miscellaneous/skolstvi.jpg
 intro: >
