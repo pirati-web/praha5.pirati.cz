@@ -1,36 +1,48 @@
 -
   id: 1
-  title: Otevřená a moderní radnice
-  desc: Uděláme z Prahy nejtransparentnější město v Česku. Dnes má Praha problém hlavně s neprůhlednými městskými firmami, které hospodaří s desítkami miliard korun ročně. Občané a protikorupční analytici musí mít k dispozici dostatek informací, aby mohli politiky a úředníky kontrolovat. Zapojíme občany do rozhodování o městě.
-  garant: martin.stanek
-  redmine: 28177
+  title: Otevřená radnice
+  desc: Naším cílem je město, které se rozvíjí díky aktivní účasti svých obyvatel. Zajistíme proto všem pohodlný přístup k informacím o radnici a umožníme občanům ovlivňovat rozpočet i další důležitá rozhodnutí. Naším programem je celostátní verze Pirátského programu do komunálních voleb 2018, kterou jsme spoluvytvářeli.
+  garant: daniel.mazur
+  redmine: 31273
 -
   id: 2
-  title: Bydlení a územní rozvoj
-  desc: Pražané v současné době čelí prudkému nárůstu cen nájemního i vlastnického bydlení. Trend nárůstu cen za bydlení je důsledkem nezvládnutého politického a administrativního řízení bytové politiky ze strany státu, magistrátu i některých městských částí. Ve volebním období 2018 - 2022 chceme učinit kroky potřebné pro zastavení tohoto trendu.
-  garant: ivo.slavka
-  redmine: 28203
+  title: Strategický rozvoj
+  desc: Strategický rozvoj
+  garant: daniel.mazur
+  redmine: 31291 
 -
   id: 3
-  title: Životní prostředí a odpady
-  desc: Zdravé životní prostředí je základem pro to, aby se Pražanům dobře žilo. Budeme bojovat proti přehřívání města, znečisťování ovzduší a rušivým vlivům, které člověka nenechají v klidu spát. Politiku životního prostředí stavíme na přirozené motivaci, respektu a účasti veřejnosti.
-  garant: alice.hamalova
-  redmine: 28225
+  title: Životní prostředí
+  desc: Životní prostředí
+  garant: linda.neubergova
+  redmine: 31292
 -
   id: 4
   title: Doprava
-  desc: Zvýšíme plynulost dopravy podporou kapacitních a nejméně prostorově náročných druhů dopravy, zejména metra, vlaků a tramvají. Chceme MHD dostupnější, pohodlnější a jednoduše použitelnou nejen pro Pražany, ale i pro návštěvníky Prahy. V oblasti automobilové dopravy zlepšíme veřejnou kontrolu investic a oprav infrastruktury.
-  garant: michal.novak
-  redmine: 28243
+  desc: Doprava
+  garant: milan.kryl
+  redmine: 31294
 -
   id: 5
-  title: Školství, sport a volný čas
-  desc: Pražské školy vychovávají budoucí občany schopné se prosadit v rychle se měnících podmínkách, zdaleka ne jen pro potřeby pracovního trhu. Budeme školám poskytovat dostatek financí na mzdy, provoz a meziškolní aktivity, ale i na profesní rozvoj učitelů a na zavedení a rozvoj inovativních vzdělávacích směrů podle poptávky Pražanů.
-  garant: pavel.franc
-  redmine: 28273
+  title: Sociální věci
+  desc: Sociální věci
+  garant: linda.neubergova
+  redmine: 31295
 -
   id: 6
-  title: Bezpečnost
-  desc: Bezpečnost ano, velký bratr ne!
-  garant: jan.kolator
-  redmine: 28305
+  title: Územní rozvoj
+  desc: Územní rozvoj
+  garant: daniel.mazur
+  redmine: 31293  
+-
+  id: 7
+  title: Vzdělávání
+  desc: Vzdělávání
+  garant: daniel.mazur
+  redmine: 31290
+-
+  id: 8
+  title: Bezpečnost a pořádek
+  desc: Bezpečnost a pořádek
+  garant: daniel.mazur
+  redmine: 8

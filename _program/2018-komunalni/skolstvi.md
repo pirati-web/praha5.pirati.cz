@@ -4,59 +4,36 @@ campaignCategoryUid: 2018-komunalni
 campaignGroupUid: volby-2018
 uid: skolstvi
 order: 1
-garant: zuzana.ujhelyiova
-redmine: 28113
+garant: dan.mazur
+redmine: 31290
 img: miscellaneous/skolstvi.jpg
 intro: >
-  Vycházíme z tradičních a ověřených způsobů vzdělávání, které chceme inovovat a přizpůsobovat požadavkům současné společnosti. Zajímá nás kvalita vzdělávání ve školských zařízeních zřizovaných městskou částí, chceme ji kontrolovat a rozvíjet.
+  Městská část Praha 5 je domovem téměř 40 mateřským, základním a středním školám, a přes polovinu z nich zřizuje. Je naší úlohou se starat nejen o budovy, sportoviště a školní jídelny, ale i pracovat s řediteli, aktivními učiteli a rodiči na motivující atmosféře a dalším zajištění kvality vzdělávání. Budeme prosazovat, aby městská část školy na svém území systematicky podporovala, i finančně nad rámec údržby a nad rámec přerozdělení vyhrazených peněz z MŠMT. Chceme, aby Praha 5 cíleně financovala všestranné zlepšování škol, budování pedagogických týmů a modernizaci výuky.
 ---
 
+Městská část Praha 5 je domovem téměř 40 mateřským, základním a středním školám, a přes polovinu z nich zřizuje. Je naší úlohou se starat nejen o budovy, sportoviště a školní jídelny, ale i pracovat s řediteli, aktivními učiteli a rodiči na motivující atmosféře a dalším zajištění kvality vzdělávání. Budeme prosazovat, aby městská část školy na svém území systematicky podporovala, i finančně nad rámec údržby a nad rámec přerozdělení vyhrazených peněz z MŠMT. Chceme, aby Praha 5 cíleně financovala všestranné zlepšování škol, budování pedagogických týmů a modernizaci výuky.
 
-## INOVATIVNÍ VZDĚLÁVÁNÍ DO VEŘEJNÉHO ŠKOLSTVÍ
-Vycházíme z tradičních a **ověřených způsobů vzdělávání, které chceme inovovat** a přizpůsobovat požadavkům současné společnosti. Zajímá nás kvalita vzdělávání ve školských zařízeních zřizovaných městskou částí, chceme ji kontrolovat a rozvíjet.
+## Peníze pro školy ve prospěch kvality
 
-*Podporujeme využívání možností, které poskytuje Rámcový vzdělávací program. Chceme žákům a rodičům poskytnout výběr způsobu vzdělávání (např. montessori, waldorf, projektová výuka atd.). Podporujeme projektové vzdělávání, které dokáže propojit a aplikovat poznatky z různých předmětů. Každá škola by měla mít jasný koncept a vizi vzdělávání. I v rámci jedné školy by měla být možnost výběru různého přístupu k výuce. Chceme, aby naši žáci uměli kriticky myslet.*
+**Podpora moderních směrů vzdělávání.** Ve spolupráci s řediteli škol rozpracujeme strategický plán pro všestranný rozvoj škol, který výrazně rozšíří záběr stávajícího projektu “Místní akční plán vzdělávání”. Podpoříme školy v rozvíjení moderních vzdělávacích cest a pozitivní motivace žáků i učitelů. Skrze finanční zajištění umožníme školám rozumné zmenšení počtu dětí ve třídách, zvětšení prostoru pro projektové a kolaborativní učení, věcnou a pozitivní zpětnou vazbu - vše, o čem víme, že rozvíjí pozitivní motivaci a celoživotní vztah ke vzdělání.
 
-*Chceme znát názory rodičů, žáků, učitelů a vedení škol. Budeme podporovat vedení škol v jejich návrzích vedoucích ke zlepšení kvality výuky, jen pod dobrým vedením mohou být dobří a spokojení pedagogičtí pracovníci, kteří se maximálně věnují svým žákům. Zajistíme efektivní zpětnou vazbu rodičů a učitelů škol tak, aby se nemuseli obávat vyjádřit svůj názor. Budeme se snažit hledat věcné a důsledné řešení problémů ve prospěch všech zúčastněných stran. Zřídíme pozici školského ombudsmana. Podpoříme vznik žákovských školských rad, které budou moci komunikovat s MČ. Chceme efektivně zjišťovat kvalitu výuky především ve spolupráci se školními psychology. Podpoříme a pomůžeme mateřským školám zajistit přímou logopedickou péči.*
+**Zpětná vazba na všech úrovních.** Budeme systematicky sledovat poptávku žáků a rodičů po zlepšování různých aspektů vzdělávání v rámci pražských škol, budeme pracovat s touto zpětnou vazbou spolu s řediteli a v rámci školských rad. Budeme ředitele škol podporovat v naplňování vizí a strategií, budeme naplňování těch vizí pravidelně sledovat a při jmenování nových ředitelů budeme vždy postupovat v souladu se závěry výběrových komisí.
 
-**Pomůžeme školám vytvořit moderní komunikační kanály** pro zefektivnění prezentace a předávání informací. Podpoříme komunikační platformy pro pedagogy k setkávání a sdílení zkušeností mezi sebou i směrem k rodičům. Zajistíme školám přístup ke kvalitnímu softwaru a elektronickým výukovým materiálům bez zbytečných nákladů.
+**Poskytneme školám podporu při budování týmů** a pro smysluplné další vzdělávání a profesní rozvoj učitelů.
 
-*Pomůžeme školám vytvořit moderní a přehledné webové stránky, kde budou srozumitelně prezentovat koncepci školy. Prosadíme elektronické zveřejnění Školních vzdělávacích programů. Podporujeme zavedení elektronických třídních a žákovských knih. Rádi bychom zavedli čipové vyzvedávání žáků z mateřských škol a školních družin. Zajistíme centrální on-line registrace do MŠ.*
+**Kvalita a dostatek míst ve školách.** Výstavbu nových škol propojíme s novou rezidenční výstavbou a souvisejícím demografickým výhledem. Zajistíme dostatek kapacity v mateřských školách, v dětských skupinách i v přípravných (nultých) ročnících základních škol.
 
-*V době mohutné digitalizace a dostupnosti materiálů potřebujeme ve školách umět pracovat s internetovými zdroji a využívat je ve výuce. Elektronické verze učebnic usnadňují žákům i učitelům přístup k materiálům a v kombinaci s interaktivní tabulí zrychlují možnost řešení úloh přímo při výuce. Učitelé by měli umět vyhledávat vhodné elektronické materiály k danému učivu. Měli by mít možnost je navzájem i s rodiči sdílet a předávat si zkušenosti o způsobu jejich využití při výuce. Podporujeme zavádění internetových aplikací, jako jsou Bakaláři, či Škola OnLine.*
+**Budeme podporovat renovace a kvalitu školních kuchyní a jídelen.** Zatímco školní strava samotná je daná přísnými pravidly z jiných míst, v roli zřizovatele budeme pečovat o pravidelnou údržbu a obnovu kuchyní a jídelen a přispívat na jejich provoz a kulturu stolování.
 
-Podporujeme *programy prevence šikany a sociálně patologických jevů* na všech úrovních v rámci MŠ a ZŠ.
+**Budeme rozšiřovat neinvestiční rozpočty škol.** Společně s Magistrátem podpoříme platy učitelů a ostatních pracovníků škol. Budeme podporovat, finančně i organizačně účast žáků našich škol v meziškolních soutěžích na národní a mezinárodní úrovni.
 
-*Podporujeme tvorbu efektivních preventivních programů především ve spolupráci se školními psychology. Rozšíříme sdílení problémů a způsobů řešení šikany a sociálně patologických jevů mezi školami. Rádi bychom zavedli otevřené diskuze k těmto tématům a více informovali o projektech jako je například NNTB (Nenech to být) tak, aby tyto poznatky začaly školy efektivně využívat.*
 
-*Práce OSPODu souvisí s prevencí sociálně patologických jevů. Nechceme, aby spořádané rodiny obtěžoval, ale aby efektivně a rychle řešil případné problémy nezletilých. Zkvalitníme komunikaci mezi sociálním oddělením, rodičem a školou ve prospěch dítěte.*
+## Vzdělávání a komunikace na prvním místě.
 
-Budeme motivovat k otevřenému a profesionálnímu přístupu k domácímu vzdělávání.
+**Budeme podporovat kvalitní ředitele s moderní vizí rozvoje školy a učitelského sboru:** Tedy v práci na synergii individuálního a společného učení, na zkvalitňování zpětné vazby žákům, udržování zvídavosti, rozvíjení schopností žáků spoluutvářet svou vzdělávací cestu (rozvíjení tzv. metakognitivních strategií) a pomáhat si navzájem, a samozřejmě pracovat se zpětnou vazbou od rodičů i žáků samotných.
 
-Trend domácího vzdělávání reaguje je v České republice stále více populární. Respektujeme i tyto vzdělávací formy a chceme finančně podpořit kvalitní a profesionální zázemí pro tyto žáky např. zřízením skupin (sdílení zkušeností mezi rodiči s možností pedagogické konzultace).
+**Zasadíme se o průběžné sledování naplňování těchto vizí** pro co nejvyšší kvalitu vzdělání a nejlepší atmosféru ve školách.
 
-## VÍCE PENĚZ NA KVALITNÍ VZDĚLÁVÁNÍ, MÉNĚ NA ZBYTEČNOSTI
+**Podpoříme místní i celopražské iniciativy ke komunikaci rodičů a učitelů.** Zajistíme průběžný otevřený sběr námětů pro podporu kvality škol.
 
-**Vyčistíme veřejné zakázky pro školy od klientelismu**, zaplatíme školám to, co skutečně potřebují. Prosadíme otevřená výběrová řízení na místa ředitelů jako normu a budeme vybírat ředitele kvalitní, ředitele s ambiciózní a moderní vizí rozvoje školy.
-
-*Konkurz nijak nepopírá kvalitu práce současného vedení, ale slouží ke stanovení cílů a vizí pro následující funkčního období.*
-
-**Podpoříme platy zaměstnanců škol nad rámec tarifů**, abychom mohli kompenzovat výši životních nákladů v Praze.
-
-*Je třeba kompenzovat výši životních nákladů v Praze učitelům i ostatním pracovníkům škol.*
-
-Chceme cíleně přispívat **na vzdělávání učitelů** včetně zajištění peněz na suplování během jejich vzdělávání. Zajistíme školám zdroje na kvalitní administrativu.
-
-*Pro kvalitní výuku žáků je důležité, aby učitel měl přehled a dostatečné znalosti o moderních přístupech ke vzdělávání. Pomůžeme učitelům sdílet mezi sebou vlastní zkušenosti s výukou, zajistit bezplatné kurzy a poskytovat dotace na kurzy placené. Zajistíme dostatečnou informovanost o právě probíhajících kurzech.*
-
-*Podpoříme odměny pro výchovné poradce, psychology, speciální pedagogy a preventisty tak, aby se mohli adekvátně věnovat administrativní činnosti a byli za ni řádně ohodnoceni. Administrativní pracovník nemůže znát potřeby jednotlivých žáků a nedokáže tedy efektivně jednat s žáky, rodiči a pedagogicko-psychologickými poradenskými pracovišti. Zajistíme pro pracovníky školského poradenského pracoviště dostatek financí, tedy i času pro administrativní činnost spojenou s péčí o jednotlivé žáky. Podporujeme zvýšení kapacit poradenských pracovišť.*
-
-## DOSTATEČNÉ KAPACITY A KVALITNÍ STRAVA
-
-**Zajistíme dostatečnou kapacitu mateřských škol** a podpoříme zřizování dětských skupin k péči pro předškolní děti s přihlédnutím k demografickému výhledu včetně nových rozsáhlých rezidenčních projektů.
-
-*Centrální registrace do MŠ zprůhlední a urychlí proces zápisu a umožní rychlou reakci na kapacitní požadavky a preference rodičů. Podporujeme vznik nultých ročníků na ZŠ a rozvoj směrem ke specializovaným učebnám a dostatečné kapacitě škol.*
-
-**Budeme podporovat** (i finančně) **moderní přístup ke stravování**. Dětem má jídlo chutnat a být jim prospěšné.
-
-*Podporujeme zavádění programů jako je Skutečně zdravá škola (a to i do školek).*
+**A navíc: Investice zvládneme, budeme je realizovat transparentně a včas.**
