@@ -9,7 +9,7 @@ author: Karel Bauer
 image: people/karel-bauer.png
 ---
 
-Interpelace přednesená Karlem Bauerem na zastupitelstvu dne 14.9.2021. Odpověď zveřejníme ihned po tom, co ji obrdžíme. 
+**Interpelace přednesená Karlem Bauerem na zastupitelstvu dne 14.9.2021. Odpověď zveřejníme ihned po tom, co ji obrdžíme. **
 
 Vážená paní starostko,
 
