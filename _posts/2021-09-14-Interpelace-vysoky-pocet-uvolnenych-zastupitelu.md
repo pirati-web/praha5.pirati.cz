@@ -9,6 +9,8 @@ author: Karel Bauer
 image: people/karel-bauer.png
 ---
 
+Interpelace přednesená Karlem Bauerem na zastupitelstvu dne 14.9.2021. Odpověď zveřejníme ihned po tom, co ji obrdžíme. 
+
 Vážená paní starostko,
 v současnosti probíhá dlouho slibované provádění úspor provozních výdajů MČ Praha 5. Gesčním radním pro finance je naplánována v rozpočtu úspora na příští rok ve výši 10%. Dotkne se to jak počtu zaměstnanců úřadu, tak i dalších běžných výdajů, např. budou kráceny příspěvky mateřským a základním školám, méně peněz půjde na dotace do sportu a kultury, atd.
 Rád bych se proto zeptal, k jakým úsporným opatřením přistoupí samotná politická reprezentace? Konkrétně, zda se konečně sníží počet placených politiků MČ?  Při této příležitosti si dovolím připomenout, že MČ Praha 5 drží s počtem 16 placených politiků jasné prvenství ve srovnání se všemi ostatními MČ.  Například největší MČ Praha 4 s počtem více jak 140 tis. obyvatel, má pouze 9 uvolněných pozic, Praha 6 (která má vyšší počet obyvatel i rozlohu) má 12 uvolněných zastupitelů a i další městské části srovnatelné s Prahou 5 mají maximálně 13 uvolněných. 
