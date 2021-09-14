@@ -3,7 +3,7 @@ date: 2021-09-14
 category: blog
 tags: Rozpočet
 layout: post
-title: "Interpelace na starostku na téma vysokého počet uvolněných zastupitelů"
+title: "Interpelace na starostku na téma vysokého počtu uvolněných zastupitelů"
 author: Karel Bauer
 # authorId:  uid nekoho z _people (nepovinné)
 image: people/karel-bauer.png
