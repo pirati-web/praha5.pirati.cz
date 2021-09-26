@@ -9,7 +9,8 @@ author: Vít Hofman
 image: posts/rugby-tatra-smichov.jpg
 ---
 
-Pražští radní dnes odsouhlasili investiční záměr projektu rekonstrukce sportovního areálu Rugby Club Tatra Smíchov Národní sportovní agenturou. Spolufinancování investičních projektů rozvoje sportovní infrastruktury ve vlastnictví hl. m. Prahy je v souladu se strategií Plánu rozvoje sportu a sportovních zařízení v hl. m. Praze 2021-2032. **Pro tento rozvoj má město příští rok v plánu alokovat ze svého rozpočtu částku ve výši 40 milionů korun. **
+Pražští radní dnes odsouhlasili investiční záměr projektu rekonstrukce sportovního areálu Rugby Club Tatra Smíchov Národní sportovní agenturou. Spolufinancování investičních projektů rozvoje sportovní infrastruktury ve vlastnictví hl. m. Prahy je v souladu se strategií Plánu rozvoje sportu a sportovních zařízení v hl. m. Praze 2021-2032. 
+**Pro tento rozvoj má město příští rok v plánu alokovat ze svého rozpočtu částku ve výši 40 milionů korun.**
 
 > „Současná podoba sportovního areálu je zastaralá a neodpovídá standardům moderních sportovišť, a to jak svojí kapacitou, tak zejména úrovní vybavení pro sportovce i jejich fanoušky. Stárnoucí sportovní infrastruktura v hlavním městě a potřeba nutných investic vyžadují koncepční a systematický rozvoj sportovní infrastruktury. A právě její technický stav, vybavenost a účel jsou klíčové oblasti pro rozvoj sportu a dalších sportovních aktivit,” uvedl radní pro oblast sportu Vít Šimral (Piráti). 
 
