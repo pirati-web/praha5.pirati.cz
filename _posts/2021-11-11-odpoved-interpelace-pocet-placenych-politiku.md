@@ -21,4 +21,4 @@ a se znalostí veškerých souvislostí rozhodnout, zda k posuzované záležito
 
 Celý text odpovědi naleznete [zde](https://www.praha5.cz/interpelace/uspora-provoznich-vydaju-v-navaznosti-na-pocet-uvolnenych-zastupitelu/).
 
-Je evidentní, že vysoký počet politiků je způsoben vysokým počtem politických subjektů, které jsou součástí vládnoucí koalice a změna by zřejmě byla příliš "složitá" - a tedy minimálně do komunálních voleb v příštím roce si Praha 5 toto prvenství ponechá.
+Snížení počtu placených politiků by zřejmě bylo příliš "složité" s ohledem na vysoký počet stran zastoupených ve vládnoucí koalici. Minimálně do komunálních voleb v příštím roce si tedy Praha 5 toto prvenství s největší pravděpodobností ponechá.
