@@ -10,7 +10,7 @@ image: people/karel-bauer.png
 ---
 
 Pirátský zastupitel Karel Bauer [interpeloval](https://praha5.pirati.cz/aktuality/Interpelace-vysoky-pocet-uvolnenych-zastupitelu.html) starostku městské části Renátu Zajíčkovou ve věci vysokého počtu placených politiků.
-Městská část na jedné straně přistupuje k redukci provozních výdajů (např. formou redukce rozpočtu mateřských a základních škol), na druhé straně však zůstává Praze 5 nejvyšší počet placených politiků ze všech pražských městských částí.
+Městská část na jedné straně přistupuje k plošnému snižování provozních výdajů (např. formou redukce rozpočtu mateřských a základních škol), na druhé straně však zůstává Praze 5 nejvyšší počet placených politiků ze všech pražských městských částí.
 
 Za odpověď, kteoru jsme od paní starostky dostali by se nemusel stydět ani legendární sir Humphrey ze seriálu "Jistě, pane ministře".
 
