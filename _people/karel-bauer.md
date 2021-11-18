@@ -4,9 +4,11 @@ name:     Karel Bauer  	# běžně používáné jméno
 category:
   - clenove
   - zastupitele  
+  - pms
 ordclenove: 10
 ordZas: 2
-description: Člen místního sdružení Piráti Praha 5  # zobrazuje se v lide
+ordpms: 2
+description: 1. místopředseda místního sdružení Piráti Praha 5  # zobrazuje se v lide
 profession: ekonom, majitel účetní firmy
 img: people/karel-bauer.png # zakomentuj radek dokud není fotka
 heroImg: praha-5.jpg

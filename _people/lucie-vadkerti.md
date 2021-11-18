@@ -4,7 +4,7 @@ mail:
 - lucie.vadkerti@pirati.cz
 img: people/lucie-vadkerti.jpg   # 165x220px
 heroImg: praha-5.jpg
-description: Členka místního sdružení Piráti Praha 5
+description: 2. místopředsedkyně místního sdružení Piráti Praha 5
 
 profiles:
   facebook: https://www.facebook.com/lstranska
@@ -13,7 +13,10 @@ profiles:
 uid: lucie.vadkerti # identifikátor pro spojení se články (authorId)
 category: 	# v odrážkách stejně jako mail (psp, pks, pms, zast)
   - clenove
+  - pms
 ordclenove: 10
+ordZas: 3
+ordpms: 3
 supporting:
 - Vzdělanou a informovanou společnost
 - Profesionální správu města i státu

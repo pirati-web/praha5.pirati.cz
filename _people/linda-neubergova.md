@@ -7,8 +7,9 @@ category:
   - zastupitele
   - kontaktni_osoba
 ordclenove: 3
-ordZas: 8
-description: Místopředsedkyně místního sdružení Piráti Praha 5 # zobrazuje se v lide
+ordZas: 1
+ordpms: 1
+description: Předsedkyně místního sdružení Piráti Praha 5
 profession: Senior account manager v reklamní agentuře
 img: people/linda-neubergova.png # zakomentuj radek dokud není fotka
 heroImg: praha-5.jpg

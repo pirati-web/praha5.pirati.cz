@@ -4,11 +4,10 @@ name:     Štěpán Rattay  	# běžně používáné jméno
 fullname: Ing. Štěpán Rattay  	# jméno s tituly etc.
 category:
   - clenove
-  - pms
   - zastupitele
 ordclenove: 3
 ordZas: 3
-description: Místopředseda místního sdružení Piráti Praha 5 # zobrazuje se v lide
+description: Člen místního sdružení Piráti Praha 5 # zobrazuje se v lide
 profession:  Předseda Kontrolního výboru MČ Praha 5
 img: people/stepan-rattay-kulaty-bily.png # zakomentuj radek dokud není fotka
 heroImg: praha-5.jpg
