@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: Radnice Prahy 5 jde developerům na ruku
-date: 2021-11-23
+date: 2021-11-22
 author: Milan Kryl
 authorId: milan.kryl
 image: posts/staveniste-barrandov.jpg
@@ -21,6 +21,11 @@ Místo komplexní úpravy pravidel se ovšem koaliční strany ODS, ANO, TOP09, 
 Celoměstská metodika přitom  řeší i pomoc městské části při trojstranném jednání s developery při tzv. „čtvrťových změnách“ jako je např. rozšíření Sídliště Barrandov, a při ještě větších „metropolitních změnách“, jako je např. výstavba nové městské čtvrti Smíchov City. Metodika přitom garantuje 100% vrácení těchto prostředků do příslušné městské části.
 
 Piráti podporují, aby v celém městě platila stejná pravidla a stejné smlouvy. Ulehčí to práci developerům, úředníkům i politikům. A vydělá na tom i městská část, protože sazby navržené na úrovni HMP jsou výrazně vyšší než návrh předkládaný na zastupitelstvo MČ Praha 5. 
+
+**Aktualizace po jednání ZMČ dne 23.11.**:
+ZMČ po delší diskuzi přijalo návrh pirátského zastupitele Milana Kryla a po schválení Metodiky hlavního města Prahy tuto metodiku převezme. Tím dojde nejen ke sjednocení pravidel MČ P5 s celoměstskými pravidly, ale hlavně ke zvýšení účasti developerů na investování do městské infrastruktury. Neměly by tak v budoucnu nastávat kolapsové situace, kdy pro uživatele nově postavených bytů chybí školy, školky, zdravotnická zařízení a technická infrastruktura.
+
+
 
 **Kontakt pro média**:
 
