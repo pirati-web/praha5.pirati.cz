@@ -25,9 +25,11 @@ Piráti podporují, aby v celém městě platila stejná pravidla a stejné smlo
 **Kontakt pro média**:
 
 **Milan Kryl, zastupitel MČ Praha 5 a člen Výbor pro územní rozvoj**
+
 tel: 602 226 723; mail: [milan.kryl@praha5.cz](mailto:milan.kryl@praha5.cz)
 
 **Michal Polák, media manager KS Praha**
+
 tel: +420 608 517 127; mail: [michal.polak@pirati.cz](mailto:michal.polak@pirati.cz)
 
 
