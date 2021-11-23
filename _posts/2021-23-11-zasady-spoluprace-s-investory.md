@@ -22,7 +22,7 @@ Celoměstská metodika přitom  řeší i pomoc městské části při trojstran
 
 Piráti podporují, aby v celém městě platila stejná pravidla a stejné smlouvy. Ulehčí to práci developerům, úředníkům i politikům. A vydělá na tom i městská část, protože sazby navržené na úrovni HMP jsou výrazně vyšší než návrh předkládaný na zastupitelstvo MČ Praha 5. 
 
-**Kontakt pro média: **
+**Kontakt pro média**:
 
 **Milan Kryl, zastupitel MČ Praha 5 a člen Výbor pro územní rozvoj**
 tel: 602 226 723; mail: [milan.kryl@praha5.cz](mailto:milan.kryl@praha5.cz)
