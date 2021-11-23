@@ -3,7 +3,7 @@ uid: filip.karel
 name:     Filip Karel
 fullname: Filip Karel
 category:
-  - priznivci
+  - clenove
 ordclenove: 3
 description: 
 profession:  
