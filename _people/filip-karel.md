@@ -5,7 +5,7 @@ fullname: Filip Karel
 category:
   - clenove
 ordclenove: 3
-description: 
+description: Člen místního sdružení Piráti Praha 5
 profession:  
 img: people/filip-karel.jpg
 heroImg: praha-5.jpg
