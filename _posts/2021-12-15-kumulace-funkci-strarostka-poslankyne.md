@@ -3,7 +3,7 @@ date: 2021-12-15
 category: blog
 tags: kumulace
 layout: post
-title: "Kumulace funkcí naší paní starostky s klíčovou gescí školství na Praze 5 a poslankyně Parlamentu ČR Renáty Zajíčkové (ODS a SPOLU)"
+title: "Kumulace funkcí starostky s klíčovou gescí školství na Praze 5 a poslankyně Parlamentu ČR Renáty Zajíčkové (ODS a SPOLU)"
 author: Karel Bauer
 # authorId:  uid nekoho z _people (nepovinné)
 image: posts/radnice.jpg
