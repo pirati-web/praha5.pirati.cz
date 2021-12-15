@@ -6,7 +6,7 @@ layout: post
 title: "Kumulace funkcí naší paní starostky s klíčovou gescí školství na Praze 5 a poslankyně Parlamentu ČR Renáty Zajíčkové (ODS a SPOLU)"
 author: Karel Bauer
 # authorId:  uid nekoho z _people (nepovinné)
-image: posts/radnice.jpeg
+image: posts/radnice.jpg
 ---
 
 V podzimních sněmovních volbách se starostce Prahy 5 Renátě Zajíčkové (ODS) podařilo získat za koalici SPOLU mandát poslankyně. Osobně je to jistě veliký úspěch, z pohledu občana městské části to už tak jednoznačné není.
