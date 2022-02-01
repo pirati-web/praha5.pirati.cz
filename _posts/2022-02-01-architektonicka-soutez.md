@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: Rozumně provedená architektonická soutěž má smysl
-date: 2022-01-17
+date: 2022-02-01
 author: Štěpán Rattay
 authorId: stepan.rattay
 image: posts/arch-soutez.jpg
