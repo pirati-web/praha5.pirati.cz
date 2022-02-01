@@ -5,7 +5,7 @@ title: Rozumně provedená architektonická soutěž má smysl
 date: 2022-02-01
 author: Štěpán Rattay
 authorId: stepan.rattay
-image: posts/arch-soutez.jpg
+image: posts/arch-soutez1.jpg
 ---
 
 Taky máte pocit, že na Praze 5 v poslední době vyrůstá nová výstavba jako houby po dešti a to bez jakéhokoli ladu a skladu?
