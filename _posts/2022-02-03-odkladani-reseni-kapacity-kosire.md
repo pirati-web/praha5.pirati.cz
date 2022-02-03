@@ -5,7 +5,7 @@ title: Vedení Prahy 5 stále odkládá řešení nedostatku míst v ZŠ v Koš�
 date: 2022-02-03
 author: Štěpán Rattay, Filip Karel
 authorId: stepan.rattay, filip.karel
-image: posts/weberova.jpg
+image: posts/weberova.JPG
 ---
 
 Problém přeplněných škol a nedostatečných kapacit v Košířích je známý již dlouho. Proběhlo mnoho jednání, bylo přijato mnoho usnesení, a tlak rodičů dokonce vyústil v demonstraci před radnicí a ke svolání mimořádného zastupitelstva v červnu 2021. A výsledek? “Předložení řešení odkládáme, odkládáme a znovu odkládáme.”
