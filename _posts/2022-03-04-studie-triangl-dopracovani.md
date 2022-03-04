@@ -44,7 +44,7 @@ Zde je text přijatého usnesení:
 2. vypracovat studii zkapacitnění křižovatky Lamačova - Slavínského x K Barrandovu s důrazem na výsledné posílení výjezdu z Lamačovy a Slavínského ulice a vybranému dopravnímu řešení studii "Urbanistická studie – Triangl Högerova, Štěpařská, K Barrandovu" přizpůsobit, bude-li s ním v rozporu.
 
 
-O tom, jak území bude skutečně vypadat a jaké stavby na něm vyrostou se bude rozhodovat po dokončení procesu obou změn územního plánu. To však bude jistě až po podzimních komunálních volbách a v novém složení zastupitelstva MČ Praha 5. 
+**O tom, jak území bude skutečně vypadat a jaké stavby na něm vyrostou se bude rozhodovat po dokončení procesu obou změn územního plánu. To však bude jistě až po podzimních komunálních volbách a v novém složení zastupitelstva MČ Praha 5.**
 
 
 *Článek jsme s dovolením převzali z webu Spolku na ochranu Barrandova – [Barrandov.org](http://www.barrandov.org), kde je k dispozici i řada obrázků ze studie i Generelu dopravy MČ P5.*
