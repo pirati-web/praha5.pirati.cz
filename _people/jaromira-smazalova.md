@@ -5,7 +5,7 @@ category:
   - clenove
 description: členka místního sdružení Praha 5
 profession: učitelka VŠ v důchodu
-img: people/jarka.smazalova.jpg
+img: people/jarka.smazalova.JPG
 heroImg: praha-5.jpg
 
 ---
@@ -14,5 +14,6 @@ Jmenuji se Jaromíra Smazalová, jsem učitelka VŠ v důchodu. Dříve jsem uč
 
 
 Můj oblíbený citát:
+
 **If liberty means anything at all, it means the right to tell people what they do not want to hear. (George Orwell)**
 
