@@ -5,7 +5,7 @@ category:
   - clenove
 description: členka místního sdružení Praha 5
 profession: učitelka VŠ v důchodu
-img: people/jarka.smazalova.JPG
+img: people/jarka-smazalova.JPG
 heroImg: praha-5.jpg
 
 ---
