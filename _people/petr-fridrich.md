@@ -2,7 +2,7 @@
 uid: petr.fridrich
 name: Petr Fridrich
 category:
-  - priznivci
+  - clenove
 description: Inovační analytik a konzultant, zakladatel Smíchologie
 profession: Inovační analytik a konzultant, zakladatel Smíchologie
 img: people/petr-fridrich.jpeg
