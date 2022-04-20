@@ -18,16 +18,6 @@ mail:
 profiles:
   facebook: https://www.facebook.com/eva.horakova.520 # pokud nema, staci smazat tuto radku
 asistenti:
-  - name: Lucie Horáková
-    uid: lucie.horakova
-    position: asistentka
-    mail: lucie.horakova@praha.eu
-    tel: 236 002 142
-  - name: Tereza Kroužková
-    uid: tereza.krouzkova
-    position: sekretářka
-    mail: tereza.krouzkova@praha.eu
-    tel: 777 356 139
 mob: +420 727 870 828
 profiles:
   github:       
