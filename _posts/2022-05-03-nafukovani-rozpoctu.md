@@ -7,7 +7,7 @@ title: "Koalice na Praze 5 zachází s rozpočtem jako s nafukovacím balónkem"
 author: Štěpán Rattay
 authorId: stepan.rattay
 # authorId:  uid nekoho z _people (nepovinné)
-image: posts/finance.jpeg
+image: posts/finance.jpg
 ---
 
 Koalice Prahy 5 (ODS, TOP09, ANO, STAN, SNOP5) nezodpovědně navyšuje rozpočet o 76 milionů, a to jen pár měsíců po schválení rozpočtu na letošní rok. Vládnoucí koalice tak jasně dokazuje, že neumí realisticky a koncepčně plánovat. Piráti proto přicházejí s pozměňovacím návrhem, jak ušetřit 22,7 milionů korun. 
