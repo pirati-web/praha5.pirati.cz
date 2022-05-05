@@ -8,10 +8,10 @@ authorId: milan.kryl
 image: posts/nesplneno.png
 ---
 
-Blížící se konec volebního období a počátek jeho hodnocení se projevil na průběhu včerejšího jednání Zastupitelstva MČ Praha 5. Předseda kontrolní komise Štěpán Rattay (Piráti) předložil zastupitelstvu (seznam nesplněných úkolů)[https://usneseni.praha5.cz/#!Bod/92846] radních a zejména paní starostky a poslankyně Zajíčkové (ODS).  
+Blížící se konec volebního období a počátek jeho hodnocení se projevil na průběhu včerejšího jednání Zastupitelstva MČ Praha 5. Předseda kontrolní komise Štěpán Rattay (Piráti) předložil zastupitelstvu (**seznam nesplněných úkolů**)[https://usneseni.praha5.cz/#!Bod/92846] **radních a zejména paní starostky a poslankyně Zajíčkové (ODS)**.  
 
 
-Ta se utápí v problémech kolem střetu zájmů, chybějící školy v Košířích a prodloužení pronájmu bývalé školní budovy její rodině tamtéž. Navíc jako poslankyně se opakovaně nestíhá účastnit celého zasedání zastupitelstva, jehož termín sama určuje. Nesplněné úkoly a opakovaná neúčast na jednání jsou viditelné důsledky kumulace funkcí na radnici a ve sněmovně. 
+Ta se utápí v problémech kolem střetu zájmů, chybějící školy v Košířích a prodloužení pronájmu bývalé školní budovy její rodině tamtéž. Navíc jako poslankyně se opakovaně nestíhá účastnit celého zasedání zastupitelstva, jehož termín sama určuje. **Nesplněné úkoly a opakovaná neúčast na jednání jsou viditelné důsledky kumulace funkcí na radnici a ve sněmovně**. 
 
 
 Při zasedání zastupitelstva před dvěma měsíci se koalice cítila dotčena seznamem nesplněných úkolů a hlasováním jej odmítla vzít na vědomí. Tím však dosáhla jen toho, že termíny plnění úkolů nebyly prodlouženy a o to více je vidět, že neplní úkoly, které měly být splněny již v loňském roce. Asi proto bylo totéž usnesení tentokrát přijato jednomyslně.
