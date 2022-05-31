@@ -8,7 +8,7 @@ category:
   - priznivci
 description: 
 profession: 
-#img: people/barbora-jobova.png # zakomentuj radek dokud není fotka
+img: people/bara-jobova-orez.jpg # zakomentuj radek dokud není fotka
 heroImg: praha-5.jpg
 mail:
   #- barbora.jobova@pirati.cz
