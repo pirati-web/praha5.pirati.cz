@@ -8,7 +8,7 @@ category:
   - priznivci
 description: 
 profession: 
-img: people/radek.sobotka.jpg
+img: people/radek-sobotka.jpg
 heroImg: praha-5.jpg
 mail:
   #- barbora.jobova@pirati.cz
