@@ -16,7 +16,7 @@ heroImg: praha-5.jpg
 mail:
   - adam.rut@pirati.cz
 profiles:
-  facebook: https://www.facebook.com/adam.rut1   # pokud nema, staci smazat tuto radku
+  # facebook: https://www.facebook.com/adam.rut1   # pokud nema, staci smazat tuto radku
 
 ---
 
