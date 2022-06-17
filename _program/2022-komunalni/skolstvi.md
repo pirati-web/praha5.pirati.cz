@@ -6,7 +6,7 @@ uid: skolstvi
 order: 1
 garant: daniel.mazur
 redmine: 23492
-img: program/program2022-nahledy/skolstvi.png
+img: program/program2022-nahledy/skolstvi-program.png
 intro: >
   Sázíme na tvořivost a svobodné myšlení. Proto podpoříme školy, aby vytvářely přátelské a inspirující prostředí, kde můžou děti a studenti naplno rozvíjet nejen svůj potenciál, ale také se učit spolupracovat v týmu.
 ---
