@@ -58,59 +58,23 @@ tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete v
 # 11.
   - name: Jiří Krátký jr.
 # 12.
-  - uid: jaromir.beranek
-    age: 36
-    profession: předseda Výboru pro IT a Smart City ZHMP a finanční manažer
-    partyUid: pirati
+  - name: Jiří Krátký jr.
 # 13.
-  - uid: david.bodecek
-    age: 42
-    profession: předseda kontrolního výboru MČ Praha 1 a pedagog
-    city: Praha 1
-    partyUid: pirati
+  - name: Jiří Krátký jr.
 # 14.
-  - uid: jan.hora
-    age: 38
-    profession: zastupitel MČ Praha 4 a informatik
-    city: Praha 4
-    party: člen Pirátské strany
-    partyUid: pirati
+  - name: Jiří Krátký jr.
 # 15.
-  - uid: eva.horakova
-    age: 42
-    profession: předsedkyně Výboru pro sociální politiku ZHMP a medicínská konzultantka
-    city: Praha 5
-    partyUid: pirati
+  - name: Jiří Krátký jr.
 # 16.
-  - uid: mikulas.ferjencik
-    age: 35
-    profession: asistent poslance a bývalý poslanec
-    city: Praha 10
-    partyUid: pirati
+  - name: Jiří Krátký jr.
 # 17.
-  - uid: tomas.murnak
-    age: 42
-    profession: předseda výboru pro legislativu ZHMP
-    city: Praha 13
-    partyUid: pirati
+  - name: Jiří Krátký jr.
 # 18.
-  - uid: zuzana.ujhelyiova
-    age: 39
-    profession: zastupitelka MČ Praha 11
-    city: Praha 11
-    partyUid: pirati
+  - name: Jiří Krátký jr.
 # 19.
-  - uid: ondrej.vojta
-    age: 22
-    profession: marketingový specialista a dobrovolný hasič
-    city: Praha – Petrovice
-    partyUid: pirati    
+  - name: Jiří Krátký jr. 
 # 20.
-  - uid: jana.kabelova
-    age: 63
-    profession: stavební projektantka a rozpočtářka
-    city: Praha 6
-    partyUid: pirati
+  - name: Jiří Krátký jr.
 # 21.
   - uid: zuzana.bohmova
     age: 32
