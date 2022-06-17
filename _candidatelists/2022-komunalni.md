@@ -7,13 +7,12 @@ leader:
   age: 61
   profession: předseda Spolku na ochranu Barrandova
   city: Praha 5
-  partyUid: pirati
+  partyUid: bezpp
 head:
 # 2.
-  - uid: jana.komrskova
-    age: 44
-    profession: 1. místostarostka MČ Praha 10
-    city: Praha 10
+  - uid: stepan.rattay
+    age: 45
+    profession: předseda Kontrolního výboru ZMČ Praha 5
     partyUid: pirati
 # 3.
   - uid: adam.zabransky
