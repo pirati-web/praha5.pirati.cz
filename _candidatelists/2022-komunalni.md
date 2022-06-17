@@ -58,23 +58,23 @@ tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete v
 # 11.
   - name: Jiří Krátký jr.
 # 12.
-  - name: Jiří Krátký jr.
+  - name: Lenka Sobotková
 # 13.
-  - name: Jiří Krátký jr.
+  - name: Radek Sobotka
 # 14.
-  - name: Jiří Krátký jr.
+  - name: Jaromíra Smazalová
 # 15.
-  - name: Jiří Krátký jr.
+  - name: Kateřina Studničková
 # 16.
-  - name: Jiří Krátký jr.
+  - name: Michal Kluka
 # 17.
-  - name: Jiří Krátký jr.
+  - name: Michaela Beránková
 # 18.
-  - name: Jiří Krátký jr.
+  - name: Michal Jikeš
 # 19.
-  - name: Jiří Krátký jr. 
+  - name: Petr Fridrich
 # 20.
-  - name: Jiří Krátký jr.
+  - name: Petr Schmied
 
 
 note: 
