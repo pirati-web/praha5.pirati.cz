@@ -15,8 +15,13 @@ main:
     name: Aktuality
   - link: /lide/
     name: Lidé
-  - link: /program/
-    name: Program    
+  - name: Volby
+    submenu:
+    - name: Komunální volby 2022
+      link: /program/
+    - name: Komunální volby 2018
+      link: /program/
+        
   - link: /kontakt/
     name: Kontakt
 
