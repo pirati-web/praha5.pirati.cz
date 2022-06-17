@@ -3,8 +3,8 @@ title: Digitalizace ve službě lidem
 campaignCategoryUid: 2022-komunalni
 campaignGroupUid: volby-2022
 uid: digitalizace
-order: 4
-garant: adam.rut
+order: 5
+garant: daniel.mazur
 img: program/program2022-nahledy/digitalizace.png
 intro: >
   
