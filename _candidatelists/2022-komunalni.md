@@ -53,6 +53,8 @@ head:
     age: 40
     profession: architektka
     partyUid: pirati
+    
+tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete vynechat  # věk se uvádí k poslednímu dni voleb
 # 11.
   - uid: gabriela.lnenickova
     age: 42
@@ -88,8 +90,6 @@ head:
     profession: asistent poslance a bývalý poslanec
     city: Praha 10
     partyUid: pirati
-
-tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete vynechat  # věk se uvádí k poslednímu dni voleb
 # 17.
   - uid: tomas.murnak
     age: 42
