@@ -1,5 +1,5 @@
 ---
-title: Životní prostředí
+title: Sociální a zdravotní témata 
 campaignCategoryUid: 2022-komunalni
 campaignGroupUid: volby-2022
 uid: socialni-zdravotni
