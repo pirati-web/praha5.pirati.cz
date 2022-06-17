@@ -34,24 +34,24 @@ head:
     profession: manažerka reklamy a PR
     partyUid: pirati
 # 7.
-  - uid: eva.tylova
-    age: 62
-    profession: místostarostka MČ Praha 12 a ekoložka
-    partyUid: bezpp
+  - uid: adam.rut
+    age: 36
+    profession: transparentní fungování úřadu i městských společností
+    partyUid: pirati
 # 8.
-  - uid: bara.soukupova
-    age: 33
-    profession: specialistka na eGovernment
+  - uid: eva.horakova
+    age: 41
+    profession: předsedkyně výboru pro sociální politiku ZHMP, zastupitelka hlavního města Prahy
     partyUid: pirati
 # 9.
-  - uid: jiri.bruzek
-    age: 45
-    profession: radní MČ Praha 12 a konzultant
+  - uid: daniel.mazur
+    age: 44
+    profession: vědecký pracovník, manažer výzkumných projektů
     partyUid: pirati
 # 10.
-  - uid: zuzana.freitas
-    age: 53
-    profession: náměstkyně ministra práce a sociálních věcí ČR
+  - uid: barbora.jobova
+    age: 40
+    profession: architektka
     partyUid: pirati
 # 11.
   - uid: gabriela.lnenickova
