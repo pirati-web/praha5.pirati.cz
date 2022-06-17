@@ -1,5 +1,5 @@
 ---
-title: Moderní společnost začíná v moderních školách
+title: Vzdělávání a školství
 campaignCategoryUid: 2022-komunalni
 campaignGroupUid: volby-2022
 uid: skolstvi
