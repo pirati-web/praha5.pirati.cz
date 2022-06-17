@@ -1,5 +1,5 @@
 ---
-title: Kandidáti do Zastupitelstva. hl. města Prahy
+title: Kandidáti do Zastupitelstva ZMČ Praha 5
 uid: 2022-komunalni
 # number: 4
 leader:
