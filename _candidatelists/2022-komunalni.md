@@ -56,10 +56,7 @@ head:
     
 tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete vynechat  # věk se uvádí k poslednímu dni voleb
 # 11.
-  - uid: gabriela.lnenickova
-    age: 42
-    profession: radní MČ Praha-Suchdol, projektová manažerka a šachová mistryně
-    partyUid: pirati
+  - name: Jiří Krátký jr.
 # 12.
   - uid: jaromir.beranek
     age: 36
