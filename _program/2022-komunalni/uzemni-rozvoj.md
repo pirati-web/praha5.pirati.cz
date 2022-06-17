@@ -2,8 +2,8 @@
 title: Územní rozvoj a výstavba
 campaignCategoryUid: 2022-komunalni
 campaignGroupUid: volby-2022
-uid: skolstvi
-order: 1
+uid: uzemni-rozvoj
+order: 2
 garant: milan.kryl
 img: program/program2022-nahledy/uzemni-rozvoj.png
 intro: >
