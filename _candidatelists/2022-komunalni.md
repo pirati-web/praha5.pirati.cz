@@ -11,7 +11,7 @@ head:
 # 2.
   - uid: stepan.rattay
     age: 45
-    profession: předseda Kontrolního výboru ZMČ Praha 5
+    profession: ekonom, předseda Kontrolního výboru ZMČ Praha 5
     partyUid: pirati
 # 3.
   - uid: karel.bauer
@@ -52,7 +52,7 @@ head:
   - uid: barbora.jobova
     age: 40
     profession: architektka
-    partyUid: pirati
+    partyUid: bezpp
     
 tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete vynechat  # věk se uvádí k poslednímu dni voleb
 # 11.
