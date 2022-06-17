@@ -5,7 +5,7 @@ campaignGroupUid: volby-2022
 uid: skolstvi
 order: 1
 garant: filip.karel
-img: program/program2022-nahledy/skolstvi-program.png
+img: program/program2022-nahledy/skolstvi.png
 intro: >
   Zajištění dostatečného počtu míst v mateřských a základních školách bude naší prioritou. Najdeme zdroje financování na navyšování kapacit ZŠ (např. stavba nových škol na Smíchově a v Košířích) i na vyřešení akutního nedostatku míst v MŠ na Barrandově a na Smíchově. Budeme usilovat o to, aby obě nově budované základní školy (Smíchov City, Košíře – Na Výši) byly od samého začátku koncipované jako moderní vzdělávací instituce. Hlavní principy, které budeme prosazovat budou respektující přístup, komunitní charakter, pozitivní motivace a radost z učení a vzdělávání pro 21. století. Budeme dbát o zvyšování kvality vzdělávání ve všech školách a školkách a podporovat vzájemnou komunikaci města, ředitelů, pedagogů, rodičů i dětí. Každá škola si musí najít svou jedinečnou cestu a vědět v čem bude vynikat. Budeme podporovat další digitalizaci škol s cílem především ulevit školám od administrativy.
 
