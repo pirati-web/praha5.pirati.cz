@@ -1,12 +1,12 @@
 ---
-title: Kandidáti do Zastupitelstva. hl. města Prahy
+title: Kandidáti do Zastupitelstva MČ Praha 5
 uid: 2022-komunalni
 # number: 16
 leader:
-  uid: zdenek.hrib
-  age: 41
-  profession: primátor hlavního města Prahy
-  city: Praha 11
+  uid: milan.kryl
+  age: 61
+  profession: předseda Spolku na ochranu Barrandova
+  city: Praha 5
   partyUid: pirati
 head:
 # 2.
