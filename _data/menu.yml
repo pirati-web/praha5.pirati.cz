@@ -18,7 +18,7 @@ main:
   - name: Volby
     submenu:
     - name: Komunální volby 2022
-      link: /program/
+      link: /volby/2022-komunalni.html
     - name: Komunální volby 2018
       link: /program/
         
