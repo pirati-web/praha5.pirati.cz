@@ -10,7 +10,7 @@ profession:
 img: people/filip-karel.jpg
 heroImg: praha-5.jpg
 mail:
-  - filip@karlovi.cz
+  - filip.karel@pirati.cz
 profiles:
   #fb: 
 
