@@ -13,7 +13,7 @@ profession: ekonom, majitel účetní firmy
 img: people/karel-bauer.png # zakomentuj radek dokud není fotka
 heroImg: praha-5.jpg
 mail:
-  - bauer.karel@seznam.cz
+  - karel.bauer@pirati.cz
 profiles:
 
 ---
