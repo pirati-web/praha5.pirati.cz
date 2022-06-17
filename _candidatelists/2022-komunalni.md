@@ -6,7 +6,6 @@ leader:
   uid: milan.kryl
   age: 61
   profession: předseda Spolku na ochranu Barrandova
-  city: Praha 5
   partyUid: bezpp
 head:
 # 2.
@@ -15,64 +14,54 @@ head:
     profession: předseda Kontrolního výboru ZMČ Praha 5
     partyUid: pirati
 # 3.
-  - uid: adam.zabransky
-    age: 28
-    profession: radní hlavního města Prahy pro bydlení a transparentnost
-    city: Praha 10
+  - uid: karel.bauer
+    age: 60
+    profession: ekonom, majitel účetní firmy
     partyUid: pirati
 # 4.
-  - uid: magdalena.valdmanova
-    age: 41
-    profession: zastupitelka MČ Praha 2 a manažerka
-    city: Praha 2
+  - uid: jiri.kratky
+    age: 58
+    profession: správa budov a majetku
     partyUid: pirati
 # 5.
-  - uid: daniel.mazur
-    age: 44
-    profession: projektový manažer v oblasti vědy, výzkumu, vzdělávání a inovací
-    city: Praha 5
+  - uid: filip.karel
+    age: 41
+    profession: projektový manažer v oblasti školství
     partyUid: pirati
 # 6.
-  - uid: viktor.mahrik
-    age: 40
-    profession: předseda výboru pro správu majetku ZHMP a specialista výzkumů
-    city: Praha 6
+  - uid: linda.neubergova
+    age: 44
+    profession: manažerka reklamy a PR
     partyUid: pirati
 # 7.
   - uid: eva.tylova
     age: 62
     profession: místostarostka MČ Praha 12 a ekoložka
-    city: Praha 12
     partyUid: bezpp
 # 8.
   - uid: bara.soukupova
     age: 33
     profession: specialistka na eGovernment
-    city: Praha 11
     partyUid: pirati
 # 9.
   - uid: jiri.bruzek
     age: 45
     profession: radní MČ Praha 12 a konzultant
-    city: Praha 12
     partyUid: pirati
 # 10.
   - uid: zuzana.freitas
     age: 53
     profession: náměstkyně ministra práce a sociálních věcí ČR
-    city: Praha 10
     partyUid: pirati
 # 11.
   - uid: gabriela.lnenickova
     age: 42
     profession: radní MČ Praha-Suchdol, projektová manažerka a šachová mistryně
-    city: Praha–Suchdol
     partyUid: pirati
 # 12.
   - uid: jaromir.beranek
     age: 36
     profession: předseda Výboru pro IT a Smart City ZHMP a finanční manažer
-    city: Praha 6
     partyUid: pirati
 # 13.
   - uid: david.bodecek
