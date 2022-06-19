@@ -21,7 +21,7 @@ head:
 # 4.
   - uid: jiri.kratky
     age: 58
-    profession: správce nemovistostí a filmový produkční
+    profession: správce nemovitostí a filmový produkční
     partyUid: pirati
 # 5.
   - uid: filip.karel
