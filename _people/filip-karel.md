@@ -7,7 +7,7 @@ category:
 ordclenove: 3
 description: Člen místního sdružení Piráti Praha 5
 profession:  
-img: people/filip-karel.jpg
+img: people/filip-orez.jpg
 heroImg: praha-5.jpg
 mail:
   - filip.karel@pirati.cz
