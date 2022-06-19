@@ -4,7 +4,7 @@ campaignCategoryUid: 2022-komunalni
 campaignGroupUid: volby-2022
 uid: verejny-prostor.md
 order: 7
-garant: linda.neubergova
+garant: stepan.rattay
 img: program/program2022-nahledy/prostredi.png
 intro: >
   Jednou z největších přidaných hodnot Prahy 5 je rozmanitost jejich čtvrtí. Smíchov, Košíře, Barrandov a Hlubočepy, Radlice, Jinonice, Motol, každá z nich má svá specifika a originalitu. Každá z těchto lokalit se chlubí veřejným prostorem, do kterých se jejich obyvatelé chodí odreagovat, setkávat se, uklidnit se, nebo vyrážejí za nákupy a sportovním vyžitím. Obrovský potenciál těchto míst, náměstí, parků a lesoparků, uliček a koutů není stále plně využit. Budeme tato místa citlivě rozvíjet a zapomenutá místa probudíme zpět k životu. Chceme na Praze 5 realizovat koncept krátkých vzdáleností. 15 minutovým městem se může stát i Praha 5.
