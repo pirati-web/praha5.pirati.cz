@@ -5,7 +5,7 @@ uid: 2022-komunalni
 leader:
   uid: milan.kryl
   age: 61
-  profession: předseda Spolku na ochranu Barrandova
+  profession: předseda Spolku na ochranu Barrandova a provozovatel komunitního webu www.Barrandov.org
   partyUid: bezpp
 head:
 # 2.
@@ -16,27 +16,27 @@ head:
 # 3.
   - uid: karel.bauer
     age: 60
-    profession: ekonom, majitel účetní firmy
+    profession: finanční a daňový poradce
     partyUid: pirati
 # 4.
   - uid: jiri.kratky
     age: 58
-    profession: správa budov a majetku
+    profession: správce nemovistostí a filmový produkční
     partyUid: pirati
 # 5.
   - uid: filip.karel
     age: 41
-    profession: projektový manažer v oblasti školství
+    profession: projektový manažer ve školství
     partyUid: pirati
 # 6.
   - uid: linda.neubergova
     age: 44
-    profession: manažerka reklamy a PR
+    profession: projektová manažerka v marketingu
     partyUid: pirati
 # 7.
   - uid: adam.rut
     age: 36
-    profession: transparentní fungování úřadu i městských společností
+    profession: právník a analytik pro oblast veřejné správy
     partyUid: pirati
 # 8.
   - uid: eva.horakova
