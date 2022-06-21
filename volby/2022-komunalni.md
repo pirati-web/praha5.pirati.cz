@@ -8,12 +8,11 @@ customizeHeader: true
 ---
 
 {% capture mainContent %}
-  <h1 class="head-alt-lg md:head-alt-xl text-center">Komunální volby 2022</h1>
+  <h1 class="head-alt-lg md:head-alt-xl text-center">Máme odvahu řídit Prahu 5 správně</h1>
 {% endcapture %}
 
 {% capture subContent %}
-  <h2 class="head-xs md:head-base mt-2 text-center"><strong>Máme odvahu řídit Prahu 5 správně</strong></h2>
-  <h3 class="head-xs md:head-base mt-2 text-center"><strong>Přijďte k volbám - 23.-24.9.2022</strong></h3>
+  <h2 class="head-xs md:head-base mt-2 text-center"><strong>Přijďte k volbám: 23.-24.9.2022!</strong></h2>
 {% endcapture %}
 
 {% assign candidates = site.candidatelists | where: "uid", page.candidateListUid | first %}
