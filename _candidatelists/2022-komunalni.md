@@ -51,7 +51,7 @@ head:
 # 10.
   - uid: barbora.jobova
     age: 40
-    profession: architektka
+    profession: architekta a urbanistka, zakládající členka občanské iniciativy Košířská Cibulačka
     partyUid: bezpp
     
 tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete vynechat  # věk se uvádí k poslednímu dni voleb
