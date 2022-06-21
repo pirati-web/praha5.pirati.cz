@@ -13,6 +13,7 @@ customizeHeader: true
 
 {% capture subContent %}
   <h2 class="head-xs md:head-base mt-2 text-center"><strong>Máme odvahu řídit Prahu 5 správně</strong></h2>
+  <h3 class="head-xs md:head-base mt-2 text-center"><strong>Přijďte k volbám - 23.-24.9.2022</strong></h3>
 {% endcapture %}
 
 {% assign candidates = site.candidatelists | where: "uid", page.candidateListUid | first %}
