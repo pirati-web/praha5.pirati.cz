@@ -9,7 +9,7 @@ ordclenove: 10
 ordZas: 2
 ordpms: 2
 description: 1. místopředseda místního sdružení Piráti Praha 5  # zobrazuje se v lide
-profession: ekonom, majitel účetní firmy
+profession: účetní a daňový poradce
 img: people/karel-bauer.png # zakomentuj radek dokud není fotka
 heroImg: praha-5.jpg
 mail:
