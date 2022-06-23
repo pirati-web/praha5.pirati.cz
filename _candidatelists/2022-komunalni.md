@@ -16,7 +16,7 @@ head:
 # 3.
   - uid: karel.bauer
     age: 60
-    profession: finanční a daňový poradce
+    profession: účetní a daňový poradce
     partyUid: pirati
 # 4.
   - uid: jiri.kratky
