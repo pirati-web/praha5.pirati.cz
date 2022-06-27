@@ -24,4 +24,4 @@ Milan Kryl
 zastupitel MČ Praha 5 za Piráty
 
 
-P.S.: Protože strukturální plán není dostupný na webu radnice, rozhodli jsme se jej umístit na web Pirátské strany – Prahy 5, abyste se s nimi mohli seznámit: **[Strukturální plán MČ Praha 5](https://praha5.pirati.cz/assets/5_Strukturalni_plan.zip)**
+P.S.: Protože strukturální plán není dostupný na webu radnice, rozhodli jsme se jej umístit na web Pirátské strany – Prahy 5, abyste se s nimi mohli seznámit: **[Strukturální plán MČ Praha 5](https://drive.google.com/file/d/1r4zOtJrV5muM8-Gh6M478b0H7kCqFlgS/view?usp=sharing)**
