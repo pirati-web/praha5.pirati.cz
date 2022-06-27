@@ -21,4 +21,4 @@ Až budete číst předvolební hesla o otevřenosti radnice a veřejné kontrol
 **Milan Kryl, zastupitel MČ Praha 5 za Piráty**
 
 
-P.S.: Protože strukturální plán není dostupný na webu radnice, rozhodli jsme se jej umístit na web Pirátské strany – Prahy 5, abyste se s nimi mohli seznámit: **[Strukturální plán MČ Praha 5](https://drive.google.com/file/d/1r4zOtJrV5muM8-Gh6M478b0H7kCqFlgS/view?usp=sharing)**
+P.S.: Protože strukturální plán není dostupný na webu radnice, rozhodli jsme se jej umístit na web Pirátské strany – Prahy 5, abyste se s nimi mohli seznámit: **[Strukturální plán MČ Praha 5 ve formátu pdf](https://drive.google.com/file/d/1XdJ346rRyggpJPclUGk1POv2EV3Gkjpw/view?usp=sharing)**
