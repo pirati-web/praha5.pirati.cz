@@ -8,9 +8,10 @@ authorId: milan.kryl
 image: posts/triangl.png
 ---
 
-V úterý 28.6. bude Zastupitelstvo MČ Praha 5 projednávat zásadní dokumenty pro svůj rozvoj. Jedná se o  Strukturální plán MČ Praha 5, Připomínky MČ Praha 5 k návrhu Metropolitního plánu a Zásady pro spolupráci s investory za účelem rozvoje veřejné infrastruktury městské části Praha 5. Všechny tyto dokumenty jsou nástroji na základě kterých MČ Praha 5 bude moci ovlivňovat plošnou výstavbu a svůj rozvoj nejméně do roku 2030.
+**V úterý 28.6. bude Zastupitelstvo MČ Praha 5 projednávat zásadní dokumenty pro svůj rozvoj**. Jedná se o  **Strukturální plán MČ Praha 5, Připomínky MČ Praha 5 k návrhu Metropolitního plánu a Zásady pro spolupráci s investory** za účelem rozvoje veřejné infrastruktury městské části Praha 5. Všechny tyto dokumenty jsou nástroji na základě kterých MČ Praha 5 bude moci ovlivňovat plošnou výstavbu a svůj rozvoj nejméně do roku 2030.
 
-Na materiálech spolupracovalo jen několik aktivních zastupitelů koalice i opozice a  jejich projednání ve výborech proběhlo bez většího zapojení zastupitelů a veřejnosti do diskuze. Zástupci veřejnosti, spolky a společenské organizace nebyli k diskuzi a připomínkování přizvány, osloveny či informovány. Pokud byste název kteréhokoliv z těchto tří významných dokumentů vložili do okénka pro vyhledávání na webu MČ Praha 5, vyhledávač vám o nich nenajde žádnou informaci (jen starší verzi připomínek a zásad z roku 2018). 
+**Na materiálech spolupracovalo jen několik aktivních zastupitelů koalice i opozice** a  jejich projednání ve výborech proběhlo bez většího zapojení zastupitelů a veřejnosti do diskuze. **Zástupci veřejnosti, spolky a společenské organizace nebyli k diskuzi a připomínkování přizvány**, osloveny či informovány.
+#Pokud byste název kteréhokoliv z těchto tří významných dokumentů vložili do okénka pro vyhledávání na webu MČ Praha 5, vyhledávač vám o nich nenajde žádnou informaci (jen starší verzi připomínek a zásad z roku 2018). 
 
 Zatímco informace o projednávání připomínek k Metropolitnímu plánu, byla Magistrátem široce publikována a MČ Praha 5 své připomínky a odkaz na veřejné projednání na svůj web také umístila, zmínku o obou dalších dokumentech nedohledáte.
 
@@ -23,6 +24,4 @@ Milan Kryl
 zastupitel MČ Praha 5 za Piráty
 
 
-P.S.: Protože strukturální plán není dostupný na webu radnice, rozhodli jsme se jej umístit na web Pirátské strany – Prahy 5, abyste se s nimi mohli seznámit.
-
-*[Strukturální plán MČ Praha 5](https://praha5.pirati.cz/assets/5_Strukturalni_plan.zip)*
+P.S.: Protože strukturální plán není dostupný na webu radnice, rozhodli jsme se jej umístit na web Pirátské strany – Prahy 5, abyste se s nimi mohli seznámit: **[Strukturální plán MČ Praha 5](https://praha5.pirati.cz/assets/5_Strukturalni_plan.zip)**
