@@ -11,9 +11,6 @@ intro: >
   
 ---
 
-Budeme klást důraz na budování občanské vybavenosti a veřejné infrastruktury. Tím vrátíme rovnováhu funkcí města do územního plánování.  Velké investory zapojíme do výstavby občanské vybavenosti pomocí územních dohod, které budou podmínkou pro komerční výstavbu. Aktivní účastí ve správních řízeních budeme vymáhat respektování pravidel. Doplněním chybějící občanské vybavenosti poklesne potřeba za ní dojíždět do jiných částí města, což se příznivě projeví v intenzitě dopravy.
-
-
 ## Ohlídáme rovnováhu funkcí města, stojíme za občany, ne za developery 
 **Město krátkých vzdáleností.** V základních dokumentech MČ P5 (Strategický plán rozvoje Prahy 5, Strukturální plán MČ P5) budeme prosazovat priority fungování všech oblastí života. Město krátkých vzdáleností =  patnáctiminutové město sníží potřebu rozvážení dětí do škol a kroužků a omezí popojíždění aut.
 **Rovnováha funkcí města je prioritou.** V dokumentech HMP (Územní plán, Metropolitní plán) budeme hájit plochy pro občanskou vybavenost, školství, sport a zeleň před změnami pro komerční výstavbu. Nebude tak docházet k mohutné plošné výstavbě bytů bez odpovídající veřejné vybavenosti. 
