@@ -105,6 +105,56 @@ tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete v
     age: 27
     profession: předsedkyně spolku Diky, že můžem, z.s., asistentka radního MHMP
     partyUid: bezpp
+# 21.
+  - name: Jan Ducháč
+    age: 58
+    profession: finanční ředitel
+    partyUid: bezpp    
+# 22.
+  - name: Čestmír Stárek
+    age: 40
+    profession: referent
+    partyUid: bezpp
+# 23.
+  - name: Petr Křičenský
+    age: 55
+    profession: skladník
+    partyUid: pirati
+# 24.
+  - name: Lukáš Čermák
+    age: 29
+    profession: OSVČ
+    partyUid: bezpp
+# 25.
+  - name: Přemysl Juřička
+    age: 60
+    profession: zaměstnanec v pojišťovnictví
+    partyUid: bezpp
+# 26.
+  - name: Ester Lomová
+    age: 39
+    profession: metodik
+    partyUid: bezpp
+# 27.
+  - name: Karel Valenta
+    age: 42
+    profession: projektant v oblasti energetiky
+    partyUid: bezpp
+# 28.
+  - name: Miloslav Anděl
+    age: 59
+    profession: stavební dělník
+    partyUid: bezpp
+# 29.
+  - name: Pavel Hájek
+    age: 58
+    profession: hudebník
+    partyUid: bezpp
+# 30.
+  - name: Jan Bauer
+    age: 27
+    profession: technik klimatizací
+    partyUid: bezpp
 
     
 note: 
