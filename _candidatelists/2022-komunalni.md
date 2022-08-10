@@ -205,6 +205,11 @@ tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete v
     age: 72
     profession: trenérka 1. třídy, krasobruslení
     partyUid: bezpp
+# 41.
+  - name: Helena Svobodová
+    age: 80
+    profession: překladatelka
+    partyUid: bezpp    
 
     
 note: 
