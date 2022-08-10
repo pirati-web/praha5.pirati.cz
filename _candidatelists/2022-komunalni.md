@@ -186,7 +186,7 @@ tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete v
     profession: vedoucí provozu
     partyUid: bezpp
 # 37.
-  - name:Karolína Wirthová
+  - name: Karolína Wirthová
     age: 57
     profession: oční lékařka
     partyUid: bezpp
