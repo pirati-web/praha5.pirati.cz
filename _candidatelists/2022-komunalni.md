@@ -180,6 +180,31 @@ tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete v
     age: 41
     profession: rešeršista
     partyUid: bezpp
+# 36.
+  - name: Tomáš Jungmann
+    age: 40
+    profession: vedoucí provozu
+    partyUid: bezpp
+# 37.
+  - name:Karolína Wirthová
+    age: 57
+    profession: oční lékařka
+    partyUid: bezpp
+# 38.
+  - name: Ondřej Pavlovič
+    age: 34
+    profession: lektor, fyzioterapeut
+    partyUid: bezpp
+# 39.
+  - name: Petr Žaba
+    age: 57
+    profession: stavební inženýr
+    partyUid: bezpp
+# 40.
+  - name: Laura Plicková
+    age: 72
+    profession: trenérka 1. třídy, krasobruslení
+    partyUid: bezpp
 
     
 note: 
