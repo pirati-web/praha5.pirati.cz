@@ -57,26 +57,56 @@ head:
 tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete vynechat  # věk se uvádí k poslednímu dni voleb
 # 11.
   - name: Jiří Krátký jr.
+    age: 27
+    profession: koordinátor filmové výpravy
+    partyUid: bezpp
 # 12.
   - name: Lenka Sobotková
+    age: 36
+    profession: online marketing a ecomerce
+    partyUid: bezpp
 # 13.
   - name: Radek Sobotka
+    age: 37
+    profession: projektový manager
+    partyUid: bezpp
 # 14.
   - name: Jaromíra Smazalová
+    age: 74
+    profession: vysokoškolský pedagog
+    partyUid: pirati
 # 15.
   - name: Kateřina Studničková
+    age: 32
+    profession: odhadce
+    partyUid: bezpp
 # 16.
-  - name: Michal Kluka
-# 17.
   - name: Michaela Beránková
+    age: 31
+    profession: asistentka MHMP
+    partyUid: pirati
+# 17.
+  - name: Michal Kluka
+    age: 50
+    profession: programátor
+    partyUid: pirati
 # 18.
   - name: Michal Jikeš
+    age: 32
+    profession: vedoucí komunitní dílny
+    partyUid: pirati
 # 19.
   - name: Petr Fridrich
+    age: 51
+    profession: analytik
+    partyUid: pirati
+
 # 20.
-  - name: Petr Schmied
-
-
+  - name: Barbora Stárková
+    age: 27
+    profession: předsedkyně spolku Diky, že můžem, z.s., asistentka radního MHMP
+    partyUid: bezpp
+    
 note: 
 # poznámka pod kandidátku
 
