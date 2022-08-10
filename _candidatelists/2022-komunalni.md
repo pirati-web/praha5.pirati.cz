@@ -109,128 +109,107 @@ tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete v
   - name: Jan Ducháč
     age: 58
     profession: finanční ředitel
-    partyUid: bezpp
-    
+    partyUid: bezpp    
 # 22.
   - name: Čestmír Stárek
     age: 40
     profession: referent
     partyUid: bezpp
-    
 # 23.
   - name: Petr Křičenský
     age: 55
     profession: skladník
     partyUid: pirati
-    
 # 24.
   - name: Lukáš Čermák
     age: 29
     profession: OSVČ
     partyUid: bezpp
-    
 # 25.
   - name: Přemysl Juřička
     age: 60
     profession: zaměstnanec v pojišťovnictví
     partyUid: bezpp
-    
 # 26.
   - name: Ester Lomová
     age: 39
     profession: metodik
     partyUid: bezpp
-    
 # 27.
   - name: Karel Valenta
     age: 42
     profession: projektant v oblasti energetiky
     partyUid: bezpp
-    
 # 28.
   - name: Miloslav Anděl
     age: 59
     profession: stavební dělník
     partyUid: bezpp
-    
 # 29.
   - name: Pavel Hájek
     age: 58
     profession: hudebník
     partyUid: bezpp
-    
 # 30.
   - name: Jan Bauer
     age: 27
     profession: technik klimatizací
     partyUid: bezpp
-    
 # 31.
   - name: Marie Jungmannová
     age: 65
     profession: překladatelka
     partyUid: bezpp
-    
 # 32.
   - name: Patrik Malios
     age: 35
     profession: projektový manager v IT, popularizátor vědy a technologií
     partyUid: bezpp
-    
 # 33.
   - name: Laurra Kubrychtová
     age: 42
     profession: účetní
     partyUid: bezpp
-    
 # 34.
   - name: Oskar Wirth
     age: 22
     profession: student
     partyUid: bezpp
-    
 # 35.
   - name: Ondřej Franta
     age: 41
     profession: rešeršista
     partyUid: bezpp
-    
 # 36.
   - name: Tomáš Jungmann
     age: 40
     profession: vedoucí provozu
     partyUid: bezpp
-    
 # 37.
   - name:Karolína Wirthová
     age: 57
     profession: oční lékařka
     partyUid: bezpp
-    
 # 38.
   - name: Ondřej Pavlovič
     age: 34
     profession: lektor, fyzioterapeut
     partyUid: bezpp
-    
 # 39.
   - name: Petr Žaba
     age: 57
     profession: stavební inženýr
     partyUid: bezpp
-    
 # 40.
   - name: Laura Plicková
     age: 72
     profession: trenérka 1. třídy, krasobruslení
     partyUid: bezpp
-    
 # 41.
   - name: Helena Svobodová
     age: 80
     profession: překladatelka
-    partyUid: bezpp
-    
+    partyUid: bezpp    
     
 note: 
 # poznámka pod kandidátku
