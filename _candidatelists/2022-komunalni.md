@@ -155,6 +155,31 @@ tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete v
     age: 27
     profession: technik klimatizací
     partyUid: bezpp
+# 31.
+  - name: Marie Jungmannová
+    age: 65
+    profession: překladatelka
+    partyUid: bezpp
+# 32.
+  - name: Patrik Malios
+    age: 35
+    profession: projektový manager v IT, popularizátor vědy a technologií
+    partyUid: bezpp
+# 33.
+  - name: Laurra Kubrychtová
+    age: 42
+    profession: účetní
+    partyUid: bezpp
+# 34.
+  - name: Oskar Wirth
+    age: 22
+    profession: student
+    partyUid: bezpp
+# 35.
+  - name: Ondřej Franta
+    age: 41
+    profession: rešeršista
+    partyUid: bezpp
 
     
 note: 
