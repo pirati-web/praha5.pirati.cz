@@ -5,7 +5,7 @@ title: „Sny se stanou skutečností jen s odvahou je vykonat“, říká lídr
 date: 2021-08-15
 author: Milan Kryl
 authorId: milan.kryl
-image: posts/milan-tram-andel1.jpg
+image: posts/milan-tram-andel.jpg
 ---
 
 **Je mi už přes 60 a pár životních úspěchů jsem prožil.** Od osminásobného mistra republiky a dlouholetého kapitána jachtařské reprezentace v době studií, přes ředitele holdingu a sektoru velké globální korporace až k zúročení nabytých znalostí a zkušeností pro úspěšné soukromé investování.  Dosáhl jsem více, než jsem si zpočátku troufal snít. Dospěl jsem k nezávislosti na výdělku a tím i  ke svobodě rozhodování.
@@ -14,7 +14,7 @@ image: posts/milan-tram-andel1.jpg
 
 **Pořád se učím a stále nepřestávám snít.** Do politiky jsem šel s ideou nastavení pravidel a možnosti veřejné kontroly tak, aby politika přestala být přitažlivá pro lidi, kteří v ní nechtějí sloužit, ale zbohatnout. V otevřenosti a veřejné kontrole mne zaujal program Pirátů, a proto jsem s nimi spojil síly.
 
-**Pracovní život jsem strávil v soukromém sektoru bez dotací a státních zakázek. Šokovalo mě zjištění, jak je státní a veřejný sektor neefektivní a nehospodárný.** Jako zastupitel opoziční strany jsem vždy hledal konstruktivní řešení přijatelná pro vládnoucí většinu. Koalice na radnici si totiž nastavila neúměrnou přesilu ve výborech. Když člověk stojí sám proti všem, nezbude mu, než ostatní přesvědčit. I přesto se mi podařilo prosadit řadu významných usnesení výborů i zastupitelstva. Nevadí mi, že ve finále koalice mé protinávrhy usnesení často v tichosti ukradla a předložila je jako  své vlastní. Důležitý je výsledek.
+**Pracovní život jsem strávil v soukromém sektoru bez dotací a státních zakázek. Šokovalo mě zjištění, jak je státní a veřejný sektor neefektivní a nehospodárný.** Jako zastupitel opoziční strany jsem vždy hledal konstruktivní řešení přijatelná pro vládnoucí většinu. Koalice na radnici si totiž nastavila neúměrnou přesilu ve výborech. Když člověk stojí sám proti všem, nezbude mu, než ostatní přesvědčit. I přesto se mi podařilo prosadit řadu významných usnesení výborů i zastupitelstva. Nevadí mi, že ve finále koalice mé protinávrhy usnesení často v tichosti ukradla a předložila je jako své vlastní. **Důležitý je výsledek.**
 
 - Inicioval jsem a prosadil nová pravidla pro regulaci staveb ve stabilizovaných územích.
 - Zabránil jsem nepromyšlené investici za stovky milionů do nemovitosti, pro kterou nebyl znám účel využití.
