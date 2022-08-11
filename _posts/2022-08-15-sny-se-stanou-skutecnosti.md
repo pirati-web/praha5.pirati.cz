@@ -5,7 +5,7 @@ title: „Sny se stanou skutečností jen s odvahou je vykonat“, říká lídr
 date: 2021-08-15
 author: Milan Kryl
 authorId: milan.kryl
-image: posts/milan-tram-andel.jpg
+image: posts/milan-tram-andel1.jpg
 ---
 
 **Je mi už přes 60 a pár životních úspěchů jsem prožil.** Od osminásobného mistra republiky a dlouholetého kapitána jachtařské reprezentace v době studií, přes ředitele holdingu a sektoru velké globální korporace až k zúročení nabytých znalostí a zkušeností pro úspěšné soukromé investování.  Dosáhl jsem více, než jsem si zpočátku troufal snít. Dospěl jsem k nezávislosti na výdělku a tím i  ke svobodě rozhodování.
