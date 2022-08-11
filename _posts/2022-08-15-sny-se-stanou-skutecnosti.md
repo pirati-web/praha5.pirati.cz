@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: Lídr Pirátů pro Prahu 5 – Milan Kryl: „Sny se stanou skutečností jen s odvahou je vykonat“
+title: „Sny se stanou skutečností jen s odvahou je vykonat“, říká lídr Pirátů pro Prahu 5 
 date: 2021-08-15
 author: Milan Kryl
 authorId: milan.kryl
