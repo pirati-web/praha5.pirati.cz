@@ -52,7 +52,7 @@ Pracovní život jsem strávil v soukromém sektoru bez dotací a bez státních
 
 **Pochopil jsem, jak moc se politika liší od vrcholového sportu i od řízení firmy.** Sport je nejspravedlivější. Ve sportu nic neokecáte, a když neprojedete první cílem, žádní spříznění novináři nebudou psát, že jste ten nejlepší. Když budete špatně řídit firmu, můžete sice jako někteří politici utrácet hodně peněz za reklamu a vliv v médiích a problémy hasit dotacemi, ale hospodářské výsledky a propad hodnoty akcií vás stejně později doženou. V politice si někteří myslí, že nejdůležitější je jejich obraz v médiích a ten rozhoduje o úspěchu ve volbách. Na  tom druhém bohužel asi něco pravdy je.  Propojení politiků nebo jejich firem a sponzorů s médii oslabuje demokracii. O naší budoucnosti bude rozhodovat vyspělost voličů.
  
- **Přál bych si, aby se vyspělost voličů potvrdila a do vedení města zvolili tým lidí, jimž půjde výhradně o veřejné zájmy, a ne o politické kšefty. **
+ **Přál bych si, aby se vyspělost voličů potvrdila a do vedení města zvolili tým lidí, jimž půjde výhradně o veřejné zájmy, a ne o politické kšefty.**
   
 
 **Milan Kryl, zastupitel MČ Praha 5 za Piráty**
