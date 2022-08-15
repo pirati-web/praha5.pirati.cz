@@ -3,7 +3,7 @@ title: Vzdělávání a školství
 campaignCategoryUid: 2022-komunalni
 campaignGroupUid: volby-2022
 uid: skolstvi
-order: 1
+order: 5
 garant: filip.karel
 img: program/program2022-nahledy/skolstvi.png
 intro: >
