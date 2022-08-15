@@ -10,6 +10,7 @@ intro: >
   Podpoříme výstavbu záchytných parkovišť P+R na vnějším prstenci Prahy a provoz husté a kvalitní sítě MHD. Podpoříme další rozvoj nejkapacitnějšího druhu dopravy - kolejové, tj. výstavbu dalších tramvajových tratí i budování zastávek příměstské vlakové dopravy ve městě. Tím nabídneme nejen dojíždějícím řidičům příznivé varianty, které mohou převzít část zátěže automobilové dopravy a spolu se zefektivněním provozu zón placeného stání uvolnit více parkovacích  míst pro rezidenty v  bezprostřední blízkosti jejich bydliště. K prioritám i nadále budeme řadit maximální plynulost MHD a bezpečnost chodců pomocí dopravních opatření na velmi frekventovaných trasách.
 
 ---
+Spolugarantem tohoto programového bodu je [Štěpán Rattay](https://praha5.pirati.cz/lide/stepan-rattay/).
 
 ## Doprava rychlá a bezpečná
 
