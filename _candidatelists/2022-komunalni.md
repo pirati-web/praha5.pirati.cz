@@ -91,7 +91,7 @@ tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete v
     profession: programátor
     partyUid: pirati
 # 18.
-  - name: Michal Jikeš
+  - name: Michal Jokeš
     age: 32
     profession: vedoucí komunitní dílny
     partyUid: pirati
