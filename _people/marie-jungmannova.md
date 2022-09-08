@@ -8,7 +8,7 @@ category:
   - priznivci
 description: 
 profession: 
-img: people/marie.jungmannova.jpg
+img: people/marie-jungmannova.jpg
 heroImg: praha-5.jpg
 mail:
   #- barbora.jobova@pirati.cz
