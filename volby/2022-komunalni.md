@@ -12,8 +12,7 @@ customizeHeader: true
 {% endcapture %}
 
 {% capture subContent %}
-  <h2 class="head-xs md:head-base mt-2 text-center"><strong>Přijďte k volbám: 23.-24.9.2022!</strong></h2>
-  <h2 class="head-xs md:head-base mt-2 text-center"><strong>Naše kandidátní listina má číslo 8!</strong></h2>
+  <h2 class="head-xs md:head-base mt-2 text-center"><strong>Děkujeme za vaše hlasy ve volbách!</strong></h2>
 {% endcapture %}
 
 {% assign candidates = site.candidatelists | where: "uid", page.candidateListUid | first %}
