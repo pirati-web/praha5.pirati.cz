@@ -8,11 +8,7 @@ customizeHeader: true
 ---
 
 {% capture mainContent %}
-  <h1 class="head-alt-lg md:head-alt-xl text-center">Máme odvahu řídit Prahu 5 správně</h1>
-{% endcapture %}
-
-{% capture subContent %}
-  <h2 class="head-xs md:head-base mt-2 text-center"><strong>Děkujeme za vaše hlasy ve volbách!</strong></h2>
+  <h1 class="head-alt-lg md:head-alt-xl text-center">Děkujeme za vaše hlasy ve volbách!</h1>
 {% endcapture %}
 
 {% assign candidates = site.candidatelists | where: "uid", page.candidateListUid | first %}
