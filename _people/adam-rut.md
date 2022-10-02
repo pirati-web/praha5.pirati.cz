@@ -6,7 +6,6 @@ titles:
   after:
 category:
   - clenove
-  - zastupitele
 ordclenove: 3
 ordZas: 5
 description: Člen místního sdružení Piráti Praha 5 # zobrazuje se v lide
