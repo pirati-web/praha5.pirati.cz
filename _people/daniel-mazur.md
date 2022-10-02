@@ -6,7 +6,6 @@ titles:
   after: PhD.
 category:
   - clenove
-  - kontaktni_osoba
   - zastupitele
   - mhmp
 ordclenove: 3
