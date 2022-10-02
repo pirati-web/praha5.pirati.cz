@@ -7,7 +7,8 @@ titles:
 category:
   - clenove
   - kontaktni_osoba
-  - zastupitele  
+  - zastupitele
+  - mhmp
 ordclenove: 3
 ordZas: 1
 description: Pirátský zastupitel v ZMČ Praha 5 # zobrazuje se v lide
