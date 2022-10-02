@@ -4,6 +4,7 @@ name:     Filip Karel
 fullname: Filip Karel
 category:
   - clenove
+  - zastupitele
 ordclenove: 3
 description: Člen místního sdružení Piráti Praha 5
 profession:  
