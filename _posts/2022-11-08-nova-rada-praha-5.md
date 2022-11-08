@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: Piráti na Praze 5 odsouhlasili koaliční spolupráci s Prahou 5 sobě a SEN 21
+title: Zastupitelstvo MČ Praha 5 zvolilo novou radu, Piráti mají trojici radních
 date: 2022-11-08
 author: 
 authorId: 
