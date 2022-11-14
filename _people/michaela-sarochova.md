@@ -6,7 +6,7 @@ titles:
   after:
 category:
   - clenove
-description: 
+description: Členka místního sdružení Piráti Praha 5
 profession: 
 img: people/misa-sarochova.jpg
 heroImg: praha-5.jpg
