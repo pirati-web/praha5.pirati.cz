@@ -5,7 +5,7 @@ titles:
   before:
   after:
 category:
-  - clen
+  - clenove
 description: 
 profession: 
 img: people/misa-sarochova.jpg
