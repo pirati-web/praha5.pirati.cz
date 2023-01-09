@@ -41,5 +41,5 @@ Z těch dlouhodobějších cílů pak určitě podpoříme vznik a realizaci dal
 
 **Filip Karel**
 
-radní pro IT, otevřenou radnici a participacic
+radní pro IT, otevřenou radnici a participaci
 
