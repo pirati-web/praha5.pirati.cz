@@ -5,7 +5,7 @@ title: Jak z papírového úřadu na Praze 5 udělat digitální centrum dostupn
 date: 2023-01-09
 author: Filip Karel
 authorId: filip.karel
-image: posts/lepsi-IT-Praha5.jpeg
+image: posts/lepsi-IT-Praha5a.jpeg
 ---
 
 **Digitalizace veřejné správy a zlepšení IT služeb občanům** patří dlouhodobě k předním pirátským tématům. Proto jsme rádi využili příležitost, kterou nám daly podzimní komunální volby a ujali se této gesce v radě MČ Praha 5. Každý z nás by samozřejmě chtěl, aby všechny úřední dokumenty existovaly v „chytré“ digitální formě, aby dokumenty úřadem kolovaly digitálně a nikoliv ve formě papíru, aby se každý zájemce mohl snadno a rychle dostat k informacím, které ho zajímají, aby každý mohl maximum možného vyřídit jednoduše online.
