@@ -5,7 +5,7 @@ title: Praha 5 prodá své nadbytečné limuzíny
 date: 2023-02-16
 author: karel.bauer
 authorId: karel.bauer
-image: posts/auta-na-prodej-1.jpg
+image: posts/auta-na-prodej-2.jpg
 ---
 
 **Rada MČ Praha 5 schválila prodej dvou vozů Škoda Superb v majetku města, pro které dlouhodobě nebylo využití**. Jedná se o další z řady úsporných opatření, která průběžně činíme od nástupu do vedení radnice.
