@@ -7,7 +7,7 @@ title: "Participativní rozpočet – cesta k lepší Pětce "
 author: Filip Karel
 authorId: filip.karel
 # authorId:  uid nekoho z _people (nepovinné)
-image: posts/finance.jpg
+image: posts/paroz.jpg
 image: posts/paroz.jpg
 ---
 
