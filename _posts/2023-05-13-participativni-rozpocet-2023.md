@@ -7,7 +7,7 @@ title: "Participativní rozpočet – cesta k lepší Pětce "
 author: Filip Karel
 authorId: filip.karel
 # authorId:  uid nekoho z _people (nepovinné)
-image: 
+image: posts/paroz.jpeg
 ---
 
 Pro Piráty je participace, vedle transparentnosti a otevřenosti, jedním ze základních politických témat. Proto jsem rád, že jsme mohli pracovat na vyhlášení dalšího ročníku participativního rozpočtu „Zlepšuj Pětku“. Ten dává každému možnost na zkrášlení nebo zlepšení funkčnosti některé z lokalit. Nově mají možnost zlepšit prostředí svých škol i žáci základních škol z Prahy 5.
