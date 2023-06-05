@@ -1,5 +1,5 @@
 ---
-date: 2023-06-06
+date: 2023-06-05
 category: blog
 layout: post
 title: "Piráti uklízeli na Žvahově"
