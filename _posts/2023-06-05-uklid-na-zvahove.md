@@ -19,4 +19,5 @@ Na úpatí kamenitých svahů v porostu u zastávky se skrývalo překvapivé mn
 
 
 Za MS Pirátů Prahy 5
+
 **Marie Jungmannová**
