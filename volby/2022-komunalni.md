@@ -11,6 +11,8 @@ customizeHeader: true
   <h1 class="head-alt-lg md:head-alt-xl text-center">Děkujeme za vaše hlasy ve volbách!</h1>
 {% endcapture %}
 
+Koaliční smlouva pro období 2022 ke stažení zde.
+
 {% assign candidates = site.candidatelists | where: "uid", page.candidateListUid | first %}
 
 {% include elections-header.html img=page.img bgImg=page.heroBgImg mainContent=mainContent subContent=subContent candidateListNumber=candidates.number %}
