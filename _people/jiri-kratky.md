@@ -10,11 +10,11 @@ ordclenove: 3
 ordZas: 4
 ordpms: 4
 description: 3. místopředseda místního sdružení Pirátů na MČ Praha 5, člen zastupitelského klubu Pirátů v ZMČ.
-profession:  Ferda Mravenec, práce všeho druhu
+profession:  správce nemovitostí a filmový produkční
 img: people/jiri-kratky.png
 heroImg: praha-5.jpg
 mail:
-  #- jiri.kratky@pirati.cz
+  - jiri.kratky@pirati.cz
 profiles:
 
 

@@ -6,11 +6,10 @@ titles:
   after: PhD.
 category:
   - clenove
-  - kontaktni_osoba
-  - zastupitele  
+  - mhmp
 ordclenove: 3
 ordZas: 1
-description: Pirátský zastupitel v ZMČ Praha 5 # zobrazuje se v lide
+description: Pirátský zastupitel v hl. m. Praze # zobrazuje se v lide
 profession: Vysokoškolský pedagog, fyzik
 img: people/daniel-mazur.png # zakomentuj radek dokud není fotka
 heroImg: praha-5.jpg

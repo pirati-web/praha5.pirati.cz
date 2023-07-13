@@ -6,7 +6,6 @@ titles:
   after:
 category:
   - clenove
-  - zastupitele
 ordclenove: 3
 ordZas: 5
 description: Člen místního sdružení Piráti Praha 5 # zobrazuje se v lide
@@ -16,7 +15,7 @@ heroImg: praha-5.jpg
 mail:
   - adam.rut@pirati.cz
 profiles:
-  facebook: https://www.facebook.com/adam.rut1   # pokud nema, staci smazat tuto radku
+  # facebook: https://www.facebook.com/adam.rut1   # pokud nema, staci smazat tuto radku
 
 ---
 
