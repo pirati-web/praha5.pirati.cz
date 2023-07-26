@@ -12,7 +12,7 @@ contactPersons:
 
 Zajímá vás co Piráti dělají a jak? Ozvěte se [Danovi Mazurovi](/lide/daniel-mazur) nebo přijďte k nám na otevřenou schůzi. Pořádáme je obvykle první pondělí v měsíci v pražském pirátském centru (PiCe) na Praze 2 (Na Moráni), aktuální informace se objevuje [v tomto vlákně](https://forum.pirati.cz/viewtopic.php?f=923&t=40251) na pirátském fóru.
 
-Finanční dary na podporu našeho fungování můžete posílat na [dary](https://dary.pirati.cz/podpor-kraj/praha/adresne-dary-pro-ks-praha/?p=400105).
+Finanční dary na podporu našeho fungování můžete posílat na [dary](https://dary.pirati.cz/podpor-kraj/praha/adresne-dary-pro-ks-praha/?p=110105).
 Pokud chcete přispět na volební kampaň Pirátů na Praze 5, můžete dar poslat na transparentní účet č. 2001084292 / 2010. Nezapomeňte při tom uvést své kontaktní údaje<sup>\*</sup>, jen tak budeme smět váš příspěvek využít.
 
 *<sup>\*</sup>Odesláním příspěvku s osobními údaji uzavíráte s Pirátskou stranou darovací smlouvu a udělujete jí souhlas ke zpracování osobních údajů v souladu se zákonem č. 101/2000 Sb. o ochraně osobních údajů za účelem zpracování a přiznání daru a zasílání informací o Pirátské straně, a to i elektronickými prostředky. Vámi uvedená data budou podle zákona 424/1991 Sb. o sdružování v politických stranách a hnutích součástí výroční finanční zprávy politické strany (částka, jméno, příjmení a datum narození nebo název a identifikační číslo právnické osoby).*
